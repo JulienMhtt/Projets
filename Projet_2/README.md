@@ -1,12 +1,3 @@
-"""
-Titre du projet: Le nom de votre projet.
-Description: Une brève description du projet.
-Installation: Instructions sur la façon d'installer votre projet.
-Utilisation: Comment utiliser votre projet après l'installation.
-Contribution: Si vous souhaitez que d'autres contribuent à votre projet, expliquez comment ils peuvent le faire.
-Licence: Sous quelle licence votre projet est distribué.
-"""
-
 # Projet 2: Système de recommendation de films
 
 ## Description du projet:
@@ -29,6 +20,9 @@ C'est notre application utilisable par le client qui inclus la partie recommenda
 
 **presentation_projet2:** Fichier au format .key
 C'est notre présentation de fin de projet
+
+**presentation_projet2_pdf:** Fichier au format .pdf 
+La présentation qui peut être lu de tous
 
 ## Outils utilisés:
 **Languages:** Python
