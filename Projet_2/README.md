@@ -1,12 +1,3 @@
-"""
-Titre du projet: Le nom de votre projet.
-Description: Une brève description du projet.
-Installation: Instructions sur la façon d'installer votre projet.
-Utilisation: Comment utiliser votre projet après l'installation.
-Contribution: Si vous souhaitez que d'autres contribuent à votre projet, expliquez comment ils peuvent le faire.
-Licence: Sous quelle licence votre projet est distribué.
-"""
-
 # Projet 2: Système de recommendation de films
 
 ## Description du projet:
@@ -27,8 +18,11 @@ Il regroupe le pré-traitement et traitement de la base de donnée ainsi que que
 **ML_projet2_streamlit:** Fichier au format .py
 C'est notre application utilisable par le client qui inclus la partie recommendation
 
-**Prez_projet_2:** Fichier au format .key
+**presentation_projet2:** Fichier au format .key
 C'est notre présentation de fin de projet
+
+**presentation_projet2_pdf:** Fichier au format .pdf 
+La présentation qui peut être lu de tous
 
 ## Outils utilisés:
 **Languages:** Python
@@ -40,6 +34,12 @@ Streamlit(application)
 Sublime Text(Rédaction de l'application), Google Drive(partage des documents), Slack(communication), 
 Keynote(présentation)
 
+
+## Auteurs
+* **Julien Mahiette**
+* **Elizabeth Landry**
+* **Julien Moquet**
+* **Nicolas Isnardy**
 
 
 
