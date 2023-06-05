@@ -43,7 +43,7 @@ Ces fichiers contiennent certaines des requêtes SQL utilisées dans Power BI lo
 ## Auteurs
 
 * **Julien Michaut** _alias_ [@Miche5967](https://github.com/Miche5967)
-* **Elizabeth Landry**
-* **Geoffrey Castel**
+* **Elizabeth Landry** _alias_ [@BabsLand](https://github.com/BabsLand)
+* **Geoffrey Castel** _alias_ [@Castel_Data_Workspace](https://github.com/geoffreycastel)
 * **Julien Mahiette**
 

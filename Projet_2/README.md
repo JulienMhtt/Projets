@@ -37,9 +37,9 @@ Keynote(présentation)
 
 ## Auteurs
 * **Julien Mahiette**
-* **Elizabeth Landry**
-* **Julien Moquet**
-* **Nicolas Isnardy**
+* **Elizabeth Landry** _alias_ [@BabsLand](https://github.com/BabsLand)
+* **Julien Moquet** _alias_ [@JulienMoquet](https://github.com/JulienMoquet)
+* **Nicolas Isnardy** _alias_ [@Nicolas Isnardy](https://github.com/isnardynicolas)
 
 
 
