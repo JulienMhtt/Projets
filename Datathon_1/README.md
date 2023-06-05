@@ -1,12 +1,12 @@
 # Datathon 1 : Création d'un moteur de recommandations de musiques basé sur les databases spotify
 
 ## Description du datathon:
-Nous avions un sujet imposé, la musique. Nous pouvions répondre à une problèmatique de notre choix
+Nous avions un sujet imposé, la musique. Nous pouvions répondre à une problématique de notre choix
 
-Nous avons donc choisis de répondre à la question:
+Nous avons donc choisi de répondre à la question:
 Quel musique choisir pour une soirée barbecue réussi?
 
-Nous avons décidé de créer une application qui génére une playlist de musique en fonction du moment de la soirée barbecue (apéritif, repas, soirée, after)
+Nous avons décidé de créer une application qui génère une playlist de musique en fonction du moment de la soirée barbecue (apéritif, repas, soirée, after)
 
 - Lien vers l'application : https://isnardynicolas-projects-datathonscript-ml-streamlit-njs3ro.streamlit.app/
 
