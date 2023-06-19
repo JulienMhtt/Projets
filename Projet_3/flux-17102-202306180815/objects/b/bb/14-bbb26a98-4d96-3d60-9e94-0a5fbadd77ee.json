@@ -1,0 +1,542 @@
+{
+  "@id": "https://data.datatourisme.fr/14/bbb26a98-4d96-3d60-9e94-0a5fbadd77ee",
+  "dc:identifier": "85085",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Radfahrerfreunde, im Cercle de Malines, einem 1884 erbauten ehemaligen Wohnhaus der Spitzenklöppler, können Sie in einem modernen und gemütlichen Gästehaus in Calais übernachten. Die schlichte Dekoration des Hauses, der vier Doppelzimmer (Doppelbett und eigenes Badezimmer) und der Familiensuite wird Sie ebenso begeistern wie die Einrichtungen, die speziell für Ihren Empfang vorgesehen sind (gesicherte Veranda, Werkzeugkasten, ...). Die Ruhe der Nacht in einem sehr bequemen Bettzeug und das köstliche Frühstück, das aus selbstgemachten oder lokalen Produkten besteht, werden Ihnen die nötige Energie für lange und schöne Spaziergänge entlang der Côte d'Opale verschaffen. Stéphanie, der größte Trumpf des Hauses, freut sich darauf, Sie zu begrüßen und Ihnen ihre Heimat näher zu bringen!"
+    ],
+    "en": [
+      "Cycling friends, at the Cercle de Malines, a former lace-makers' residence built in 1884, you will enjoy a stay in a modern and welcoming bed and breakfast in Calais. The refined decoration of the house, the four double rooms (double bed and private bathroom) and the family suite will delight you as much as the facilities provided to welcome you specifically (secure porch, toolbox, ...). The calm of the night in a very comfortable bedding and the delicious breakfast, made with home-made or local products will give you the energy you need for long and beautiful walks along the Opal Coast. Stéphanie, the house's major asset, is looking forward to welcoming you to help you discover her territory!"
+    ],
+    "it": [
+      "Ciclisti, al Cercle de Malines, un'antica casa di merlettaie costruita nel 1884, potrete godere di un soggiorno in una moderna e accogliente guest house di Calais. La raffinata decorazione della casa, le quattro camere doppie (letto matrimoniale e bagno privato con doccia) e la suite familiare vi incanteranno, così come i servizi messi a disposizione per accogliervi in modo specifico (portico sicuro, cassetta degli attrezzi, ...). La calma della notte in un letto molto confortevole e la deliziosa colazione, composta da prodotti fatti in casa o locali, vi daranno l'energia necessaria per lunghe e belle passeggiate lungo la Costa d'Opale. Stéphanie, la principale risorsa della casa, non vede l'ora di accogliervi e di farvi scoprire il suo territorio!"
+    ],
+    "fr": [
+      "Amis cyclistes, au Cercle de Malines, ancienne demeure de dentelliers construite en 1884, vous profiterez d'un séjour dans une chambre d'hôtes moderne et accueillante à Calais. La décoration épurée de la maison, des quatre chambres doubles (lit double et salle d'eau privée) et de la suite familiale vous ravira autant que les installations prévues pour vous accueillir spécifiquement (porche sécurisé, caisse à outils, ...). Le calme de la nuit dans une literie très confortable et le délicieux petit-déjeuner, composé de produits faits-maison ou locaux vous procureront l'énergie nécessaire pour de longues et belles balades le long de la Côte d'Opale. Stéphanie, l'atout majeur de la maison, a hâte de vous accueillir pour vous faire découvrir son territoire !"
+    ],
+    "nl": [
+      "Fietsers, in de Cercle de Malines, een voormalig kantwerkhuis uit 1884, geniet u van een verblijf in een modern en gastvrij pension in Calais. De verfijnde inrichting van het huis, de vier tweepersoonskamers (tweepersoonsbed en eigen badkamer) en de gezinssuite zullen u evenzeer bekoren als de voorzieningen die speciaal voor u zijn voorzien (beveiligde veranda, gereedschapskist, ...). De rust van de nacht in een zeer comfortabel bed en het heerlijke ontbijt, samengesteld uit zelfgemaakte of lokale producten, geven u de nodige energie voor lange en mooie wandelingen langs de Opaalkust. Stéphanie, de belangrijkste troef van het huis, kijkt ernaar uit u te verwelkomen en u haar grondgebied te laten ontdekken!"
+    ],
+    "es": [
+      "Ciclistas, en el Cercle de Malines, antigua casa de encajeras construida en 1884, disfrutarán de una estancia en una casa de huéspedes moderna y acogedora en Calais. La refinada decoración de la casa, las cuatro habitaciones dobles (cama de matrimonio y cuarto de ducha privado) y la suite familiar le encantarán tanto como las instalaciones previstas para acogerle específicamente (porche seguro, caja de herramientas, ...). La tranquilidad de la noche en una cama muy confortable y el delicioso desayuno, compuesto de productos caseros o locales, le darán la energía necesaria para largos y hermosos paseos por la Costa del Ópalo. Stéphanie, el principal activo de la casa, está deseando darle la bienvenida y ayudarle a descubrir su territorio"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Le Cercle de Malines"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13bf9c01-ddfc-34da-b05d-64a7fbd4b53e",
+    "schema:email": [
+      "datatourisme62@gmail.com"
+    ],
+    "schema:legalName": "Pas-de-Calais Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.datatourisme62.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/13bf9c01-ddfc-34da-b05d-64a7fbd4b53e",
+      "schema:email": [
+        "datatourisme62@gmail.com"
+      ],
+      "schema:legalName": "Pas-de-Calais Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.datatourisme62.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/94345cfd-3092-3c73-9fc3-5285ec68fc25",
+      "schema:email": [
+        "resa@lecercledemalines.com"
+      ],
+      "schema:legalName": "Le Cercle de Malines",
+      "schema:telephone": [
+        "+33 3 21 96 80 65"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.lecercledemalines.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/04ecac08-fdcd-3682-94f2-3027a4eb9bde",
+      "dc:description": {
+        "de": [
+          "Radfahrerfreunde, im Cercle de Malines, einem 1884 erbauten ehemaligen Wohnhaus der Spitzenklöppler, können Sie in einem modernen und gemütlichen Gästehaus in Calais übernachten. Die schlichte Dekoration des Hauses, der vier Doppelzimmer (Doppelbett und eigenes Badezimmer) und der Familiensuite wird Sie ebenso begeistern wie die Einrichtungen, die speziell für Ihren Empfang vorgesehen sind (gesicherte Veranda, Werkzeugkasten, ...). Die Ruhe der Nacht in einem sehr bequemen Bettzeug und das köstliche Frühstück, das aus selbstgemachten oder lokalen Produkten besteht, werden Ihnen die nötige Energie für lange und schöne Spaziergänge entlang der Côte d'Opale verschaffen. Stéphanie, der größte Trumpf des Hauses, freut sich darauf, Sie zu begrüßen und Ihnen ihre Heimat näher zu bringen!"
+        ],
+        "en": [
+          "Cycling friends, at the Cercle de Malines, a former lace-makers' residence built in 1884, you will enjoy a stay in a modern and welcoming bed and breakfast in Calais. The refined decoration of the house, the four double rooms (double bed and private bathroom) and the family suite will delight you as much as the facilities provided to welcome you specifically (secure porch, toolbox, ...). The calm of the night in a very comfortable bedding and the delicious breakfast, made with home-made or local products will give you the energy you need for long and beautiful walks along the Opal Coast. Stéphanie, the house's major asset, is looking forward to welcoming you to help you discover her territory!"
+        ],
+        "it": [
+          "Ciclisti, al Cercle de Malines, un'antica casa di merlettaie costruita nel 1884, potrete godere di un soggiorno in una moderna e accogliente guest house di Calais. La raffinata decorazione della casa, le quattro camere doppie (letto matrimoniale e bagno privato con doccia) e la suite familiare vi incanteranno, così come i servizi messi a disposizione per accogliervi in modo specifico (portico sicuro, cassetta degli attrezzi, ...). La calma della notte in un letto molto confortevole e la deliziosa colazione, composta da prodotti fatti in casa o locali, vi daranno l'energia necessaria per lunghe e belle passeggiate lungo la Costa d'Opale. Stéphanie, la principale risorsa della casa, non vede l'ora di accogliervi e di farvi scoprire il suo territorio!"
+        ],
+        "fr": [
+          "Amis cyclistes, au Cercle de Malines, ancienne demeure de dentelliers construite en 1884, vous profiterez d'un séjour dans une chambre d'hôtes moderne et accueillante à Calais. La décoration épurée de la maison, des quatre chambres doubles (lit double et salle d'eau privée) et de la suite familiale vous ravira autant que les installations prévues pour vous accueillir spécifiquement (porche sécurisé, caisse à outils, ...). Le calme de la nuit dans une literie très confortable et le délicieux petit-déjeuner, composé de produits faits-maison ou locaux vous procureront l'énergie nécessaire pour de longues et belles balades le long de la Côte d'Opale. Stéphanie, l'atout majeur de la maison, a hâte de vous accueillir pour vous faire découvrir son territoire !"
+        ],
+        "nl": [
+          "Fietsers, in de Cercle de Malines, een voormalig kantwerkhuis uit 1884, geniet u van een verblijf in een modern en gastvrij pension in Calais. De verfijnde inrichting van het huis, de vier tweepersoonskamers (tweepersoonsbed en eigen badkamer) en de gezinssuite zullen u evenzeer bekoren als de voorzieningen die speciaal voor u zijn voorzien (beveiligde veranda, gereedschapskist, ...). De rust van de nacht in een zeer comfortabel bed en het heerlijke ontbijt, samengesteld uit zelfgemaakte of lokale producten, geven u de nodige energie voor lange en mooie wandelingen langs de Opaalkust. Stéphanie, de belangrijkste troef van het huis, kijkt ernaar uit u te verwelkomen en u haar grondgebied te laten ontdekken!"
+        ],
+        "es": [
+          "Ciclistas, en el Cercle de Malines, antigua casa de encajeras construida en 1884, disfrutarán de una estancia en una casa de huéspedes moderna y acogedora en Calais. La refinada decoración de la casa, las cuatro habitaciones dobles (cama de matrimonio y cuarto de ducha privado) y la suite familiar le encantarán tanto como las instalaciones previstas para acogerle específicamente (porche seguro, caja de herramientas, ...). La tranquilidad de la noche en una cama muy confortable y el delicioso desayuno, compuesto de productos caseros o locales, le darán la energía necesaria para largos y hermosos paseos por la Costa del Ópalo. Stéphanie, el principal activo de la casa, está deseando darle la bienvenida y ayudarle a descubrir su territorio"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/006bcaeb-bc3f-3bcd-bda0-fe5d180810ea",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/0c5bb5ad-50d6-3781-8674-a01506e01510",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/0c624e27-671b-366c-8af0-df53c55ad66a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/127f6ea1-904e-3aed-94db-e535c0580ab6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/14b6c894-5f0d-3668-b8d5-65f6147879b0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/56087bb9-43bd-3093-b3c9-2e8e9cc15f8e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7322d111-10b8-3dc3-9676-3a2df5f72260",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a41b1008-a4dd-30bf-9f23-b750791dafdd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a9c0a7f3-0bed-3f1b-b252-e50a0b31d09d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b35235de-2607-3649-b432-101a735e46e7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Radfahrerfreunde, im Cercle de Malines, einem 1884 erbauten ehemaligen Wohnhaus der Spitzenklöppler, können Sie in einem modernen und gemütlichen Gästehaus in Calais übernachten. Die schlichte Dekoration des Hauses, der vier Doppelzimmer (Doppelbett und eigenes Badezimmer) und der Familiensuite wird Sie ebenso begeistern wie die Einrichtungen, die speziell für Ihren Empfang vorgesehen sind (gesicherte Veranda, Werkzeugkasten, ...). Die Ruhe der Nacht in einem sehr bequemen Bettzeug und das köstliche Frühstück, das aus selbstgemachten oder lokalen Produkten besteht, werden Ihnen die nötige Energie für lange und schöne Spaziergänge entlang der Côte d'Opale verschaffen. Stéphanie, der größte Trumpf des Hauses, freut sich darauf, Sie zu begrüßen und Ihnen ihre Heimat näher zu bringen!"
+        ],
+        "en": [
+          "Cycling friends, at the Cercle de Malines, a former lace-makers' residence built in 1884, you will enjoy a stay in a modern and welcoming bed and breakfast in Calais. The refined decoration of the house, the four double rooms (double bed and private bathroom) and the family suite will delight you as much as the facilities provided to welcome you specifically (secure porch, toolbox, ...). The calm of the night in a very comfortable bedding and the delicious breakfast, made with home-made or local products will give you the energy you need for long and beautiful walks along the Opal Coast. Stéphanie, the house's major asset, is looking forward to welcoming you to help you discover her territory!"
+        ],
+        "it": [
+          "Ciclisti, al Cercle de Malines, un'antica casa di merlettaie costruita nel 1884, potrete godere di un soggiorno in una moderna e accogliente guest house di Calais. La raffinata decorazione della casa, le quattro camere doppie (letto matrimoniale e bagno privato con doccia) e la suite familiare vi incanteranno, così come i servizi messi a disposizione per accogliervi in modo specifico (portico sicuro, cassetta degli attrezzi, ...). La calma della notte in un letto molto confortevole e la deliziosa colazione, composta da prodotti fatti in casa o locali, vi daranno l'energia necessaria per lunghe e belle passeggiate lungo la Costa d'Opale. Stéphanie, la principale risorsa della casa, non vede l'ora di accogliervi e di farvi scoprire il suo territorio!"
+        ],
+        "fr": [
+          "Amis cyclistes, au Cercle de Malines, ancienne demeure de dentelliers construite en 1884, vous profiterez d'un séjour dans une chambre d'hôtes moderne et accueillante à Calais. La décoration épurée de la maison, des quatre chambres doubles (lit double et salle d'eau privée) et de la suite familiale vous ravira autant que les installations prévues pour vous accueillir spécifiquement (porche sécurisé, caisse à outils, ...). Le calme de la nuit dans une literie très confortable et le délicieux petit-déjeuner, composé de produits faits-maison ou locaux vous procureront l'énergie nécessaire pour de longues et belles balades le long de la Côte d'Opale. Stéphanie, l'atout majeur de la maison, a hâte de vous accueillir pour vous faire découvrir son territoire !"
+        ],
+        "nl": [
+          "Fietsers, in de Cercle de Malines, een voormalig kantwerkhuis uit 1884, geniet u van een verblijf in een modern en gastvrij pension in Calais. De verfijnde inrichting van het huis, de vier tweepersoonskamers (tweepersoonsbed en eigen badkamer) en de gezinssuite zullen u evenzeer bekoren als de voorzieningen die speciaal voor u zijn voorzien (beveiligde veranda, gereedschapskist, ...). De rust van de nacht in een zeer comfortabel bed en het heerlijke ontbijt, samengesteld uit zelfgemaakte of lokale producten, geven u de nodige energie voor lange en mooie wandelingen langs de Opaalkust. Stéphanie, de belangrijkste troef van het huis, kijkt ernaar uit u te verwelkomen en u haar grondgebied te laten ontdekken!"
+        ],
+        "es": [
+          "Ciclistas, en el Cercle de Malines, antigua casa de encajeras construida en 1884, disfrutarán de una estancia en una casa de huéspedes moderna y acogedora en Calais. La refinada decoración de la casa, las cuatro habitaciones dobles (cama de matrimonio y cuarto de ducha privado) y la suite familiar le encantarán tanto como las instalaciones previstas para acogerle específicamente (porche seguro, caja de herramientas, ...). La tranquilidad de la noche en una cama muy confortable y el delicioso desayuno, compuesto de productos caseros o locales, le darán la energía necesaria para largos y hermosos paseos por la Costa del Ópalo. Stéphanie, el principal activo de la casa, está deseando darle la bienvenida y ayudarle a descubrir su territorio"
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/ee2fe896-8aab-34b8-8e95-3c06508626c7",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      },
+      "reviewDeliveryDate": "2020-03-04",
+      "reviewExpirationDate": "2023-03-04"
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/4e1899a4-4d63-3c53-a51c-8fddf26c4326",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/50f64af2-ccdd-32a2-892e-dbf4b98ae67e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a4a79506-37ad-3584-8f63-899f5d02de9e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/afaa9ad4-51d3-3b18-95aa-4bb383e12c6e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e43043e5-ad74-37ef-8fd2-f4d671c50376",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4b47f73f-ca94-3a7f-8329-6d956e0e4eb1",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/20039b62-5fca-398a-afe4-d1b99250f187",
+          "schema:addressLocality": "Calais",
+          "schema:postalCode": "62100",
+          "schema:streetAddress": [
+            "12 Rue de Malines"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:62193",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Calais"
+              ],
+              "pt": [
+                "Calais"
+              ],
+              "en": [
+                "Calais"
+              ],
+              "it": [
+                "Calais"
+              ],
+              "fr": [
+                "Calais"
+              ],
+              "nl": [
+                "Calais"
+              ],
+              "es": [
+                "Calais"
+              ]
+            },
+            "insee": "62193",
+            "isPartOfDepartment": {
+              "@id": "kb:France3262",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Pas-de-Calais"
+                ],
+                "pt": [
+                  "Pas-de-Calais"
+                ],
+                "en": [
+                  "Pas-de-Calais"
+                ],
+                "it": [
+                  "Pas-de-Calais"
+                ],
+                "fr": [
+                  "Pas-de-Calais"
+                ],
+                "nl": [
+                  "Pas-de-Calais"
+                ],
+                "es": [
+                  "Pas-de-Calais"
+                ]
+              },
+              "insee": "62",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/41cdd8bd-2cca-3d50-a501-8da310da3aa1",
+        "schema:latitude": "50.945269",
+        "schema:longitude": "1.855037",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-02-27",
+  "lastUpdateDatatourisme": "2023-06-16T13:55:02.362Z"
+}

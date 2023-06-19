@@ -1,0 +1,853 @@
+{
+  "@id": "https://data.datatourisme.fr/28/e6ae73f8-1d21-313e-bd52-cb98b3893151",
+  "dc:identifier": "HLOPIC000V503XRD",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation",
+    "SelfCateringAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Ein paar Schritte von der Somme-Bucht entfernt, unabhängiges Haus (136 m²) mit Parkplatz im geschlossenen Hof, S..."
+    ],
+    "en": [
+      "This house / villa of 136 m² (about 1462 ft²), with a land size of 1000 m² (about 0,25 acres) has 6 rooms including 4 bedrooms, 1 bathroom and 1 toilet..."
+    ],
+    "it": [
+      "Questa casa/villa di 136 m², con un terreno di 1000 m², ha 6 vani con 4 stanze da letto, 1 bagno e 1 WC..."
+    ],
+    "fr": [
+      "A quelques pas de la Baie de Somme, maison indépendante (136 m²) avec parking dans la cour fermée, s..."
+    ],
+    "es": [
+      "Ésta casa de 136 m², con un terreno de 1000 m² posee 6 piezas incluidos 4 dormitorios, 1 cuarto de baño y 2 WC..."
+    ],
+    "nl": [
+      "Dit huis van 136 m², met een perceel oppervlakte van 1000 m², heeft 6 kamers waarvan 4 slaapkamers, 1 badkamer en 2 toiletten...."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "La ferme de Nicolas"
+    ]
+  },
+  "allowedPersons": 6,
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/28/459af280-7858-33ca-bfb6-f8272a129aec",
+    "dc:identifier": "SIM Aisne/Oise/Somme HDF - ADRT80",
+    "schema:familyName": [
+      "SIM Aisne/Oise/Somme HDF - ADRT80"
+    ],
+    "schema:legalName": "SIM Aisne/Oise/Somme HDF - ADRT80",
+    "@type": [
+      "schema:Organization",
+      "schema:Person",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/92f31106-f566-3eba-9601-ef062e161fbc",
+      "schema:legalName": "SIM Picardie",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3b1b7a60-7e55-31d6-be19-2ba689ec8352",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/37f7bf7e-7624-31fa-8ba6-39d33fddbd3e",
+          "schema:addressLocality": "Noyelles-sur-Mer",
+          "schema:postalCode": "80860",
+          "schema:streetAddress": [
+            "26 route de Sailly",
+            "NOLETTE- NOYELLES SUR MER"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:80600",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Noyelles-sur-Mer"
+              ],
+              "pt": [
+                "Noyelles-sur-Mer"
+              ],
+              "en": [
+                "Noyelles-sur-Mer"
+              ],
+              "it": [
+                "Noyelles-sur-Mer"
+              ],
+              "fr": [
+                "Noyelles-sur-Mer"
+              ],
+              "nl": [
+                "Noyelles-sur-Mer"
+              ],
+              "es": [
+                "Noyelles-sur-Mer"
+              ]
+            },
+            "insee": "80600",
+            "isPartOfDepartment": {
+              "@id": "kb:France3280",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Somme"
+                ],
+                "pt": [
+                  "Somme"
+                ],
+                "en": [
+                  "Somme"
+                ],
+                "it": [
+                  "Somme"
+                ],
+                "fr": [
+                  "Somme"
+                ],
+                "nl": [
+                  "Somme"
+                ],
+                "es": [
+                  "Somme"
+                ]
+              },
+              "insee": "80",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:email": [
+        "renouard.nico@gmail.com"
+      ],
+      "schema:legalName": "Hébergements locatifs",
+      "schema:telephone": [
+        "+33 3 22 24 53 95"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://la-ferme-de-nicolas.monsite-orange.fr/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/3b1b7a60-7e55-31d6-be19-2ba689ec8352",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/37f7bf7e-7624-31fa-8ba6-39d33fddbd3e",
+          "schema:addressLocality": "Noyelles-sur-Mer",
+          "schema:postalCode": "80860",
+          "schema:streetAddress": [
+            "26 route de Sailly",
+            "NOLETTE- NOYELLES SUR MER"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:80600",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Noyelles-sur-Mer"
+              ],
+              "pt": [
+                "Noyelles-sur-Mer"
+              ],
+              "en": [
+                "Noyelles-sur-Mer"
+              ],
+              "it": [
+                "Noyelles-sur-Mer"
+              ],
+              "fr": [
+                "Noyelles-sur-Mer"
+              ],
+              "nl": [
+                "Noyelles-sur-Mer"
+              ],
+              "es": [
+                "Noyelles-sur-Mer"
+              ]
+            },
+            "insee": "80600",
+            "isPartOfDepartment": {
+              "@id": "kb:France3280",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Somme"
+                ],
+                "pt": [
+                  "Somme"
+                ],
+                "en": [
+                  "Somme"
+                ],
+                "it": [
+                  "Somme"
+                ],
+                "fr": [
+                  "Somme"
+                ],
+                "nl": [
+                  "Somme"
+                ],
+                "es": [
+                  "Somme"
+                ]
+              },
+              "insee": "80",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:email": [
+        "renouard.nico@gmail.com"
+      ],
+      "schema:legalName": "Hébergements locatifs",
+      "schema:telephone": [
+        "+33 3 22 24 53 95"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://la-ferme-de-nicolas.monsite-orange.fr/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b74af094-7f42-3f8f-8b41-c7d0cf0077c4",
+      "schema:email": [
+        "renouard.nico@gmail.com"
+      ],
+      "schema:telephone": [
+        "+33 3 22 24 53 95"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://la-ferme-de-nicolas.monsite-orange.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/8f2af3fc-76f2-3cd7-88ba-20263c60ccda",
+      "dc:description": {
+        "de": [
+          "Ein paar Schritte von der Somme-Bucht entfernt, unabhängiges Haus (136 m²) mit Parkplatz im geschlossenen Hof auf der Vorderseite. Garten ( 50 m²) auf der Rückseite, über einige Stufen erreichbar. Einbauküche (Kühl-/Gefrierschrank) mit Zugang zu einer Veranda (21 m²). Esszimmer mit Holzofen. 1 Schlafzimmer (1 Bett 160), 1 Schlafzimmer (1 Bett 140), ein Schlafzimmer (2 Einzelbetten 90). Ein Badezimmer mit Dusche und Eckbadewanne. Separates WC. Ölheizung im Preis inbegriffen. Kurtaxe inbegriffen. Haustier auf Anfrage erlaubt. Überdachter Unterstand für Auto oder Fahrräder. Ladestation für Elektrofahrzeuge in 1,5 km Entfernung (Bahnhof Noyelles)."
+        ],
+        "en": [
+          "A few steps from the Bay of the Somme, independent house (136 m²) with parking in the closed yard, on the front. Small garden (50 m²) on the back, accessible by some steps. Fitted kitchen (fridge/freezer) with access to a veranda (21 m²). Dining room with wood stove. 1 bedroom (1 bed 160), 1 bedroom (1 bed 140), 1 bedroom (2 beds 90). A bathroom with shower and bathtub of angle. Independent WC. Oil heating included. Tourist tax included. Animal accepted on request. Covered shelter for car or bicycle. Recharge station for electric vehicle at 1.5 km (Noyelles station)."
+        ],
+        "it": [
+          "A pochi passi dalla baia della Somme, casa indipendente (136 m²) con parcheggio nel cortile recintato, sul davanti. Piccolo giardino (50 m²) sul retro, accessibile tramite alcuni gradini. Cucina attrezzata (frigorifero/congelatore) con accesso alla veranda (21 m²). Sala da pranzo con stufa a legna. 1 camera (1 letto 160), 1 camera (1 letto 140), 1 camera (2 letti 90). Un bagno con doccia e vasca ad angolo. WC separato. Riscaldamento a gasolio incluso. Tassa di soggiorno inclusa. Animali domestici accettati su richiesta. Riparo coperto per auto o moto. Stazione di ricarica per veicoli elettrici a 1,5 km (stazione di Noyelles)."
+        ],
+        "fr": [
+          "A quelques pas de la Baie de Somme, maison indépendante (136 m²) avec parking dans la cour fermée, sur l'avant. Jardinet ( 50 m²) sur l'arrière, accessible par quelques marches. Cuisine aménagée (réfrigérateur /congélateur) avec accès sur une véranda (21 m²). Salle à manger avec poêle à bois. 1 chambre (1 lit 160), 1 chambre (1 lit 140), une chambre (2 lits 90). Une salle de bains avec douche et baignoire d'angle. WC indépendant. Chauffage au fuel inclus. Taxe de séjour inclus. Animal accepté sur demande. Abri couvert pour voiture ou vélos. Borne de recharge pour véhicule électrique à 1.5 km (gare de Noyelles)."
+        ],
+        "nl": [
+          "Op enkele stappen van de Baai van de Somme, vrijstaand huis (136 m²) met parkeerplaats op de afgesloten binnenplaats, aan de voorzijde. Kleine tuin (50 m²) aan de achterzijde, toegankelijk via enkele treden. Ingerichte keuken (koelkast/vriezer) met toegang tot een veranda (21 m²). Eetkamer met houtkachel. 1 slaapkamer (1 bed van 160), 1 slaapkamer (1 bed van 140), 1 slaapkamer (2 bedden van 90). Een badkamer met douche en hoekbad. Aparte WC. Oliegestookte verwarming inbegrepen. Toeristenbelasting inbegrepen. Huisdieren worden op verzoek geaccepteerd. Overdekte schuilplaats voor auto of fiets. Laadstation voor elektrische voertuigen op 1,5 km (station van Noyelles)."
+        ],
+        "es": [
+          "A pocos pasos de la Bahía del Somme, casa independiente (136 m²) con aparcamiento en el patio cerrado, en la parte delantera. Pequeño jardín (50 m²) en la parte trasera, accesible por unos escalones. Cocina equipada (frigorífico/congelador) con acceso a un porche (21 m²). Comedor con estufa de leña. 1 dormitorio (1 cama 160), 1 dormitorio (1 cama 140), 1 dormitorio (2 camas 90). Un baño con ducha y bañera de esquina. WC separado. Calefacción de gasoil incluida. Tasa turística incluida. Se aceptan mascotas bajo petición. Refugio cubierto para el coche o la bicicleta. Estación de carga de vehículos eléctricos a 1,5 km (estación de Noyelles)."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/299d821d-f6ef-3c74-80ba-ef60e5aa6896",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/755fa1a0-5418-3c84-9880-746122c2bab5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7a6dfb6f-3849-357d-91e5-d1ea0130d9b2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7ab55300-737c-3c03-a9b2-ca2d760821e0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/935e2d30-56ed-37b4-a6d9-af6536eff6a9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/96be78f0-41ed-347c-b088-a840c1531cb9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ad9835ad-4fab-3ffc-9c8a-fba41d37acda",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b715ea76-bb0c-3f86-870d-4100136cfa4f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c5ad3dc5-1821-3dfb-826f-55115e31e4a7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/dcaafa71-ce2b-3528-9857-b29f61d694e1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Ein paar Schritte von der Somme-Bucht entfernt, unabhängiges Haus (136 m²) mit Parkplatz im geschlossenen Hof, S..."
+        ],
+        "en": [
+          "This house / villa of 136 m² (about 1462 ft²), with a land size of 1000 m² (about 0,25 acres) has 6 rooms including 4 bedrooms, 1 bathroom and 1 toilet..."
+        ],
+        "it": [
+          "Questa casa/villa di 136 m², con un terreno di 1000 m², ha 6 vani con 4 stanze da letto, 1 bagno e 1 WC..."
+        ],
+        "fr": [
+          "A quelques pas de la Baie de Somme, maison indépendante (136 m²) avec parking dans la cour fermée, s..."
+        ],
+        "es": [
+          "Ésta casa de 136 m², con un terreno de 1000 m² posee 6 piezas incluidos 4 dormitorios, 1 cuarto de baño y 2 WC..."
+        ],
+        "nl": [
+          "Dit huis van 136 m², met een perceel oppervlakte van 1000 m², heeft 6 kamers waarvan 4 slaapkamers, 1 badkamer en 2 toiletten...."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/7724dbf0-7649-358b-be17-1db1b66a240f",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:ScaleRating_3etoiles",
+        "schema:ratingValue": "3.0",
+        "@type": [
+          "ScaleRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "3 Sterne"
+          ],
+          "pt": [
+            "3 estrelas"
+          ],
+          "en": [
+            "3 Stars"
+          ],
+          "it": [
+            "3 stelle"
+          ],
+          "fr": [
+            "3 étoiles"
+          ],
+          "nl": [
+            "3 sterren"
+          ],
+          "es": [
+            "3 estrellas"
+          ]
+        },
+        "isCompliantWith": [
+          "CampingAndCaravanning",
+          "ClubOrHolidayVillage",
+          "HolidayCentre",
+          "Hotel",
+          "SelfCateringAccommodation"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/27978b06-44fd-3721-8e37-3bf4cf388be5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5770b146-abb7-3684-8aa4-c903d746b96b",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/728263d2-26c8-3546-a9e3-5e62647ed714",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/973f2c2b-0972-3b3a-aa13-f013d35bdae0",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c94c568a-bca4-3f18-a654-aa90797fa598",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/4ff6f22d-65e4-319b-8f0a-9fa52c1b258e",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/37f7bf7e-7624-31fa-8ba6-39d33fddbd3e",
+          "schema:addressLocality": "Noyelles-sur-Mer",
+          "schema:postalCode": "80860",
+          "schema:streetAddress": [
+            "26 route de Sailly",
+            "NOLETTE- NOYELLES SUR MER"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:80600",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Noyelles-sur-Mer"
+              ],
+              "pt": [
+                "Noyelles-sur-Mer"
+              ],
+              "en": [
+                "Noyelles-sur-Mer"
+              ],
+              "it": [
+                "Noyelles-sur-Mer"
+              ],
+              "fr": [
+                "Noyelles-sur-Mer"
+              ],
+              "nl": [
+                "Noyelles-sur-Mer"
+              ],
+              "es": [
+                "Noyelles-sur-Mer"
+              ]
+            },
+            "insee": "80600",
+            "isPartOfDepartment": {
+              "@id": "kb:France3280",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Somme"
+                ],
+                "pt": [
+                  "Somme"
+                ],
+                "en": [
+                  "Somme"
+                ],
+                "it": [
+                  "Somme"
+                ],
+                "fr": [
+                  "Somme"
+                ],
+                "nl": [
+                  "Somme"
+                ],
+                "es": [
+                  "Somme"
+                ]
+              },
+              "insee": "80",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/2efb069b-2f9c-3ef7-8dac-859c91a8b0bb",
+        "schema:latitude": "50.189628",
+        "schema:longitude": "1.72318199",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-07",
+  "lastUpdateDatatourisme": "2023-06-08T02:04:40.249Z"
+}

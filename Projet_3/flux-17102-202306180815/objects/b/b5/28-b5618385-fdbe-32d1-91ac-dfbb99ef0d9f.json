@@ -1,0 +1,797 @@
+{
+  "@id": "https://data.datatourisme.fr/28/b5618385-fdbe-32d1-91ac-dfbb99ef0d9f",
+  "dc:identifier": "HLOPIC000V508JOU",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das ganze Jahr über geöffnet / MER ET BAIE ist im Herzen der Sommebucht / Ruhig gelegen / 3 km von St. Valery entfernt ..."
+    ],
+    "en": [
+      "OPEN ALL YEAR LONG / SEA AND BAY is in the heart of the Somme Bay / Located in a quiet area / 3 Kms from St Valery ..."
+    ],
+    "it": [
+      "APERTO TUTTO L'ANNO / SEA AND BAY si trova nel cuore della baia di Somme / Situato in una zona tranquilla / a 3 km da St Valery ..."
+    ],
+    "fr": [
+      "OUVERT TOUTE L'ANNEE / MER ET BAIE est Au Coeur Baie De Somme / Situé Au Calme / 3 Kms de St Valery ..."
+    ],
+    "nl": [
+      "Het hele jaar geopend / SEA AND BAY ligt in het hart van de Baai van de Somme / Gelegen in een rustige omgeving / 3 km van St Valery ..."
+    ],
+    "es": [
+      "ABIERTO TODO EL AÑO / MAR Y BAYA está en el corazón de la Bahía de Somme / Situado en una zona tranquila / 3 Kms de St Valery ..."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Mer et Baie"
+    ]
+  },
+  "allowedPersons": 9,
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/28/459af280-7858-33ca-bfb6-f8272a129aec",
+    "dc:identifier": "SIM Aisne/Oise/Somme HDF - ADRT80",
+    "schema:familyName": [
+      "SIM Aisne/Oise/Somme HDF - ADRT80"
+    ],
+    "schema:legalName": "SIM Aisne/Oise/Somme HDF - ADRT80",
+    "@type": [
+      "schema:Organization",
+      "schema:Person",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/92f31106-f566-3eba-9601-ef062e161fbc",
+      "schema:legalName": "SIM Picardie",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/6ec0b5bd-6d72-35ff-9deb-357b6e08ad75",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b4662dcc-7fd8-3c17-894d-5150a1c2a6e5",
+          "schema:addressLocality": "Pendé",
+          "schema:postalCode": "80230",
+          "schema:streetAddress": [
+            "32 rue de Sallenelle"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:80618",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pendé"
+              ],
+              "pt": [
+                "Pendé"
+              ],
+              "en": [
+                "Pendé"
+              ],
+              "it": [
+                "Pendé"
+              ],
+              "fr": [
+                "Pendé"
+              ],
+              "nl": [
+                "Pendé"
+              ],
+              "es": [
+                "Pendé"
+              ]
+            },
+            "insee": "80618",
+            "isPartOfDepartment": {
+              "@id": "kb:France3280",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Somme"
+                ],
+                "pt": [
+                  "Somme"
+                ],
+                "en": [
+                  "Somme"
+                ],
+                "it": [
+                  "Somme"
+                ],
+                "fr": [
+                  "Somme"
+                ],
+                "nl": [
+                  "Somme"
+                ],
+                "es": [
+                  "Somme"
+                ]
+              },
+              "insee": "80",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:email": [
+        "lenne.manu@orange.fr"
+      ],
+      "schema:legalName": "Hébergements locatifs",
+      "schema:telephone": [
+        "+33 6 81 05 63 11"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/08c36c92-58aa-3354-a7f9-d11f57036b55",
+      "schema:email": [
+        "lenne.manu@orange.fr"
+      ],
+      "schema:telephone": [
+        "+33 6 81 05 63 11"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6ec0b5bd-6d72-35ff-9deb-357b6e08ad75",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b4662dcc-7fd8-3c17-894d-5150a1c2a6e5",
+          "schema:addressLocality": "Pendé",
+          "schema:postalCode": "80230",
+          "schema:streetAddress": [
+            "32 rue de Sallenelle"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:80618",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pendé"
+              ],
+              "pt": [
+                "Pendé"
+              ],
+              "en": [
+                "Pendé"
+              ],
+              "it": [
+                "Pendé"
+              ],
+              "fr": [
+                "Pendé"
+              ],
+              "nl": [
+                "Pendé"
+              ],
+              "es": [
+                "Pendé"
+              ]
+            },
+            "insee": "80618",
+            "isPartOfDepartment": {
+              "@id": "kb:France3280",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Somme"
+                ],
+                "pt": [
+                  "Somme"
+                ],
+                "en": [
+                  "Somme"
+                ],
+                "it": [
+                  "Somme"
+                ],
+                "fr": [
+                  "Somme"
+                ],
+                "nl": [
+                  "Somme"
+                ],
+                "es": [
+                  "Somme"
+                ]
+              },
+              "insee": "80",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:email": [
+        "lenne.manu@orange.fr"
+      ],
+      "schema:legalName": "Hébergements locatifs",
+      "schema:telephone": [
+        "+33 6 81 05 63 11"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/1c5ecaf1-8a63-3341-aced-39609ac1d6cf",
+      "dc:description": {
+        "de": [
+          "Das ganze Jahr über geöffnet / MER ET BAIE liegt im Herzen der Sommebucht / in ruhiger Lage / 3 km von St Valery sur Somme / Le Cap Hornu / 6 km von Cayeux sur Mer / Le Hourdel / 15 km von Le Crotoy / Ault / Mers / Le Tréport. TROIS CHAMBRES INDEPENDANTES / GRAND CONFORT PRIVATIF / IDEAL COUPLE ( + 1 ENF/ADO) / Ebenerdig / Terrasse / Privatparkplatz / Bett 160x200 / Sofabett / Italienisches Badezimmer / Private Toilette / Kühlschrank / Mikrowellen / Kaffee / Tee / TV / Wifi / Bett- und Badwäsche / Haartrockner / BB-Bett / Begrüßungscocktail / Frühstück inbegriffen (8h / 10h) / Kontakt zum Eigentümer : 06 81 05 63 11 / Facebook Mer et Baie. TABLE D'HOTES (OPTIONAL ABENDS) / SEJOUR GOURMAND / BISTRONOMISCHES MENÜ 25 EUR/PERS. (Wein / Wasser / Kaffee inbegriffen) / (ohne Champagner / Alc. Sup. 18° / Bier / Soda) MIETUNG Übernachtung / Wochenende / Woche / Halbpension / Formel Gîte / Degressiver Tarif Langer Aufenthalt (06 81 05 63 11 ) / Keine Reservierungskosten / Ankunft: 17 Uhr / Abfahrt: 11 Uhr. Zahlung SMS-Link / Scheck / Es"
+        ],
+        "en": [
+          "OPEN ALL YEAR LONG / SEA AND BAY is in the heart of the Somme Bay / Located in a quiet area / 3 Kms from St Valery sur Somme / Cap Hornu / 6 Kms from Cayeux sur Mer / Le Hourdel / 15 Kms from Le Crotoy / Ault / Mers / Le Tréport. THREE INDEPENDENT BEDROOMS / GREAT PRIVATE COMFORT / IDEAL FOR COUPLE ( + 1 CHILD/ADO) / Ground Floor / Terrace / Private Parking / Bed 160x200 / Sofa Bed / Italian Bathroom / Private Toilets / Fridge / Microwave / Coffee / Tea / TV / Wifi / Bed and Bath Linen / Hair Dryer / Bed BB / Welcome Cocktail / Breakfast Included (8am / 10am) / Contact Owner : 06 81 05 63 11 / Facebook Mer et Baie. TABLE D'HOTES (EVENING OPTION) / GOURMET STAY / BISTRONOMIC MENU 25 EUR/PERS. (Wine / Water / Coffee included) / (Excluding Champagne / Alc. Sup. 18 ° / Beers / Sodas) RENTAL Night / Week End / Week / Half Board / Formula Gite / Decreasing Rate Long Stay (06 81 05 63 11 ) / No Reservation Fee / Arrival: 17H / Departure: 11am. Payment Link SMS / Check / Es"
+        ],
+        "it": [
+          "APERTO TUTTO L'ANNO / MARE E BAIA si trova nel cuore della baia della Somme / Situato in una zona tranquilla / a 3 km da St Valery sur Somme / Cap Hornu / a 6 km da Cayeux sur Mer / Le Hourdel / a 15 km da Le Crotoy / Ault / Mers / Le Tréport. TRE CAMERE INDIPENDENTI / GRANDE COMFORT PRIVATO / IDEALE PER COPPIA ( + 1 BAMBINO/ADO) / Piano terra / Terrazza / Parcheggio privato / Letto 160x200 / Divano letto / Bagno italiano / WC privato / Frigorifero / Micro-onde / Caffè / Tè / TV / Wifi / Biancheria da letto e da bagno / Asciugacapelli / Bed BB / Cocktail di benvenuto / Colazione inclusa (8.00/10.00) / Contatto proprietario : 06 81 05 63 11 / Facebook Mer et Baie. TABLE D'HOTES (OPZIONE SERALE) / SOGGIORNO GOURMET / MENU BISTRONOMICO 25 EUR/PERS. (Vino / Acqua / Caffè inclusi) / (Escluso Champagne / Alc. Sup. 18°/ Birre / Soda) AFFITTO Notte / Week End / Settimana / Mezza Pensione / Formula Gite / Long Stay Tariffa scontata (06 81 05 63 11 ) / Nessun costo di prenotazione / Arrivo : 17:00 / Partenza : 11:00. Link di pagamento SMS / Assegno / Es"
+        ],
+        "fr": [
+          "OUVERT TOUTE L'ANNEE / MER ET BAIE est Au Coeur Baie De Somme / Situé Au Calme / 3 Kms de St Valery sur Somme / Le Cap Hornu / 6 Kms de Cayeux sur Mer / Le Hourdel / 15 Kms de Le Crotoy / Ault / Mers / Le Tréport. TROIS CHAMBRES INDEPENDANTES / GRAND CONFORT PRIVATIF / IDEAL COUPLE ( + 1 ENF/ADO) / Plain Pied / Terrasse / Parking Privé / Lit 160x200 / Sofa Lit / Salle de Bains Italienne / Toilettes Privatives / Frigo / Micro-Ondes / Café / Thé / TV / Wifi / Linge de Lit et Bains / Sèche-Cheveux / Lit BB / Cocktail de Bienvenue / Petit Déjeuner Compris (8h / 10h) / Contact Propriétaire : 06 81 05 63 11 / Facebook Mer et Baie. TABLE D'HOTES (OPTION SOIR) / SEJOUR GOURMAND / MENU BISTRONOMIQUE 25 EUR/PERS. (Vin / Eau / Café Compris) / (Hors Champagne / Alc. Sup 18°/ Bières / Sodas) LOCATION Nuitée / Week End / Semaine / Demi-Pension / Formule Gîte / Tarif Dégressif Long Séjour (06 81 05 63 11 ) / Pas de Frais de Réservation / Arrivée : 17H / Départ : 11h. Paiement Lien SMS / Chèque / Es"
+        ],
+        "nl": [
+          "Het hele jaar door geopend / SEA AND BAY ligt in het hart van de baai van de Somme / rustig gelegen / 3 km van St Valery sur Somme / Cap Hornu / 6 km van Cayeux sur Mer / Le Hourdel / 15 km van Le Crotoy / Ault / Mers / Le Tréport. DRIE ONAFHANKELIJKE SLAAPKAMERS / GROOT PRIVÉ COMFORT / IDEAAL VOOR SAMEN (+ 1 KIND/ADO) / Begane grond / Terras / Privé Parkeerplaats / Bed 160x200 / Slaapbank / Italiaanse Badkamer / Privé Toilet / Koelkast / Micro-wave / Koffie / Thee / TV / Wifi / Bed- en badlinnen / Haardroger / Bed BB / Welkomst Cocktail / Ontbijt Inbegrepen (8am / 10am) / Contact Eigenaar : 06 81 05 63 11 / Facebook Mer et Baie. TABLE D'HOTES (AVONDOPTIE) / GASTRONOMISCH VERBLIJF / BISTRONOMISCH MENU 25 EUR/PERS. (Wijn / Water / Koffie inbegrepen) / (Exclusief Champagne / Alc. Sup. 18° / Bieren / Soda's) VERHUUR Nacht / Week Einde / Week / Halfpension / Gite Formule / Lang Verblijf Kortingstarief (06 81 05 63 11 ) / Geen Reserveringskosten / Aankomst : 17u / Vertrek : 11u. Betalingslink SMS / Cheque / Es"
+        ],
+        "es": [
+          "ABIERTO TODO EL AÑO / MAR Y BAHÍA está en el corazón de la Bahía de Somme / Situado en una zona tranquila / 3 Kms de St Valery sur Somme / Cap Hornu / 6 Kms de Cayeux sur Mer / Le Hourdel / 15 Kms de Le Crotoy / Ault / Mers / Le Tréport. TRES DORMITORIOS INDEPENDIENTES / GRAN COMODIDAD PRIVADA / IDEAL PARA PAREJAS ( + 1 NIÑO/ADO) / Planta baja / Terraza / Aparcamiento privado / Cama 160x200 / Sofá cama / Baño italiano / Aseo privado / Frigorífico / Microondas / Café / Té / TV / Wifi / Ropa de cama y baño / Secador de pelo / Cama BB / Cóctel de bienvenida / Desayuno incluido (8am / 10am) / Contactar con el propietario : 06 81 05 63 11 / Facebook Mer et Baie. TABLE D'HOTES (OPCIÓN NOCTURNA) / ESTANCIA GOURMET / MENÚ BISTRONÓMICO 25 EUR/PERS. (Vino / Agua / Café incluido) / (Excluyendo Champagne / Alc. Sup. 18°/ Cervezas / Refrescos) ALQUILER Noche / Fin de Semana / Semana / Media Pensión / Fórmula Gite / Tarifa con descuento para larga estancia (06 81 05 63 11 ) / Sin cargo de reserva / Llegada : 5pm / Salida : 11am. Enlace de pago SMS / Cheque / Es"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/060c7476-fe91-305c-987a-8936570490aa",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/11ab80fb-5007-311d-a122-4a77918aa71d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/24266e46-b334-37f0-912a-aa3df61057d7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3a332e47-bab7-353b-a7e8-87d1405f35a9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5c05ffaa-b67a-3a11-a5b9-b5090a9283f3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/616cc936-3614-3cd3-a1c3-e0a8f7649559",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/68c4cc3c-2570-3e7e-b950-b4d0c306ac94",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8bed2a28-c511-3cf9-a3ef-efd516bd01eb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b2c6e403-849f-32df-b542-bbaf211b2143",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e0bb0999-d26c-3c9d-b03d-e39373b9d472",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das ganze Jahr über geöffnet / MER ET BAIE ist im Herzen der Sommebucht / Ruhig gelegen / 3 km von St. Valery entfernt ..."
+        ],
+        "en": [
+          "OPEN ALL YEAR LONG / SEA AND BAY is in the heart of the Somme Bay / Located in a quiet area / 3 Kms from St Valery ..."
+        ],
+        "it": [
+          "APERTO TUTTO L'ANNO / SEA AND BAY si trova nel cuore della baia di Somme / Situato in una zona tranquilla / a 3 km da St Valery ..."
+        ],
+        "fr": [
+          "OUVERT TOUTE L'ANNEE / MER ET BAIE est Au Coeur Baie De Somme / Situé Au Calme / 3 Kms de St Valery ..."
+        ],
+        "nl": [
+          "Het hele jaar geopend / SEA AND BAY ligt in het hart van de Baai van de Somme / Gelegen in een rustige omgeving / 3 km van St Valery ..."
+        ],
+        "es": [
+          "ABIERTO TODO EL AÑO / MAR Y BAYA está en el corazón de la Bahía de Somme / Situado en una zona tranquila / 3 Kms de St Valery ..."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/3a678a03-2f09-3ed5-a679-c75c69465fa7",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/41bacd6e-4fe2-3601-9521-dbfeb6b240be",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/7570b00b-a442-3296-8497-58d084bed45f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/eb893101-98cf-3a80-ab0c-fbef62609925",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f4ea0d33-0dc6-3ea2-a484-17ee0f5e6127",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3319459b-b6c6-322b-92b0-3ed90fbddd50",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/b4662dcc-7fd8-3c17-894d-5150a1c2a6e5",
+          "schema:addressLocality": "Pendé",
+          "schema:postalCode": "80230",
+          "schema:streetAddress": [
+            "32 rue de Sallenelle"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:80618",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Pendé"
+              ],
+              "pt": [
+                "Pendé"
+              ],
+              "en": [
+                "Pendé"
+              ],
+              "it": [
+                "Pendé"
+              ],
+              "fr": [
+                "Pendé"
+              ],
+              "nl": [
+                "Pendé"
+              ],
+              "es": [
+                "Pendé"
+              ]
+            },
+            "insee": "80618",
+            "isPartOfDepartment": {
+              "@id": "kb:France3280",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Somme"
+                ],
+                "pt": [
+                  "Somme"
+                ],
+                "en": [
+                  "Somme"
+                ],
+                "it": [
+                  "Somme"
+                ],
+                "fr": [
+                  "Somme"
+                ],
+                "nl": [
+                  "Somme"
+                ],
+                "es": [
+                  "Somme"
+                ]
+              },
+              "insee": "80",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/0141e688-1659-342e-bea1-a2fc10c4ca9f",
+        "schema:latitude": "50.16148",
+        "schema:longitude": "1.58233",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-07",
+  "lastUpdateDatatourisme": "2023-06-08T02:04:40.249Z"
+}

@@ -1,0 +1,856 @@
+{
+  "@id": "https://data.datatourisme.fr/28/8fca19bb-b017-315b-b433-e8f88a4645c5",
+  "dc:identifier": "HLOPIC0800097005",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation",
+    "SelfCateringAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "In der natürlichen Umgebung der Bucht von Authie, 7 km vom Strand entfernt, Ferienhaus (76 m²), in der Nähe des Lebensraums..."
+    ],
+    "en": [
+      "In the natural site of the Authie Bay, 7 km from the beach, gîte (76 m²), close to the house..."
+    ],
+    "it": [
+      "Nel sito naturale della baia di Authie, a 7 km dalla spiaggia, gîte (76 m²), vicino all'habitat..."
+    ],
+    "fr": [
+      "Dans le site naturel de la baie d'Authie, à 7 km de la plage, gîte (76 m²), à proximité de l'habitat..."
+    ],
+    "nl": [
+      "In de natuurlijke omgeving van de baai van Authie, op 7 km van het strand, gîte (76 m²), dicht bij de..."
+    ],
+    "es": [
+      "En el paraje natural de la bahía de Authie, a 7 km de la playa, casa rural (76 m²), cerca de..."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Les marguerites"
+    ]
+  },
+  "allowedPersons": 5,
+  "availableLanguage": [
+    "en"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/28/459af280-7858-33ca-bfb6-f8272a129aec",
+    "dc:identifier": "SIM Aisne/Oise/Somme HDF - ADRT80",
+    "schema:familyName": [
+      "SIM Aisne/Oise/Somme HDF - ADRT80"
+    ],
+    "schema:legalName": "SIM Aisne/Oise/Somme HDF - ADRT80",
+    "@type": [
+      "schema:Organization",
+      "schema:Person",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/92f31106-f566-3eba-9601-ef062e161fbc",
+      "schema:legalName": "SIM Picardie",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/5562aa4d-190b-3458-825c-7e3d911493b4",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/95343b41-1030-3d3b-a0bf-28d89a988415",
+          "schema:addressLocality": "Quend",
+          "schema:postalCode": "80120",
+          "schema:streetAddress": [
+            "Hameau de Pont à Cailloux",
+            "Quend"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:80649",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quend"
+              ],
+              "pt": [
+                "Quend"
+              ],
+              "en": [
+                "Quend"
+              ],
+              "it": [
+                "Quend"
+              ],
+              "fr": [
+                "Quend"
+              ],
+              "nl": [
+                "Quend"
+              ],
+              "es": [
+                "Quend"
+              ]
+            },
+            "insee": "80649",
+            "isPartOfDepartment": {
+              "@id": "kb:France3280",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Somme"
+                ],
+                "pt": [
+                  "Somme"
+                ],
+                "en": [
+                  "Somme"
+                ],
+                "it": [
+                  "Somme"
+                ],
+                "fr": [
+                  "Somme"
+                ],
+                "nl": [
+                  "Somme"
+                ],
+                "es": [
+                  "Somme"
+                ]
+              },
+              "insee": "80",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:email": [
+        "reservation@somme-tourisme.com"
+      ],
+      "schema:legalName": "Hébergements locatifs",
+      "schema:telephone": [
+        "+33 3 22 71 22 70"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.booking-somme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4533e4e6-ad73-31df-b992-22d29619f7ad",
+      "schema:email": [
+        "reservation@somme-tourisme.com"
+      ],
+      "schema:telephone": [
+        "+33 3 22 71 22 70"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.booking-somme.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5562aa4d-190b-3458-825c-7e3d911493b4",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/95343b41-1030-3d3b-a0bf-28d89a988415",
+          "schema:addressLocality": "Quend",
+          "schema:postalCode": "80120",
+          "schema:streetAddress": [
+            "Hameau de Pont à Cailloux",
+            "Quend"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:80649",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quend"
+              ],
+              "pt": [
+                "Quend"
+              ],
+              "en": [
+                "Quend"
+              ],
+              "it": [
+                "Quend"
+              ],
+              "fr": [
+                "Quend"
+              ],
+              "nl": [
+                "Quend"
+              ],
+              "es": [
+                "Quend"
+              ]
+            },
+            "insee": "80649",
+            "isPartOfDepartment": {
+              "@id": "kb:France3280",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Somme"
+                ],
+                "pt": [
+                  "Somme"
+                ],
+                "en": [
+                  "Somme"
+                ],
+                "it": [
+                  "Somme"
+                ],
+                "fr": [
+                  "Somme"
+                ],
+                "nl": [
+                  "Somme"
+                ],
+                "es": [
+                  "Somme"
+                ]
+              },
+              "insee": "80",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:email": [
+        "reservation@somme-tourisme.com"
+      ],
+      "schema:legalName": "Hébergements locatifs",
+      "schema:telephone": [
+        "+33 3 22 71 22 70"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.booking-somme.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/d0e60275-41d8-3b4b-9afb-4e596d2ac31b",
+      "dc:description": {
+        "de": [
+          "Im Naturgebiet der Bucht von Authie, 7 km vom Strand entfernt, Ferienhaus (76 m²), in der Nähe des Wohnhauses der Eigentümer, an das Ferienhaus 98006 angrenzend. Wohnraum/Wohnbereich (1 Einzelbett), Küche (Kühl-/Gefrierschrank), 1 Schlafzimmer (1 Bett 140), 1 Schlafzimmer (2 Einzelbetten), Badezimmer mit WC. Ölzentralheizung inklusive (außer im Sommer) , obligatorische Reinigungspauschale von 40 ?, die bei Ihrer Ankunft vor Ort zu zahlen ist. Geschlossener Privatgarten (120 m²). Zugang zu einem großen, gemeinschaftlichen Bereich mit Bäumen möglich (Tiere sind jedoch nicht erlaubt). Angeln im Fluss 1. Kategorie in der Nähe und großer Teich in 4 km Entfernung: alle Weißfische und Hechte. TV. Hund akzeptiert mit Zuschlag von 5?/Tag und Kaution von 180? Katze wird nicht akzeptiert. Radwege in der Nähe: einer davon verbindet Fort-Mahon und einer die Region Pas-de-Calais. Sicherer Raum für Fahrräder."
+        ],
+        "en": [
+          "In the natural site of the Authie bay, 7 km from the beach, gîte (76 m²), near the owners' house, adjoining the gîte 98006. Living room (1 bed 90), kitchen (refrigerator/freezer), 1 bedroom (1 bed 140), 1 bedroom (2 beds 90), bathroom with WC. Oil-fired central heating included (except in summer), compulsory cleaning fee of 40 ? to be paid on arrival. Private enclosed garden (120 m²). Possible access to a large wooded and common area (but prohibited to animals). Fishing in the 1st category river nearby and a large lake located 4 km away: all white fish and pikes. TV . Dog accepted with a supplement of 5?/day and a deposit of 180 ? Cat not accepted. Bicycle paths nearby: one connecting Fort-Mahon and one connecting the Pas-de-Calais. Secured room for bikes."
+        ],
+        "it": [
+          "Nel sito naturale della baia di Authie, a 7 km dalla spiaggia, gîte (76 m²), vicino alla casa dei proprietari, adiacente alla gîte 98006. Soggiorno (1 letto 90), cucina (frigorifero/congelatore), 1 camera (1 letto 140), 1 camera (2 letti 90), bagno con WC. Riscaldamento centrale a gasolio incluso (tranne in estate), spese di pulizia obbligatorie di 40 € da pagare all'arrivo. Giardino privato recintato (120 m²). Possibile accesso a un'ampia area boschiva e condivisa (ma non sono ammessi animali). Pesca nel fiume di 1ª categoria nelle vicinanze e in un grande lago a 4 km di distanza: tutti i pesci bianchi e i lucci. TV . I cani sono accettati con un supplemento di 5 € al giorno e una cauzione di 180 €. Non si accettano gatti. Piste ciclabili nelle vicinanze: una che collega Fort-Mahon e una che collega il Pas-de-Calais. Deposito sicuro per le biciclette."
+        ],
+        "fr": [
+          "Dans le site naturel de la baie d'Authie, à 7 km de la plage, gîte (76 m²), à proximité de l'habitation des propriétaires, mitoyen au gîte 98006. Séjour/coin-salon (1 lit 90), cuisine (réfrigérateur/congélateur), 1 chambre (1 lit 140), 1 chambre (2 lits 90), salle de bains avec WC. Chauffage central au fioul inclus (sauf été) , forfait ménage obligatoire de 40 € à régler sur place à votre arrivée. Jardin clos privatif (120 m²). Accès possible à un grand espace arboré et commun (mais interdit aux animaux). Pêche en rivière 1ère catégorie à proximité et grand plan d'eau situé à 4 km : tous poissons blancs et brochets. TV . Chien accepté avec supplément de 5€/jour et caution de 180 €. Chat non accepté. Pistes cyclables à proximité : dont une reliant Fort-Mahon et une reliant le pas-de-calais. Local sécurisé pour vélos."
+        ],
+        "nl": [
+          "In de natuurlijke omgeving van de baai van Authie, op 7 km van het strand, gîte (76 m²), vlakbij het huis van de eigenaren, grenzend aan de gîte 98006. Woonkamer (1 bed van 90), keuken (koelkast/vriezer), 1 slaapkamer (1 bed van 140), 1 slaapkamer (2 bedden van 90), badkamer met WC. Centrale verwarming op olie inbegrepen (behalve in de zomer), verplichte schoonmaakkosten van 40 € bij aankomst te betalen. Omheinde privétuin (120 m²). Mogelijke toegang tot een groot bebost en gedeeld gebied (maar dieren zijn niet toegestaan). Vissen in de rivier van 1ste categorie in de buurt en een groot meer op 4 km afstand: alle witvis en snoek. TV . Honden toegelaten met een supplement van 5?/dag en een waarborg van 180 ? Katten worden niet geaccepteerd. Fietspaden in de buurt: één die Fort-Mahon verbindt en één die Pas-de-Calais verbindt. Veilige fietsenstalling."
+        ],
+        "es": [
+          "En el paraje natural de la bahía de Authie, a 7 km de la playa, casa rural (76 m²), cerca de la casa de los propietarios, contigua a la casa rural 98006. Salón (1 cama 90), cocina (nevera/congelador), 1 dormitorio (1 cama 140), 1 dormitorio (2 camas 90), baño con WC. Calefacción central de gasoil incluida (excepto en verano), tasa de limpieza obligatoria de 40€ a pagar a la llegada. Jardín privado y cerrado (120 m²). Posible acceso a una gran zona arbolada y compartida (pero no se admiten animales). Pesca en el río de 1ª categoría cercano y en un gran lago a 4 km: todos los peces blancos y lucios. TV . Se aceptan perros con un suplemento de 5€/día y una fianza de 180€. No se aceptan gatos. Carriles bici cercanos: uno que une Fort-Mahon y otro que une el Pas-de-Calais. Almacenamiento seguro de bicicletas."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/03d464c6-23c3-3bd4-ad5b-f24ead22d1ac",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/32918830-cd8f-3e51-b475-92a71ce96ba7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3387c134-ffea-3e8a-9209-982155337754",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4cb7c607-5eeb-3d97-9735-d7aef6ea5b95",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/76860241-ddf5-3948-8e58-f97b74576986",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/9b865f15-2b54-360d-b6c7-c6fbe84c3c1a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a06267fb-f7c5-3e0e-b0b1-944cdcdd4271",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bcb4b233-8187-3a15-a8c6-7d46d3fec4bd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d944ed61-2c9e-31fb-8359-e8d2bdbabb88",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e996115d-e035-30f4-903f-0543bc1a6221",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "In der natürlichen Umgebung der Bucht von Authie, 7 km vom Strand entfernt, Ferienhaus (76 m²), in der Nähe des Lebensraums..."
+        ],
+        "en": [
+          "In the natural site of the Authie Bay, 7 km from the beach, gîte (76 m²), close to the house..."
+        ],
+        "it": [
+          "Nel sito naturale della baia di Authie, a 7 km dalla spiaggia, gîte (76 m²), vicino all'habitat..."
+        ],
+        "fr": [
+          "Dans le site naturel de la baie d'Authie, à 7 km de la plage, gîte (76 m²), à proximité de l'habitat..."
+        ],
+        "nl": [
+          "In de natuurlijke omgeving van de baai van Authie, op 7 km van het strand, gîte (76 m²), dicht bij de..."
+        ],
+        "es": [
+          "En el paraje natural de la bahía de Authie, a 7 km de la playa, casa rural (76 m²), cerca de..."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/55b939bd-a411-3618-8f73-77921a0e60a6",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:ScaleRating_2etoiles",
+        "schema:ratingValue": "2.0",
+        "@type": [
+          "ScaleRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "2 Sterne"
+          ],
+          "pt": [
+            "2 estrelas"
+          ],
+          "en": [
+            "2 Stars"
+          ],
+          "it": [
+            "2 stelle"
+          ],
+          "fr": [
+            "2 étoiles"
+          ],
+          "nl": [
+            "2 sterren"
+          ],
+          "es": [
+            "2 estrellas"
+          ]
+        },
+        "isCompliantWith": [
+          "CampingAndCaravanning",
+          "ClubOrHolidayVillage",
+          "HolidayCentre",
+          "Hotel",
+          "SelfCateringAccommodation"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/4f2993d9-92e8-356a-9d73-b81753c06d78",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6d5cde18-027d-3916-92ef-9d6517e9d29d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/992153b2-ec30-3758-93c8-3afda6ec81d5",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a5407405-6303-30d8-9222-04a967d71473",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/b6f2fefb-daff-33f5-b15e-d3988349119c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ee2d7159-1762-36a5-a8a4-6a53d66788b4",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/95343b41-1030-3d3b-a0bf-28d89a988415",
+          "schema:addressLocality": "Quend",
+          "schema:postalCode": "80120",
+          "schema:streetAddress": [
+            "Hameau de Pont à Cailloux",
+            "Quend"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:80649",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Quend"
+              ],
+              "pt": [
+                "Quend"
+              ],
+              "en": [
+                "Quend"
+              ],
+              "it": [
+                "Quend"
+              ],
+              "fr": [
+                "Quend"
+              ],
+              "nl": [
+                "Quend"
+              ],
+              "es": [
+                "Quend"
+              ]
+            },
+            "insee": "80649",
+            "isPartOfDepartment": {
+              "@id": "kb:France3280",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Somme"
+                ],
+                "pt": [
+                  "Somme"
+                ],
+                "en": [
+                  "Somme"
+                ],
+                "it": [
+                  "Somme"
+                ],
+                "fr": [
+                  "Somme"
+                ],
+                "nl": [
+                  "Somme"
+                ],
+                "es": [
+                  "Somme"
+                ]
+              },
+              "insee": "80",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/09713c58-5cc3-3e72-9bef-3b96100adca6",
+        "schema:latitude": "50.3491",
+        "schema:longitude": "1.63994",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-07",
+  "lastUpdateDatatourisme": "2023-06-08T02:04:40.241Z"
+}

@@ -1,0 +1,540 @@
+{
+  "@id": "https://data.datatourisme.fr/14/ff8e6314-e9d9-3e05-a4ed-ff2e959be4b9",
+  "dc:identifier": "92181",
+  "@type": [
+    "schema:Accommodation",
+    "schema:BedAndBreakfast",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "Guesthouse",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Chambre d'hôtes la Ferme Wessière ist eine typische Unterkunft in Seeflandern und befindet sich auf dem Land in Oye-Plage, nur 1 km von La Vélomaritime und 3 km vom Strand entfernt. Nicht weit entfernt liegt das Naturreservat Platier d'Oye, eines der ornithologischen Juwelen des Departements. Nehmen Sie Ihr Fernglas mit, um die Hunderte von Vogelarten, die Fauna und Flora zu beobachten\nDas geräumige Zimmer für 2 Personen bietet einen direkten Zugang zum Garten und ist über einen privaten Eingang erreichbar. Es verfügt außerdem über eine Küche, die im Stil der 1960er Jahre eingerichtet ist und die notwendigen Einrichtungen für die Zubereitung von Mahlzeiten bietet. Der Garten ist mit künstlerischen Werken geschmückt.\nDie Einrichtung bietet außerdem eine schöne Ferienwohnung, in der 4 Personen untergebracht werden können."
+    ],
+    "en": [
+      "La Ferme Wessière is a typical Flandre Maritime accommodation located in the countryside of Oye-Plage, only 1 km from La Vélomaritime and 3 km from the beach. Not far away is the Platier d'Oye Nature Reserve, one of the ornithological jewels of the department. Take your binoculars to observe the hundreds of species of birds, fauna and flora\nThe room for 2 persons is spacious and offers direct access to the garden and is accessible through a private entrance. It also has a kitchen decorated in a 1960's style and offers the necessary facilities for cooking. The garden is decorated with artistic works.\nThere is also a beautiful gîte for 4 people."
+    ],
+    "it": [
+      "Lo Chambre d'hôtes la Ferme Wessière è un tipico alloggio delle Flandre Maritime situato nella campagna di Oye-Plage, a solo 1 km da La Vélomaritime e a 3 km dalla spiaggia. Non lontano si trova la Riserva Naturale del Platier d'Oye, uno dei gioielli ornitologici del dipartimento. Portate con voi un binocolo per osservare le centinaia di specie di uccelli, fauna e flora\nLa camera per 2 persone è spaziosa e offre accesso diretto al giardino ed è accessibile attraverso un ingresso privato. Dispone inoltre di una cucina arredata in stile anni '60 e offre le attrezzature necessarie per cucinare. Il giardino è decorato con opere artistiche.\nC'è anche un bellissimo gîte che può ospitare 4 persone."
+    ],
+    "fr": [
+      "La Chambre d’hôtes la Ferme Wessière est un hébergement typique de la Flandre maritime situé dans la campagne d’Oye-Plage à seulement 1 km de La Vélomaritime et à 3 km de la plage. Pas loin se trouve la Réserve Naturelle du Platier d’Oye, l'un des joyaux ornithologiques du département. Prenez vos jumelles pour observer les centaines d’espèces d’oiseaux, la faune et la flore. \nLa chambre pour 2 personnes est spacieuse et offre un accès direct sur le jardin et est accessible par une entrée privée. Elle dispose également d’une cuisine décorée dans un style des années 1960 et offre les équipements nécessaires pour la confection des repas. Le jardin est agrémenté d'œuvres artistiques.\nL’établissement propose également un beau gîte permettant d’accueillir 4 personnes."
+    ],
+    "nl": [
+      "Chambre d'hôtes la Ferme Wessière is een typisch Flandre Maritime accommodatie gelegen op het platteland van Oye-Plage, op slechts 1 km van La Vélomaritime en 3 km van het strand. Niet ver daarvandaan ligt het natuurreservaat Platier d'Oye, een van de ornithologische juweeltjes van het departement. Neem uw verrekijker mee om de honderden soorten vogels, fauna en flora te observeren\nDe kamer voor 2 personen is ruim en biedt directe toegang tot de tuin en is toegankelijk via een eigen ingang. Het heeft ook een keuken ingericht in een jaren '60 stijl en biedt de nodige faciliteiten om te koken. De tuin is versierd met kunstwerken.\nEr is ook een mooie gîte die plaats biedt aan 4 personen."
+    ],
+    "es": [
+      "Chambre d'hôtes la Ferme Wessière es un alojamiento típico de Flandre Maritime situado en el campo de Oye-Plage, a sólo 1 km de La Vélomaritime y a 3 km de la playa. No muy lejos se encuentra la Reserva Natural de Platier d'Oye, una de las joyas ornitológicas del departamento. Lleve sus prismáticos para observar los cientos de especies de aves, fauna y flora\nLa habitación para 2 personas es amplia y ofrece acceso directo al jardín y es accesible a través de una entrada privada. También cuenta con una cocina decorada al estilo de los años 60 y ofrece las instalaciones necesarias para cocinar. El jardín está decorado con obras artísticas.\nTambién hay una hermosa casa rural con capacidad para 4 personas."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "LA FERME WESSIERE - ACCUEIL VELO"
+    ]
+  },
+  "allowedPersons": 4,
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13bf9c01-ddfc-34da-b05d-64a7fbd4b53e",
+    "schema:email": [
+      "datatourisme62@gmail.com"
+    ],
+    "schema:legalName": "Pas-de-Calais Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.datatourisme62.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/13bf9c01-ddfc-34da-b05d-64a7fbd4b53e",
+      "schema:email": [
+        "datatourisme62@gmail.com"
+      ],
+      "schema:legalName": "Pas-de-Calais Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.datatourisme62.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/59330db0-2508-334b-93f2-127534ad16c8",
+      "schema:email": [
+        "francoisededrie@yahoo.fr"
+      ],
+      "schema:legalName": "La Ferme Wessière",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.ferme-wessiere.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/00452063-a37d-3efa-9c5b-7e2f1213d904",
+      "dc:description": {
+        "de": [
+          "Das Chambre d'hôtes la Ferme Wessière ist eine typische Unterkunft in Seeflandern und befindet sich auf dem Land in Oye-Plage, nur 1 km von La Vélomaritime und 3 km vom Strand entfernt. Nicht weit entfernt liegt das Naturreservat Platier d'Oye, eines der ornithologischen Juwelen des Departements. Nehmen Sie Ihr Fernglas mit, um die Hunderte von Vogelarten, die Fauna und Flora zu beobachten\nDas geräumige Zimmer für 2 Personen bietet einen direkten Zugang zum Garten und ist über einen privaten Eingang erreichbar. Es verfügt außerdem über eine Küche, die im Stil der 1960er Jahre eingerichtet ist und die notwendigen Einrichtungen für die Zubereitung von Mahlzeiten bietet. Der Garten ist mit künstlerischen Werken geschmückt.\nDie Einrichtung bietet außerdem eine schöne Ferienwohnung, in der 4 Personen untergebracht werden können."
+        ],
+        "en": [
+          "La Ferme Wessière is a typical Flandre Maritime accommodation located in the countryside of Oye-Plage, only 1 km from La Vélomaritime and 3 km from the beach. Not far away is the Platier d'Oye Nature Reserve, one of the ornithological jewels of the department. Take your binoculars to observe the hundreds of species of birds, fauna and flora\nThe room for 2 persons is spacious and offers direct access to the garden and is accessible through a private entrance. It also has a kitchen decorated in a 1960's style and offers the necessary facilities for cooking. The garden is decorated with artistic works.\nThere is also a beautiful gîte for 4 people."
+        ],
+        "it": [
+          "Lo Chambre d'hôtes la Ferme Wessière è un tipico alloggio delle Flandre Maritime situato nella campagna di Oye-Plage, a solo 1 km da La Vélomaritime e a 3 km dalla spiaggia. Non lontano si trova la Riserva Naturale del Platier d'Oye, uno dei gioielli ornitologici del dipartimento. Portate con voi un binocolo per osservare le centinaia di specie di uccelli, fauna e flora\nLa camera per 2 persone è spaziosa e offre accesso diretto al giardino ed è accessibile attraverso un ingresso privato. Dispone inoltre di una cucina arredata in stile anni '60 e offre le attrezzature necessarie per cucinare. Il giardino è decorato con opere artistiche.\nC'è anche un bellissimo gîte che può ospitare 4 persone."
+        ],
+        "fr": [
+          "La Chambre d’hôtes la Ferme Wessière est un hébergement typique de la Flandre maritime situé dans la campagne d’Oye-Plage à seulement 1 km de La Vélomaritime et à 3 km de la plage. Pas loin se trouve la Réserve Naturelle du Platier d’Oye, l'un des joyaux ornithologiques du département. Prenez vos jumelles pour observer les centaines d’espèces d’oiseaux, la faune et la flore. \nLa chambre pour 2 personnes est spacieuse et offre un accès direct sur le jardin et est accessible par une entrée privée. Elle dispose également d’une cuisine décorée dans un style des années 1960 et offre les équipements nécessaires pour la confection des repas. Le jardin est agrémenté d'œuvres artistiques.\nL’établissement propose également un beau gîte permettant d’accueillir 4 personnes."
+        ],
+        "nl": [
+          "Chambre d'hôtes la Ferme Wessière is een typisch Flandre Maritime accommodatie gelegen op het platteland van Oye-Plage, op slechts 1 km van La Vélomaritime en 3 km van het strand. Niet ver daarvandaan ligt het natuurreservaat Platier d'Oye, een van de ornithologische juweeltjes van het departement. Neem uw verrekijker mee om de honderden soorten vogels, fauna en flora te observeren\nDe kamer voor 2 personen is ruim en biedt directe toegang tot de tuin en is toegankelijk via een eigen ingang. Het heeft ook een keuken ingericht in een jaren '60 stijl en biedt de nodige faciliteiten om te koken. De tuin is versierd met kunstwerken.\nEr is ook een mooie gîte die plaats biedt aan 4 personen."
+        ],
+        "es": [
+          "Chambre d'hôtes la Ferme Wessière es un alojamiento típico de Flandre Maritime situado en el campo de Oye-Plage, a sólo 1 km de La Vélomaritime y a 3 km de la playa. No muy lejos se encuentra la Reserva Natural de Platier d'Oye, una de las joyas ornitológicas del departamento. Lleve sus prismáticos para observar los cientos de especies de aves, fauna y flora\nLa habitación para 2 personas es amplia y ofrece acceso directo al jardín y es accesible a través de una entrada privada. También cuenta con una cocina decorada al estilo de los años 60 y ofrece las instalaciones necesarias para cocinar. El jardín está decorado con obras artísticas.\nTambién hay una hermosa casa rural con capacidad para 4 personas."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1786b52c-e710-3c63-872e-a0179ec83550",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/3fa69f66-6b41-3e71-9aac-012a5b71a913",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/43dfe86a-17c9-38ea-be03-674cba8094c4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4aec8ab1-3589-3ce1-b618-b7e65c95e938",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5d2e7890-8f3c-3f06-9e8f-0042f6710a27",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6ec4899d-00b8-3982-8e44-0a8fec7f84b8",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/70254d07-513e-3fde-9d61-c55808aa7cb9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bcb3aed2-cde6-31fc-ba02-58c4f80366ff",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e506785e-f761-3678-b228-fc251f2887cc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f50a316a-0cdb-3cc9-817d-1e255a01afdc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Chambre d'hôtes la Ferme Wessière ist eine typische Unterkunft in Seeflandern und befindet sich auf dem Land in Oye-Plage, nur 1 km von La Vélomaritime und 3 km vom Strand entfernt. Nicht weit entfernt liegt das Naturreservat Platier d'Oye, eines der ornithologischen Juwelen des Departements. Nehmen Sie Ihr Fernglas mit, um die Hunderte von Vogelarten, die Fauna und Flora zu beobachten\nDas geräumige Zimmer für 2 Personen bietet einen direkten Zugang zum Garten und ist über einen privaten Eingang erreichbar. Es verfügt außerdem über eine Küche, die im Stil der 1960er Jahre eingerichtet ist und die notwendigen Einrichtungen für die Zubereitung von Mahlzeiten bietet. Der Garten ist mit künstlerischen Werken geschmückt.\nDie Einrichtung bietet außerdem eine schöne Ferienwohnung, in der 4 Personen untergebracht werden können."
+        ],
+        "en": [
+          "La Ferme Wessière is a typical Flandre Maritime accommodation located in the countryside of Oye-Plage, only 1 km from La Vélomaritime and 3 km from the beach. Not far away is the Platier d'Oye Nature Reserve, one of the ornithological jewels of the department. Take your binoculars to observe the hundreds of species of birds, fauna and flora\nThe room for 2 persons is spacious and offers direct access to the garden and is accessible through a private entrance. It also has a kitchen decorated in a 1960's style and offers the necessary facilities for cooking. The garden is decorated with artistic works.\nThere is also a beautiful gîte for 4 people."
+        ],
+        "it": [
+          "Lo Chambre d'hôtes la Ferme Wessière è un tipico alloggio delle Flandre Maritime situato nella campagna di Oye-Plage, a solo 1 km da La Vélomaritime e a 3 km dalla spiaggia. Non lontano si trova la Riserva Naturale del Platier d'Oye, uno dei gioielli ornitologici del dipartimento. Portate con voi un binocolo per osservare le centinaia di specie di uccelli, fauna e flora\nLa camera per 2 persone è spaziosa e offre accesso diretto al giardino ed è accessibile attraverso un ingresso privato. Dispone inoltre di una cucina arredata in stile anni '60 e offre le attrezzature necessarie per cucinare. Il giardino è decorato con opere artistiche.\nC'è anche un bellissimo gîte che può ospitare 4 persone."
+        ],
+        "fr": [
+          "La Chambre d’hôtes la Ferme Wessière est un hébergement typique de la Flandre maritime situé dans la campagne d’Oye-Plage à seulement 1 km de La Vélomaritime et à 3 km de la plage. Pas loin se trouve la Réserve Naturelle du Platier d’Oye, l'un des joyaux ornithologiques du département. Prenez vos jumelles pour observer les centaines d’espèces d’oiseaux, la faune et la flore. \nLa chambre pour 2 personnes est spacieuse et offre un accès direct sur le jardin et est accessible par une entrée privée. Elle dispose également d’une cuisine décorée dans un style des années 1960 et offre les équipements nécessaires pour la confection des repas. Le jardin est agrémenté d'œuvres artistiques.\nL’établissement propose également un beau gîte permettant d’accueillir 4 personnes."
+        ],
+        "nl": [
+          "Chambre d'hôtes la Ferme Wessière is een typisch Flandre Maritime accommodatie gelegen op het platteland van Oye-Plage, op slechts 1 km van La Vélomaritime en 3 km van het strand. Niet ver daarvandaan ligt het natuurreservaat Platier d'Oye, een van de ornithologische juweeltjes van het departement. Neem uw verrekijker mee om de honderden soorten vogels, fauna en flora te observeren\nDe kamer voor 2 personen is ruim en biedt directe toegang tot de tuin en is toegankelijk via een eigen ingang. Het heeft ook een keuken ingericht in een jaren '60 stijl en biedt de nodige faciliteiten om te koken. De tuin is versierd met kunstwerken.\nEr is ook een mooie gîte die plaats biedt aan 4 personen."
+        ],
+        "es": [
+          "Chambre d'hôtes la Ferme Wessière es un alojamiento típico de Flandre Maritime situado en el campo de Oye-Plage, a sólo 1 km de La Vélomaritime y a 3 km de la playa. No muy lejos se encuentra la Reserva Natural de Platier d'Oye, una de las joyas ornitológicas del departamento. Lleve sus prismáticos para observar los cientos de especies de aves, fauna y flora\nLa habitación para 2 personas es amplia y ofrece acceso directo al jardín y es accesible a través de una entrada privada. También cuenta con una cocina decorada al estilo de los años 60 y ofrece las instalaciones necesarias para cocinar. El jardín está decorado con obras artísticas.\nTambién hay una hermosa casa rural con capacidad para 4 personas."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/a390da0c-377d-39bb-b060-323acd923543",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      },
+      "reviewDeliveryDate": "2021-04-27",
+      "reviewExpirationDate": "2023-04-27"
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/005e8caf-b945-3c43-8a5a-3b20c90fd140",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/3b569863-9d33-3854-a7ca-0a80f5b1164d",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/450e13f9-9248-370a-8830-5e9dadfd136f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/833a9701-8ade-300d-9d57-989e7a168eed",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/85fcfa9f-5353-392d-bb70-de270ebe7d14",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/b05f46a5-8d43-3f02-a61c-a6d9e663a8b7",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/6b3cdfca-53ef-3caa-a5cb-1935f156d677",
+          "schema:addressLocality": "Oye-Plage",
+          "schema:postalCode": "62215",
+          "schema:streetAddress": [
+            "230 Rue d'Alger"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:62645",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Oye-Plage"
+              ],
+              "pt": [
+                "Oye-Plage"
+              ],
+              "en": [
+                "Oye-Plage"
+              ],
+              "it": [
+                "Oye-Plage"
+              ],
+              "fr": [
+                "Oye-Plage"
+              ],
+              "nl": [
+                "Oye-Plage"
+              ],
+              "es": [
+                "Oye-Plage"
+              ]
+            },
+            "insee": "62645",
+            "isPartOfDepartment": {
+              "@id": "kb:France3262",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Pas-de-Calais"
+                ],
+                "pt": [
+                  "Pas-de-Calais"
+                ],
+                "en": [
+                  "Pas-de-Calais"
+                ],
+                "it": [
+                  "Pas-de-Calais"
+                ],
+                "fr": [
+                  "Pas-de-Calais"
+                ],
+                "nl": [
+                  "Pas-de-Calais"
+                ],
+                "es": [
+                  "Pas-de-Calais"
+                ]
+              },
+              "insee": "62",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/338f4ac7-7c9a-313d-8024-34cdd97328be",
+        "schema:latitude": "50.959349",
+        "schema:longitude": "1.99016",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-02-27",
+  "lastUpdateDatatourisme": "2023-06-16T13:55:02.362Z"
+}

@@ -1,0 +1,857 @@
+{
+  "@id": "https://data.datatourisme.fr/28/3cd3cb34-f7c5-3820-bdb1-93a8854983c5",
+  "dc:identifier": "HLOPIC0800201219",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation",
+    "SelfCateringAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Ferienhaus (75 m²) am Treidelpfad, am Ufer der Somme, neben dem Haus der Eigentümer, in der Nähe des Flusses..."
+    ],
+    "en": [
+      "Gite (75 m²) located along the towpath, on the banks of the Somme, next to the owners' house."
+    ],
+    "it": [
+      "Gîte (75 m²) situato lungo l'alzaia, sulle rive della Somme, accanto alla casa dei proprietari."
+    ],
+    "fr": [
+      "Gîte (75 m²) situé le long du chemin de halage, en bordure de Somme, à côte de la maison des proprié..."
+    ],
+    "nl": [
+      "Gîte (75 m²) gelegen langs het jaagpad, aan de oevers van de Somme, naast het huis van de eigenaren."
+    ],
+    "es": [
+      "Casa rural (75 m²) situada a lo largo del camino de sirga, a orillas del Somme, junto a la casa de los propietarios."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "De la marine"
+    ]
+  },
+  "allowedPersons": 4,
+  "availableLanguage": [
+    "en"
+  ],
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/28/459af280-7858-33ca-bfb6-f8272a129aec",
+    "dc:identifier": "SIM Aisne/Oise/Somme HDF - ADRT80",
+    "schema:familyName": [
+      "SIM Aisne/Oise/Somme HDF - ADRT80"
+    ],
+    "schema:legalName": "SIM Aisne/Oise/Somme HDF - ADRT80",
+    "@type": [
+      "schema:Organization",
+      "schema:Person",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/92f31106-f566-3eba-9601-ef062e161fbc",
+      "schema:legalName": "SIM Picardie",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/e4db4a3e-ceac-317b-aa09-af6940fd8bec",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d2d5545d-14b0-3d6b-88ea-70526e7ff906",
+          "schema:addressLocality": "Dreuil-lès-Amiens",
+          "schema:postalCode": "80470",
+          "schema:streetAddress": [
+            "12 chemin de la marine",
+            "DREUIL-LES-AMIENS"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:80256",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Dreuil-lès-Amiens"
+              ],
+              "pt": [
+                "Dreuil-lès-Amiens"
+              ],
+              "en": [
+                "Dreuil-lès-Amiens"
+              ],
+              "it": [
+                "Dreuil-lès-Amiens"
+              ],
+              "fr": [
+                "Dreuil-lès-Amiens"
+              ],
+              "nl": [
+                "Dreuil-lès-Amiens"
+              ],
+              "es": [
+                "Dreuil-lès-Amiens"
+              ]
+            },
+            "insee": "80256",
+            "isPartOfDepartment": {
+              "@id": "kb:France3280",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Somme"
+                ],
+                "pt": [
+                  "Somme"
+                ],
+                "en": [
+                  "Somme"
+                ],
+                "it": [
+                  "Somme"
+                ],
+                "fr": [
+                  "Somme"
+                ],
+                "nl": [
+                  "Somme"
+                ],
+                "es": [
+                  "Somme"
+                ]
+              },
+              "insee": "80",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:email": [
+        "reservation@somme-tourisme.com"
+      ],
+      "schema:legalName": "Hébergements locatifs",
+      "schema:telephone": [
+        "+33 3 22 71 22 70"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.booking-somme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4533e4e6-ad73-31df-b992-22d29619f7ad",
+      "schema:email": [
+        "reservation@somme-tourisme.com"
+      ],
+      "schema:telephone": [
+        "+33 3 22 71 22 70"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.booking-somme.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/e4db4a3e-ceac-317b-aa09-af6940fd8bec",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d2d5545d-14b0-3d6b-88ea-70526e7ff906",
+          "schema:addressLocality": "Dreuil-lès-Amiens",
+          "schema:postalCode": "80470",
+          "schema:streetAddress": [
+            "12 chemin de la marine",
+            "DREUIL-LES-AMIENS"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:80256",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Dreuil-lès-Amiens"
+              ],
+              "pt": [
+                "Dreuil-lès-Amiens"
+              ],
+              "en": [
+                "Dreuil-lès-Amiens"
+              ],
+              "it": [
+                "Dreuil-lès-Amiens"
+              ],
+              "fr": [
+                "Dreuil-lès-Amiens"
+              ],
+              "nl": [
+                "Dreuil-lès-Amiens"
+              ],
+              "es": [
+                "Dreuil-lès-Amiens"
+              ]
+            },
+            "insee": "80256",
+            "isPartOfDepartment": {
+              "@id": "kb:France3280",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Somme"
+                ],
+                "pt": [
+                  "Somme"
+                ],
+                "en": [
+                  "Somme"
+                ],
+                "it": [
+                  "Somme"
+                ],
+                "fr": [
+                  "Somme"
+                ],
+                "nl": [
+                  "Somme"
+                ],
+                "es": [
+                  "Somme"
+                ]
+              },
+              "insee": "80",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:email": [
+        "reservation@somme-tourisme.com"
+      ],
+      "schema:legalName": "Hébergements locatifs",
+      "schema:telephone": [
+        "+33 3 22 71 22 70"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.booking-somme.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/83098487-a49e-3ad7-9853-0750e80fefb3",
+      "dc:description": {
+        "de": [
+          "Ferienhaus (75 m²) am Treidelpfad, am Ufer der Somme, neben dem Haus der Eigentümer. Im Erdgeschoss: ausgestattete Einbauküche (Kühl-/Gefrierschrank), Esszimmer, Wohnzimmer mit BZ-Sofa (140 cm) und Kamin (Einsatz). Separates WC. Obergeschoss: 1 Schlafzimmer (2 Betten 90x190), 1 Mansardenzimmer mit Dachfenster (2 Betten 90x190), Badezimmer. Hof (70 m²), nicht an die Unterkunft angrenzend, Garage für 2 Autos. Sicherer Raum für Fahrräder. Heizung mit Gas. Möglichkeit zum Angeln vor Ort, auf Anfrage, im privaten Teich . Gemachte Betten inbegriffen. Die Unterkunft befindet sich westlich von Amiens, 10 min vom Stadtzentrum entfernt. Bus, Zug, Restaurant und Wasserski 300 m (von April bis Oktober) entfernt im Dorf."
+        ],
+        "en": [
+          "Gite (75 m²) located along the towpath, along the Somme river, next to the owners' house. On the first floor : fitted kitchen (fridge/freezer), dining room, living room with a convertible BZ in 140 and a fireplace (insert). Independent WC. First floor : 1 bedroom (2 beds 90x190), 1 attic bedroom with velux (2 beds 90x190), bathroom. Courtyard (70 m²) not attached to the house, garage for 2 cars. Secured room for bikes. Gas heating. Possibility of fishing on the spot, on request, in private pond. Beds made up included. The gite is located west of Amiens, 10 min from the city center. Bus, train, restaurant and water ski at 300 m (from April to October), in the village."
+        ],
+        "it": [
+          "Gîte (75 m²) situato lungo l'alzaia, sulle rive della Somme, accanto alla casa dei proprietari. Al piano terra: cucina attrezzata (frigorifero/congelatore), sala da pranzo, soggiorno con divano letto BZ 140 e camino (inserto). WC indipendente. Primo piano: 1 camera (2 letti 90x190), 1 camera mansardata con velux (2 letti 90x190), bagno. Cortile (70 m²) non adiacente all'alloggio, garage per 2 auto. Spazio sicuro per le biciclette. Riscaldamento a gas. Possibilità di pescare in loco, su richiesta, in un laghetto privato. I letti sono pronti. L'alloggio si trova a ovest di Amiens, a 10 minuti dal centro della città. Autobus, treno, ristorante e sci nautico a 300 m (da aprile a ottobre), nel villaggio."
+        ],
+        "fr": [
+          "Gîte (75 m²) situé le long du chemin de halage, en bordure de Somme, à côte de la maison des propriétaires. Au rez-de-chaussée : cuisine aménagée équipée (réfrigérateur/congélateur), salle à manger, salon avec convertible BZ en 140 et une cheminée (insert). WC indépendant. A l'étage : 1 chambre (2 lits 90x190), 1 chambre mansardée avec velux (2 lits 90x190), salle de bains. Cour (70 m²) non attenante au gîte, garage pour 2 voitures. Local sécurisé pour vélos. Chauffage au gaz. Possibilité de pêcher sur place, sur demande, en étang privé . Lits faits inclus. Le gîte est situé à l'ouest d'Amiens, à 10 min du centre ville. Bus, train, restaurant et ski nautique à 300 m (d'avril à octobre), dans le village."
+        ],
+        "nl": [
+          "Gîte (75 m²) gelegen langs het jaagpad, aan de oevers van de Somme, naast het huis van de eigenaren. Op de begane grond: ingerichte keuken (koelkast/vriezer), eetkamer, woonkamer met slaapbank BZ 140 en een open haard (insert). Onafhankelijke WC. Eerste verdieping: 1 slaapkamer (2 bedden 90x190), 1 zolderkamer met velux (2 bedden 90x190), badkamer. Binnenplaats (70 m²) niet grenzend aan de gîte, garage voor 2 auto's. Beveiligde ruimte voor fietsen. Gasverwarming. Mogelijkheid tot vissen ter plaatse, op aanvraag, in een privé-vijver. De bedden zijn opgemaakt. De gîte ligt ten westen van Amiens, op 10 minuten van het stadscentrum. Bus, trein, restaurant en waterskiën op 300 m (van april tot oktober), in het dorp."
+        ],
+        "es": [
+          "Casa rural (75 m²) situada a lo largo del camino de sirga, a orillas del Somme, junto a la casa de los propietarios. En la planta baja: cocina equipada (frigorífico/congelador), comedor, sala de estar con sofá cama BZ 140 y chimenea (insertable). WC independiente. Primera planta: 1 dormitorio (2 camas 90x190), 1 dormitorio abuhardillado con velux (2 camas 90x190), cuarto de baño. Patio (70 m²) no contiguo a la casa rural, garaje para 2 coches. Cuarto seguro para bicicletas. Calefacción de gas. Posibilidad de pescar in situ, previa petición, en un estanque privado. Las camas están hechas. La casa rural está situada al oeste de Amiens, a 10 minutos del centro de la ciudad. Autobús, tren, restaurante y esquí acuático a 300 m (de abril a octubre), en el pueblo."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/046da911-29cb-36b5-bf5e-f494a97491b2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/14a5730f-d09a-3670-a07c-695b21792733",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2630197c-2e6e-3a03-95bb-d9505cb66d4a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5c959710-c1a1-3980-a36b-48353ed084e5",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/76b36943-5f00-3540-8b97-b501339de376",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/8397efcf-c10b-3f88-bad8-f41fbccd157a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/af2dde66-f780-3367-9e6b-066fcdbbf596",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b6157634-a5c8-382a-be22-b7e20cf274cd",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bfe9ca5c-7b6b-3ff4-8503-5fcbf3e350a0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f4a63e7a-fc60-3c71-bce2-5a263ff40077",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Ferienhaus (75 m²) am Treidelpfad, am Ufer der Somme, neben dem Haus der Eigentümer, in der Nähe des Flusses..."
+        ],
+        "en": [
+          "Gite (75 m²) located along the towpath, on the banks of the Somme, next to the owners' house."
+        ],
+        "it": [
+          "Gîte (75 m²) situato lungo l'alzaia, sulle rive della Somme, accanto alla casa dei proprietari."
+        ],
+        "fr": [
+          "Gîte (75 m²) situé le long du chemin de halage, en bordure de Somme, à côte de la maison des proprié..."
+        ],
+        "nl": [
+          "Gîte (75 m²) gelegen langs het jaagpad, aan de oevers van de Somme, naast het huis van de eigenaren."
+        ],
+        "es": [
+          "Casa rural (75 m²) situada a lo largo del camino de sirga, a orillas del Somme, junto a la casa de los propietarios."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/7724dbf0-7649-358b-be17-1db1b66a240f",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:ScaleRating_3etoiles",
+        "schema:ratingValue": "3.0",
+        "@type": [
+          "ScaleRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "3 Sterne"
+          ],
+          "pt": [
+            "3 estrelas"
+          ],
+          "en": [
+            "3 Stars"
+          ],
+          "it": [
+            "3 stelle"
+          ],
+          "fr": [
+            "3 étoiles"
+          ],
+          "nl": [
+            "3 sterren"
+          ],
+          "es": [
+            "3 estrellas"
+          ]
+        },
+        "isCompliantWith": [
+          "CampingAndCaravanning",
+          "ClubOrHolidayVillage",
+          "HolidayCentre",
+          "Hotel",
+          "SelfCateringAccommodation"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/8e50cda4-d885-3d18-b9b5-a4b680b504cb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/c0909c98-97b6-3d2f-9f37-23ca8bcccdde",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f2e802c6-d0d8-361f-9974-ea4eaf236edd",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fc29a0fa-d2b3-3e60-a39d-228a3c830732",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fdf344e0-555d-3582-98e1-46868ac21d3f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/3ee09a54-a7d3-3324-ae7c-b839e912b647",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/d2d5545d-14b0-3d6b-88ea-70526e7ff906",
+          "schema:addressLocality": "Dreuil-lès-Amiens",
+          "schema:postalCode": "80470",
+          "schema:streetAddress": [
+            "12 chemin de la marine",
+            "DREUIL-LES-AMIENS"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:80256",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Dreuil-lès-Amiens"
+              ],
+              "pt": [
+                "Dreuil-lès-Amiens"
+              ],
+              "en": [
+                "Dreuil-lès-Amiens"
+              ],
+              "it": [
+                "Dreuil-lès-Amiens"
+              ],
+              "fr": [
+                "Dreuil-lès-Amiens"
+              ],
+              "nl": [
+                "Dreuil-lès-Amiens"
+              ],
+              "es": [
+                "Dreuil-lès-Amiens"
+              ]
+            },
+            "insee": "80256",
+            "isPartOfDepartment": {
+              "@id": "kb:France3280",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Somme"
+                ],
+                "pt": [
+                  "Somme"
+                ],
+                "en": [
+                  "Somme"
+                ],
+                "it": [
+                  "Somme"
+                ],
+                "fr": [
+                  "Somme"
+                ],
+                "nl": [
+                  "Somme"
+                ],
+                "es": [
+                  "Somme"
+                ]
+              },
+              "insee": "80",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/e79e62ba-d6ed-357d-9f71-c428c1b10283",
+        "schema:latitude": "49.9186",
+        "schema:longitude": "2.22952",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ],
+      "petsAllowed": false
+    }
+  ],
+  "lastUpdate": "2023-06-07",
+  "lastUpdateDatatourisme": "2023-06-08T02:04:40.251Z"
+}

@@ -1,0 +1,541 @@
+{
+  "@id": "https://data.datatourisme.fr/14/43de90bf-7789-3a64-b8d7-65cb27ced88a",
+  "dc:identifier": "57278",
+  "@type": [
+    "schema:Accommodation",
+    "schema:Hostel",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "CollectiveAccommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "YouthHostelAndInternationalCenter"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Das Hostel liegt 50 m vom SNCF-Bahnhof, 10 Minuten von Nausicaa und 5 Minuten vom Stadtzentrum von Boulogne-sur-Mer entfernt.\nWir bieten Ihnen Zimmer mit 2 bis 5 Betten, die mit Bad und Toilette ausgestattet sind und eine Kapazität von bis zu 137 Personen haben.\nDie Jugendherberge bietet auf Radfahrer zugeschnittene Dienstleistungen wie einen sicheren Fahrradunterstand, ein Reparaturset und vor allem einen herzlichen Empfang.\nSie bietet auch verschiedene Verpflegungsdienste an.\nOb Sie allein, mit der Familie oder in einer Gruppe unterwegs sind, Sie sind herzlich willkommen."
+    ],
+    "en": [
+      "The hostel is located 50 meters from the train station, 10 minutes from Nausicaa, and 5 minutes from downtown Boulogne-sur-mer.\nWe offer rooms from 2 to 5 beds equipped with bathroom and toilet with a capacity of up to 137 people.\nThe youth hostel offers services adapted to cyclists such as a secure bicycle shelter, a repair kit and above all a warm welcome.\nIt also offers various catering services.\nWhether you are alone, with your family or in a group, you are welcome."
+    ],
+    "it": [
+      "L'ostello si trova a 50 metri dalla stazione ferroviaria, a 10 minuti da Nausicaa e a 5 minuti dal centro di Boulogne-sur-mer.\nOffriamo camere da 2 a 5 letti dotate di bagno e servizi igienici con una capacità fino a 137 persone.\nL'ostello della gioventù offre servizi adatti ai ciclisti, come un riparo sicuro per le biciclette, un kit di riparazione e soprattutto un'accoglienza calorosa.\nOffre anche vari servizi di catering.\nChe siate soli, in famiglia o in gruppo, siete i benvenuti."
+    ],
+    "fr": [
+      "L'auberge est située a 50 mètres de la gare SNCF, 10 minutes de Nausicaa, et 5 minutes du centre-ville de Boulogne-sur-mer.\nNous vous proposons des chambres de 2 à 5 lits équipées de salle de bain et toilettes avec une capacité d'accueil allant jusqu'a 137 personnes.\nL'auberge de jeunesse offre des services adaptés aux cyclistes comme un abri vélo sécurisé, un kit de réparation et surtout un accueil chaleureux.\nElle propose également différents services de restauration.\nQue vous soyez seul, en famille ou en groupe, vous êtes les bienvenus."
+    ],
+    "nl": [
+      "Het hostel ligt op 50 meter van het treinstation, op 10 minuten van Nausicaa en op 5 minuten van het stadscentrum van Boulogne-sur-mer.\nWij bieden kamers van 2 tot 5 bedden uitgerust met badkamer en toilet met een capaciteit tot 137 personen.\nDe jeugdherberg biedt aan fietsers aangepaste diensten zoals een beveiligde fietsenstalling, een reparatiekit en vooral een warm onthaal.\nHet biedt ook verschillende cateringdiensten aan.\nOf u nu alleen bent, met uw gezin of in een groep, u bent van harte welkom."
+    ],
+    "es": [
+      "El albergue se encuentra a 50 metros de la estación de ferrocarril, a 10 minutos de Nausicaa y a 5 minutos del centro de Boulogne-sur-mer.\nOfrecemos habitaciones de 2 a 5 camas equipadas con baño y aseo con capacidad para hasta 137 personas.\nEl albergue juvenil ofrece servicios adaptados a los ciclistas, como un refugio seguro para bicicletas, un kit de reparación y, sobre todo, una cálida bienvenida.\nTambién ofrece diversos servicios de restauración.\nTanto si está solo, en familia o en grupo, será bienvenido."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "AUBERGE DE JEUNESSE BOULOGNE-SUR-MER"
+    ]
+  },
+  "allowedPersons": 135,
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13bf9c01-ddfc-34da-b05d-64a7fbd4b53e",
+    "schema:email": [
+      "datatourisme62@gmail.com"
+    ],
+    "schema:legalName": "Pas-de-Calais Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.datatourisme62.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/13bf9c01-ddfc-34da-b05d-64a7fbd4b53e",
+      "schema:email": [
+        "datatourisme62@gmail.com"
+      ],
+      "schema:legalName": "Pas-de-Calais Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.datatourisme62.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/68cac2dd-664e-3d86-9861-e281b35a784e",
+      "schema:email": [
+        "boulogne-sur-mer@hifrance.org"
+      ],
+      "schema:legalName": "Auberge de Jeunesse Annette Allan-Lantz",
+      "schema:telephone": [
+        "+33 3 21 99 15 30"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.hifrance.org/auberges-de-jeunesse/boulogne-sur-mer-annette-allan-lantz/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/85195887-9cd3-37ec-9cfe-49385c4d747a",
+      "dc:description": {
+        "de": [
+          "Das Hostel liegt 50 m vom SNCF-Bahnhof, 10 Minuten von Nausicaa und 5 Minuten vom Stadtzentrum von Boulogne-sur-Mer entfernt.\nWir bieten Ihnen Zimmer mit 2 bis 5 Betten, die mit Bad und Toilette ausgestattet sind und eine Kapazität von bis zu 137 Personen haben.\nDie Jugendherberge bietet auf Radfahrer zugeschnittene Dienstleistungen wie einen sicheren Fahrradunterstand, ein Reparaturset und vor allem einen herzlichen Empfang.\nSie bietet auch verschiedene Verpflegungsdienste an.\nOb Sie allein, mit der Familie oder in einer Gruppe unterwegs sind, Sie sind herzlich willkommen."
+        ],
+        "en": [
+          "The hostel is located 50 meters from the train station, 10 minutes from Nausicaa, and 5 minutes from downtown Boulogne-sur-mer.\nWe offer rooms from 2 to 5 beds equipped with bathroom and toilet with a capacity of up to 137 people.\nThe youth hostel offers services adapted to cyclists such as a secure bicycle shelter, a repair kit and above all a warm welcome.\nIt also offers various catering services.\nWhether you are alone, with your family or in a group, you are welcome."
+        ],
+        "it": [
+          "L'ostello si trova a 50 metri dalla stazione ferroviaria, a 10 minuti da Nausicaa e a 5 minuti dal centro di Boulogne-sur-mer.\nOffriamo camere da 2 a 5 letti dotate di bagno e servizi igienici con una capacità fino a 137 persone.\nL'ostello della gioventù offre servizi adatti ai ciclisti, come un riparo sicuro per le biciclette, un kit di riparazione e soprattutto un'accoglienza calorosa.\nOffre anche vari servizi di catering.\nChe siate soli, in famiglia o in gruppo, siete i benvenuti."
+        ],
+        "fr": [
+          "L'auberge est située a 50 mètres de la gare SNCF, 10 minutes de Nausicaa, et 5 minutes du centre-ville de Boulogne-sur-mer.\nNous vous proposons des chambres de 2 à 5 lits équipées de salle de bain et toilettes avec une capacité d'accueil allant jusqu'a 137 personnes.\nL'auberge de jeunesse offre des services adaptés aux cyclistes comme un abri vélo sécurisé, un kit de réparation et surtout un accueil chaleureux.\nElle propose également différents services de restauration.\nQue vous soyez seul, en famille ou en groupe, vous êtes les bienvenus."
+        ],
+        "nl": [
+          "Het hostel ligt op 50 meter van het treinstation, op 10 minuten van Nausicaa en op 5 minuten van het stadscentrum van Boulogne-sur-mer.\nWij bieden kamers van 2 tot 5 bedden uitgerust met badkamer en toilet met een capaciteit tot 137 personen.\nDe jeugdherberg biedt aan fietsers aangepaste diensten zoals een beveiligde fietsenstalling, een reparatiekit en vooral een warm onthaal.\nHet biedt ook verschillende cateringdiensten aan.\nOf u nu alleen bent, met uw gezin of in een groep, u bent van harte welkom."
+        ],
+        "es": [
+          "El albergue se encuentra a 50 metros de la estación de ferrocarril, a 10 minutos de Nausicaa y a 5 minutos del centro de Boulogne-sur-mer.\nOfrecemos habitaciones de 2 a 5 camas equipadas con baño y aseo con capacidad para hasta 137 personas.\nEl albergue juvenil ofrece servicios adaptados a los ciclistas, como un refugio seguro para bicicletas, un kit de reparación y, sobre todo, una cálida bienvenida.\nTambién ofrece diversos servicios de restauración.\nTanto si está solo, en familia o en grupo, será bienvenido."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/3e29ea7b-cd47-3ecd-add4-9eedef990dbf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/570d4945-7c30-3d78-8cd0-74f87d794059",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a5191848-d7c0-393d-8aac-4ddab2e3a092",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a87a3aae-07cd-3832-bc4a-f7004a1edca7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c16de937-a19e-32e0-af29-d4173b7652fb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ca1c36cd-344b-3948-a11a-bbfb51672d3f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cef5ecc6-70dc-3460-b953-e14d7c5b85cf",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ee3fde7b-6a66-3c09-8479-9559ffb38033",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f0f8a6e4-b8a4-3954-9800-36d784b1884c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f6be226d-7d26-36f0-8349-70543bc628b0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Das Hostel liegt 50 m vom SNCF-Bahnhof, 10 Minuten von Nausicaa und 5 Minuten vom Stadtzentrum von Boulogne-sur-Mer entfernt.\nWir bieten Ihnen Zimmer mit 2 bis 5 Betten, die mit Bad und Toilette ausgestattet sind und eine Kapazität von bis zu 137 Personen haben.\nDie Jugendherberge bietet auf Radfahrer zugeschnittene Dienstleistungen wie einen sicheren Fahrradunterstand, ein Reparaturset und vor allem einen herzlichen Empfang.\nSie bietet auch verschiedene Verpflegungsdienste an.\nOb Sie allein, mit der Familie oder in einer Gruppe unterwegs sind, Sie sind herzlich willkommen."
+        ],
+        "en": [
+          "The hostel is located 50 meters from the train station, 10 minutes from Nausicaa, and 5 minutes from downtown Boulogne-sur-mer.\nWe offer rooms from 2 to 5 beds equipped with bathroom and toilet with a capacity of up to 137 people.\nThe youth hostel offers services adapted to cyclists such as a secure bicycle shelter, a repair kit and above all a warm welcome.\nIt also offers various catering services.\nWhether you are alone, with your family or in a group, you are welcome."
+        ],
+        "it": [
+          "L'ostello si trova a 50 metri dalla stazione ferroviaria, a 10 minuti da Nausicaa e a 5 minuti dal centro di Boulogne-sur-mer.\nOffriamo camere da 2 a 5 letti dotate di bagno e servizi igienici con una capacità fino a 137 persone.\nL'ostello della gioventù offre servizi adatti ai ciclisti, come un riparo sicuro per le biciclette, un kit di riparazione e soprattutto un'accoglienza calorosa.\nOffre anche vari servizi di catering.\nChe siate soli, in famiglia o in gruppo, siete i benvenuti."
+        ],
+        "fr": [
+          "L'auberge est située a 50 mètres de la gare SNCF, 10 minutes de Nausicaa, et 5 minutes du centre-ville de Boulogne-sur-mer.\nNous vous proposons des chambres de 2 à 5 lits équipées de salle de bain et toilettes avec une capacité d'accueil allant jusqu'a 137 personnes.\nL'auberge de jeunesse offre des services adaptés aux cyclistes comme un abri vélo sécurisé, un kit de réparation et surtout un accueil chaleureux.\nElle propose également différents services de restauration.\nQue vous soyez seul, en famille ou en groupe, vous êtes les bienvenus."
+        ],
+        "nl": [
+          "Het hostel ligt op 50 meter van het treinstation, op 10 minuten van Nausicaa en op 5 minuten van het stadscentrum van Boulogne-sur-mer.\nWij bieden kamers van 2 tot 5 bedden uitgerust met badkamer en toilet met een capaciteit tot 137 personen.\nDe jeugdherberg biedt aan fietsers aangepaste diensten zoals een beveiligde fietsenstalling, een reparatiekit en vooral een warm onthaal.\nHet biedt ook verschillende cateringdiensten aan.\nOf u nu alleen bent, met uw gezin of in een groep, u bent van harte welkom."
+        ],
+        "es": [
+          "El albergue se encuentra a 50 metros de la estación de ferrocarril, a 10 minutos de Nausicaa y a 5 minutos del centro de Boulogne-sur-mer.\nOfrecemos habitaciones de 2 a 5 camas equipadas con baño y aseo con capacidad para hasta 137 personas.\nEl albergue juvenil ofrece servicios adaptados a los ciclistas, como un refugio seguro para bicicletas, un kit de reparación y, sobre todo, una cálida bienvenida.\nTambién ofrece diversos servicios de restauración.\nTanto si está solo, en familia o en grupo, será bienvenido."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/6e866798-cae5-351c-9e8d-963661217e60",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/06451842-11bc-3774-aef9-2510b5ba6ac3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/1e5b58c9-eb28-3d92-9bcf-ce7677fd34b2",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/492eafe9-da92-3cf4-af25-d5a5991eb32e",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/6861f9ef-f144-34f5-843c-081f5e48e827",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cd88382d-048e-326e-a5b3-ff04eb31ec1c",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/560c25c3-a887-334b-aa52-c6e2fe02bf26",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1de9ce17-bd4f-3275-9d2f-87034f2ea940",
+          "schema:addressLocality": "Boulogne-sur-Mer",
+          "schema:postalCode": "62200",
+          "schema:streetAddress": [
+            "56 Place Rouget de Lisle"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:62160",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Boulogne-sur-Mer"
+              ],
+              "pt": [
+                "Boulogne-sur-Mer"
+              ],
+              "en": [
+                "Boulogne-sur-Mer"
+              ],
+              "it": [
+                "Boulogne-sur-Mer"
+              ],
+              "fr": [
+                "Boulogne-sur-Mer"
+              ],
+              "nl": [
+                "Boulogne-sur-Mer"
+              ],
+              "es": [
+                "Boulogne-sur-Mer"
+              ]
+            },
+            "insee": "62160",
+            "isPartOfDepartment": {
+              "@id": "kb:France3262",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Pas-de-Calais"
+                ],
+                "pt": [
+                  "Pas-de-Calais"
+                ],
+                "en": [
+                  "Pas-de-Calais"
+                ],
+                "it": [
+                  "Pas-de-Calais"
+                ],
+                "fr": [
+                  "Pas-de-Calais"
+                ],
+                "nl": [
+                  "Pas-de-Calais"
+                ],
+                "es": [
+                  "Pas-de-Calais"
+                ]
+              },
+              "insee": "62",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/53c579c7-83fc-31f3-badd-a8606b2eeea9",
+        "schema:latitude": "50.715795",
+        "schema:longitude": "1.608335",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2022-12-12",
+  "lastUpdateDatatourisme": "2023-06-16T13:55:02.362Z"
+}
