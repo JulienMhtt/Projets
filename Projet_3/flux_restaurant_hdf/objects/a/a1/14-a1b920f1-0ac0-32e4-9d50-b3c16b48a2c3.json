@@ -1,0 +1,541 @@
+{
+  "@id": "https://data.datatourisme.fr/14/a1b920f1-0ac0-32e4-9d50-b3c16b48a2c3",
+  "dc:identifier": "85084",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation",
+    "SelfCateringAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Träumen Sie davon, in einer Holzhütte inmitten der Natur zu wohnen? Die Ecolodge de l'Allœu in Sailly-sur-La-Lys wurde auf Stelzen in der Nähe des Ufers der Lys und der nahe gelegenen Fahrradroute errichtet und bietet gemütlichen Komfort für einen Aufenthalt im Grünen. Entdecken Sie auch das erste Knotenpunktnetz in Frankreich! Diese Unterkunft verfügt über eine Essecke, zwei Schlafbereiche im Erdgeschoss und im Zwischengeschoss, die bis zu vier Personen beherbergen können. Ein eigenes Sanitärhäuschen und ein Unterstand für Ihre Fahrräder vervollständigen diese Ausstattung, die auf einem großen Grundstück mit Bäumen liegt.  Sie haben die Möglichkeit, sich das Frühstück vor Ort liefern zu lassen. Abwechslung und Erholung zu einem unschlagbaren Preis!"
+    ],
+    "en": [
+      "Do you dream of staying in a wooden hut in the middle of nature? The Allœu ecolodge in Sailly-sur-La-Lys, built on stilts near the banks of the Lys and the nearby Véloroute, offers cosy comfort for a stay in the green. Discover also the first network of nodes in France! This accommodation has a dining area, two sleeping areas on the ground floor and a mezzanine allowing you to accommodate up to four people. A private sanitary hut and a shelter for your bicycles complete this equipment nestled in a vast wooded area.  Breakfast can be delivered on site. A change of scenery and resourcing guaranteed for an unbeatable budget!"
+    ],
+    "it": [
+      "Sognate di soggiornare in una capanna di legno in mezzo alla natura? L'ecolodge All?u di Sailly-sur-La-Lys, costruito su palafitte vicino alle rive del Lys e alla vicina Véloroute, offre un comfort accogliente per un soggiorno ecologico. Potrete anche scoprire la prima rete di \"punti-noeuds\" in Francia! Questa sistemazione dispone di una zona pranzo, due zone notte al piano terra e al piano rialzato, che possono ospitare fino a quattro persone. Una cabina sanitaria privata e un ricovero per le biciclette completano questa attrezzatura immersa in un vasto terreno boscoso.  È possibile farsi consegnare la colazione in loco. Un cambio di scenario e un relax garantito ad un prezzo imbattibile!"
+    ],
+    "fr": [
+      "Vous rêvez de séjourner dans une cabane en bois en pleine nature ? L'écolodge de l ‘Allœu à Sailly-sur-La-Lys, construit sur pilotis à proximité des berges de la Lys et de la Véloroute toutes proches, offre un confort douillet pour un séjour au vert. A découvrir également le premier réseau points-noeuds en France ! Ce logement dispose d’un coin repas, de deux espaces nuits situés au rez de chaussée et en mezzanine vous permettant d’accueillir jusque quatre personnes. Une cabane sanitaire privative et un abri pour vos vélos complètent cet équipement niché dans un vaste terrain arboré.  Possibilité de vous faire livrer le petit-déjeuner sur place. Dépaysement et ressourcement assurés pour un budget imbattable !"
+    ],
+    "es": [
+      "¿Sueña con alojarse en una cabaña de madera en plena naturaleza? El ecolodge All?u de Sailly-sur-La-Lys, construido sobre pilotes a orillas del Lys y de la cercana Véloroute, ofrece un acogedor confort para una estancia ecológica. También podrá descubrir la primera red de \"puntos-noeuds\" de Francia Este alojamiento cuenta con una zona de comedor, dos zonas para dormir en la planta baja y en la entreplanta, que pueden alojar hasta cuatro personas. Una cabaña sanitaria privada y un refugio para sus bicicletas completan este equipamiento enclavado en una amplia parcela arbolada.  Es posible pedir que el desayuno se entregue en el lugar. Un cambio de aires y una relajación garantizada por un presupuesto inmejorable"
+    ],
+    "nl": [
+      "Droomt u van een verblijf in een houten hut midden in de natuur? De ecolodge All?u in Sailly-sur-La-Lys, gebouwd op palen aan de oevers van de Leie en de nabijgelegen Véloroute, biedt gezellig comfort voor een groen verblijf. U kunt ook het eerste netwerk van \"points-noeuds\" in Frankrijk ontdekken! Deze accommodatie heeft een eethoek, twee slaapruimtes op de begane grond en op de tussenverdieping, die geschikt zijn voor maximaal vier personen. Een eigen sanitaire cabine en een afdak voor uw fietsen completeren deze uitrusting, genesteld op een uitgestrekt bebost terrein.  Het is mogelijk om het ontbijt ter plaatse te laten bezorgen. Een verandering van omgeving en ontspanning gegarandeerd voor een onverslaanbaar budget!"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Ecolodge de l'Alloeu"
+    ]
+  },
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13bf9c01-ddfc-34da-b05d-64a7fbd4b53e",
+    "schema:email": [
+      "datatourisme62@gmail.com"
+    ],
+    "schema:legalName": "Pas-de-Calais Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.datatourisme62.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/13bf9c01-ddfc-34da-b05d-64a7fbd4b53e",
+      "schema:email": [
+        "datatourisme62@gmail.com"
+      ],
+      "schema:legalName": "Pas-de-Calais Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.datatourisme62.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/de232ab1-8dfb-3227-851f-0e7e11826d37",
+      "schema:email": [
+        "contact@lys-sans-frontieres.org"
+      ],
+      "schema:legalName": "Ecolodge de l'Alloeu",
+      "schema:telephone": [
+        "+33 3 28 44 02 06"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.capsurlarivieredor.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/af531e7a-564f-3bc0-8d78-da2b70e0cb58",
+      "dc:description": {
+        "de": [
+          "Träumen Sie davon, in einer Holzhütte inmitten der Natur zu wohnen? Die Ecolodge de l'Allœu in Sailly-sur-La-Lys wurde auf Stelzen in der Nähe des Ufers der Lys und der nahe gelegenen Fahrradroute errichtet und bietet gemütlichen Komfort für einen Aufenthalt im Grünen. Entdecken Sie auch das erste Knotenpunktnetz in Frankreich! Diese Unterkunft verfügt über eine Essecke, zwei Schlafbereiche im Erdgeschoss und im Zwischengeschoss, die bis zu vier Personen beherbergen können. Ein eigenes Sanitärhäuschen und ein Unterstand für Ihre Fahrräder vervollständigen diese Ausstattung, die auf einem großen Grundstück mit Bäumen liegt.  Sie haben die Möglichkeit, sich das Frühstück vor Ort liefern zu lassen. Abwechslung und Erholung zu einem unschlagbaren Preis!"
+        ],
+        "en": [
+          "Do you dream of staying in a wooden hut in the middle of nature? The Allœu ecolodge in Sailly-sur-La-Lys, built on stilts near the banks of the Lys and the nearby Véloroute, offers cosy comfort for a stay in the green. Discover also the first network of nodes in France! This accommodation has a dining area, two sleeping areas on the ground floor and a mezzanine allowing you to accommodate up to four people. A private sanitary hut and a shelter for your bicycles complete this equipment nestled in a vast wooded area.  Breakfast can be delivered on site. A change of scenery and resourcing guaranteed for an unbeatable budget!"
+        ],
+        "it": [
+          "Sognate di soggiornare in una capanna di legno in mezzo alla natura? L'ecolodge All?u di Sailly-sur-La-Lys, costruito su palafitte vicino alle rive del Lys e alla vicina Véloroute, offre un comfort accogliente per un soggiorno ecologico. Potrete anche scoprire la prima rete di \"punti-noeuds\" in Francia! Questa sistemazione dispone di una zona pranzo, due zone notte al piano terra e al piano rialzato, che possono ospitare fino a quattro persone. Una cabina sanitaria privata e un ricovero per le biciclette completano questa attrezzatura immersa in un vasto terreno boscoso.  È possibile farsi consegnare la colazione in loco. Un cambio di scenario e un relax garantito ad un prezzo imbattibile!"
+        ],
+        "fr": [
+          "Vous rêvez de séjourner dans une cabane en bois en pleine nature ? L'écolodge de l ‘Allœu à Sailly-sur-La-Lys, construit sur pilotis à proximité des berges de la Lys et de la Véloroute toutes proches, offre un confort douillet pour un séjour au vert. A découvrir également le premier réseau points-noeuds en France ! Ce logement dispose d’un coin repas, de deux espaces nuits situés au rez de chaussée et en mezzanine vous permettant d’accueillir jusque quatre personnes. Une cabane sanitaire privative et un abri pour vos vélos complètent cet équipement niché dans un vaste terrain arboré.  Possibilité de vous faire livrer le petit-déjeuner sur place. Dépaysement et ressourcement assurés pour un budget imbattable !"
+        ],
+        "es": [
+          "¿Sueña con alojarse en una cabaña de madera en plena naturaleza? El ecolodge All?u de Sailly-sur-La-Lys, construido sobre pilotes a orillas del Lys y de la cercana Véloroute, ofrece un acogedor confort para una estancia ecológica. También podrá descubrir la primera red de \"puntos-noeuds\" de Francia Este alojamiento cuenta con una zona de comedor, dos zonas para dormir en la planta baja y en la entreplanta, que pueden alojar hasta cuatro personas. Una cabaña sanitaria privada y un refugio para sus bicicletas completan este equipamiento enclavado en una amplia parcela arbolada.  Es posible pedir que el desayuno se entregue en el lugar. Un cambio de aires y una relajación garantizada por un presupuesto inmejorable"
+        ],
+        "nl": [
+          "Droomt u van een verblijf in een houten hut midden in de natuur? De ecolodge All?u in Sailly-sur-La-Lys, gebouwd op palen aan de oevers van de Leie en de nabijgelegen Véloroute, biedt gezellig comfort voor een groen verblijf. U kunt ook het eerste netwerk van \"points-noeuds\" in Frankrijk ontdekken! Deze accommodatie heeft een eethoek, twee slaapruimtes op de begane grond en op de tussenverdieping, die geschikt zijn voor maximaal vier personen. Een eigen sanitaire cabine en een afdak voor uw fietsen completeren deze uitrusting, genesteld op een uitgestrekt bebost terrein.  Het is mogelijk om het ontbijt ter plaatse te laten bezorgen. Een verandering van omgeving en ontspanning gegarandeerd voor een onverslaanbaar budget!"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/1098f0bd-b013-329a-be85-e91abcfbd489",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/33942d8c-2a03-31e7-aec6-3df15346c6d9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/33d93497-70df-3fc4-b0f7-7140f78f394f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/46a3a5b5-3fad-3481-8490-031cc3cba75a",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4c2fe51a-c782-3393-a504-576c2c7ad6b1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/7f1a069b-ab61-3f40-8af5-a9c147ac4a29",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b21539d7-e006-3558-a172-aec7cb6f4026",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/cae28217-1607-38c6-b96f-8999b6b1c166",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e153b6e0-4bb7-3de4-98e4-59c547ce2121",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f59a1485-e0c3-35a0-995d-2ce531ff17b2",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Träumen Sie davon, in einer Holzhütte inmitten der Natur zu wohnen? Die Ecolodge de l'Allœu in Sailly-sur-La-Lys wurde auf Stelzen in der Nähe des Ufers der Lys und der nahe gelegenen Fahrradroute errichtet und bietet gemütlichen Komfort für einen Aufenthalt im Grünen. Entdecken Sie auch das erste Knotenpunktnetz in Frankreich! Diese Unterkunft verfügt über eine Essecke, zwei Schlafbereiche im Erdgeschoss und im Zwischengeschoss, die bis zu vier Personen beherbergen können. Ein eigenes Sanitärhäuschen und ein Unterstand für Ihre Fahrräder vervollständigen diese Ausstattung, die auf einem großen Grundstück mit Bäumen liegt.  Sie haben die Möglichkeit, sich das Frühstück vor Ort liefern zu lassen. Abwechslung und Erholung zu einem unschlagbaren Preis!"
+        ],
+        "en": [
+          "Do you dream of staying in a wooden hut in the middle of nature? The Allœu ecolodge in Sailly-sur-La-Lys, built on stilts near the banks of the Lys and the nearby Véloroute, offers cosy comfort for a stay in the green. Discover also the first network of nodes in France! This accommodation has a dining area, two sleeping areas on the ground floor and a mezzanine allowing you to accommodate up to four people. A private sanitary hut and a shelter for your bicycles complete this equipment nestled in a vast wooded area.  Breakfast can be delivered on site. A change of scenery and resourcing guaranteed for an unbeatable budget!"
+        ],
+        "it": [
+          "Sognate di soggiornare in una capanna di legno in mezzo alla natura? L'ecolodge All?u di Sailly-sur-La-Lys, costruito su palafitte vicino alle rive del Lys e alla vicina Véloroute, offre un comfort accogliente per un soggiorno ecologico. Potrete anche scoprire la prima rete di \"punti-noeuds\" in Francia! Questa sistemazione dispone di una zona pranzo, due zone notte al piano terra e al piano rialzato, che possono ospitare fino a quattro persone. Una cabina sanitaria privata e un ricovero per le biciclette completano questa attrezzatura immersa in un vasto terreno boscoso.  È possibile farsi consegnare la colazione in loco. Un cambio di scenario e un relax garantito ad un prezzo imbattibile!"
+        ],
+        "fr": [
+          "Vous rêvez de séjourner dans une cabane en bois en pleine nature ? L'écolodge de l ‘Allœu à Sailly-sur-La-Lys, construit sur pilotis à proximité des berges de la Lys et de la Véloroute toutes proches, offre un confort douillet pour un séjour au vert. A découvrir également le premier réseau points-noeuds en France ! Ce logement dispose d’un coin repas, de deux espaces nuits situés au rez de chaussée et en mezzanine vous permettant d’accueillir jusque quatre personnes. Une cabane sanitaire privative et un abri pour vos vélos complètent cet équipement niché dans un vaste terrain arboré.  Possibilité de vous faire livrer le petit-déjeuner sur place. Dépaysement et ressourcement assurés pour un budget imbattable !"
+        ],
+        "es": [
+          "¿Sueña con alojarse en una cabaña de madera en plena naturaleza? El ecolodge All?u de Sailly-sur-La-Lys, construido sobre pilotes a orillas del Lys y de la cercana Véloroute, ofrece un acogedor confort para una estancia ecológica. También podrá descubrir la primera red de \"puntos-noeuds\" de Francia Este alojamiento cuenta con una zona de comedor, dos zonas para dormir en la planta baja y en la entreplanta, que pueden alojar hasta cuatro personas. Una cabaña sanitaria privada y un refugio para sus bicicletas completan este equipamiento enclavado en una amplia parcela arbolada.  Es posible pedir que el desayuno se entregue en el lugar. Un cambio de aires y una relajación garantizada por un presupuesto inmejorable"
+        ],
+        "nl": [
+          "Droomt u van een verblijf in een houten hut midden in de natuur? De ecolodge All?u in Sailly-sur-La-Lys, gebouwd op palen aan de oevers van de Leie en de nabijgelegen Véloroute, biedt gezellig comfort voor een groen verblijf. U kunt ook het eerste netwerk van \"points-noeuds\" in Frankrijk ontdekken! Deze accommodatie heeft een eethoek, twee slaapruimtes op de begane grond en op de tussenverdieping, die geschikt zijn voor maximaal vier personen. Een eigen sanitaire cabine en een afdak voor uw fietsen completeren deze uitrusting, genesteld op een uitgestrekt bebost terrein.  Het is mogelijk om het ontbijt ter plaatse te laten bezorgen. Een verandering van omgeving en ontspanning gegarandeerd voor een onverslaanbaar budget!"
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/3c7fd0f4-fa30-35a2-b8fc-94ba8692eda2",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      },
+      "reviewDeliveryDate": "2019-12-17",
+      "reviewExpirationDate": "2022-12-17"
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/1cda5924-f5ee-3256-8da7-d2846dba9e5f",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/86199440-1155-34cc-85d0-aac9e4059203",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a02f7375-998e-3363-b203-69a165e6eabf",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d2c50991-c431-395b-ab60-99ad79a89d17",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/eda126f5-6710-3992-a435-5450760a1b48",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/d795fc15-6a75-3884-bb0e-28c7e656b31c",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/4fe80d72-757a-3f4b-84fb-b85f3ef1f07a",
+          "schema:addressLocality": "Sailly-sur-la-Lys",
+          "schema:postalCode": "62840",
+          "schema:streetAddress": [
+            "1 Berge de la Lys"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:62736",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Sailly-sur-la-Lys"
+              ],
+              "pt": [
+                "Sailly-sur-la-Lys"
+              ],
+              "en": [
+                "Sailly-sur-la-Lys"
+              ],
+              "it": [
+                "Sailly-sur-la-Lys"
+              ],
+              "fr": [
+                "Sailly-sur-la-Lys"
+              ],
+              "nl": [
+                "Sailly-sur-la-Lys"
+              ],
+              "es": [
+                "Sailly-sur-la-Lys"
+              ]
+            },
+            "insee": "62736",
+            "isPartOfDepartment": {
+              "@id": "kb:France3262",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Pas-de-Calais"
+                ],
+                "pt": [
+                  "Pas-de-Calais"
+                ],
+                "en": [
+                  "Pas-de-Calais"
+                ],
+                "it": [
+                  "Pas-de-Calais"
+                ],
+                "fr": [
+                  "Pas-de-Calais"
+                ],
+                "nl": [
+                  "Pas-de-Calais"
+                ],
+                "es": [
+                  "Pas-de-Calais"
+                ]
+              },
+              "insee": "62",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/8433a50c-1345-3516-92fb-ccb143b09ef1",
+        "schema:latitude": "50.660846",
+        "schema:longitude": "2.801071",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-02-27",
+  "lastUpdateDatatourisme": "2023-06-16T13:55:02.362Z"
+}

@@ -1,0 +1,539 @@
+{
+  "@id": "https://data.datatourisme.fr/14/d0a364bd-4a35-36f9-a109-12f1e43b7061",
+  "dc:identifier": "90894",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation",
+    "SelfCateringAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Sie werden von diesem mit Pflanzen bewachsenen, mit 4 Sternen ausgezeichneten Ferienhaus begeistert sein. Es liegt ideal am Rande des Stadtzentrums von Béthune in der Nähe der EuroVelo 5 und der Treidelpfade des Canal d'Aire. Das Gite erstreckt sich über 3 Etagen. Im Erdgeschoss befindet sich eine große geschlossene Garage, in der Sie Ihre Fahrräder unterstellen können. Die Gite ist für 6 Personen ausgestattet, Hand- und Geschirrtücher sowie Hygieneartikel werden gestellt und die Betten sind bei Ihrer Ankunft gemacht. Nach einem Tag in den Pedalen werden Sie diese Dienstleistungen zu schätzen wissen! In der Küche werden Sie von den grundlegenden Kochutensilien profitieren: Tee- und Kaffeepads, Nutella, Marmelade, Öl und Gewürze. Wenn Sie angekommen sind, können Sie zu Fuß hinuntergehen und den Grand'Place mit seinen Geschäften und Restaurants erkunden."
+    ],
+    "en": [
+      "You will be seduced by this 4 star rated gite, ideally located on the edge of the city centre of Béthune near the EuroVelo 5 and the towpaths of the Canal d'Aire. The gite is on 3 levels, the ground floor is composed of a large closed garage to put your bicycles under cover. The gite is equipped for 6 people, bathroom and service linen are provided, as well as hygiene products and the beds are made on your arrival. After a day of cycling, you will appreciate these services! In the kitchen you will be provided with basic cooking supplies: tea pods, coffee, nutella, jams, oil and condiments. Once you have arrived, you can walk down to discover the Grand'Place and its shops and restaurants."
+    ],
+    "it": [
+      "Sarete sedotti da questo gite verde a 4 stelle, situato in posizione ideale ai margini del centro città di Béthune, vicino all'EuroVelo 5 e alle alzaie del Canal d'Aire. Il gite è disposto su 3 livelli, il piano terra ha un grande garage chiuso per tenere al sicuro le vostre biciclette. L'alloggio è attrezzato per 6 persone, la biancheria da bagno e di servizio è fornita, così come i prodotti per l'igiene e i letti sono fatti al vostro arrivo. Dopo una giornata in bicicletta, apprezzerete questi servizi! In cucina avrete a disposizione il materiale di base per cucinare: tè, caffè, nutella, marmellate, olio e condimenti. Una volta arrivati, potrete scendere a piedi per scoprire la Grand'Place e i suoi negozi e ristoranti."
+    ],
+    "fr": [
+      "Vous serez séduit par ce gite végétal, classé 4 étoiles, idéalement situé au bord du centre-ville de Béthune proche de l'EuroVelo 5 et des chemins de halage du Canal d'Aire. Le gite est sur 3 niveaux, le rez-de-chaussée est composé d’un grand garage fermé pour mettre vos vélos à l'abri. Le gite est équipé pour 6 personnes, le linge de toilettes et de service sont fournis, ainsi que des produits d'hygiène et les lits sont faits à votre arrivée. Après une journée à pédaler, vous apprécieriez ces services ! Dans la cuisine vous bénéficierez de quoi faire la cuisine de base : dosettes de thé, café, nutella, confitures, l'huile et condiments.. Une fois arrivés, vous pouvez descendre à pied pour découvrir la Grand'Place et ses commerces et restaurants."
+    ],
+    "nl": [
+      "U zult verleid worden door deze groene gite met 4 sterren, ideaal gelegen aan de rand van het centrum van Béthune in de buurt van de EuroVelo 5 en de jaagpaden van het Canal d'Aire. De gite heeft 3 verdiepingen, de begane grond heeft een grote afgesloten garage om uw fietsen veilig te bewaren. De gîte is ingericht voor 6 personen, het bad- en beddengoed is aanwezig, evenals hygiënische producten en de bedden zijn opgemaakt bij aankomst. Na een dag fietsen zult u deze diensten waarderen! In de keuken wordt u voorzien van basis kookbenodigdheden: thee, koffie, nutella, jam, olie en specerijen. Eenmaal aangekomen kunt u naar beneden lopen om de Grote Markt en zijn winkels en restaurants te ontdekken."
+    ],
+    "es": [
+      "Le seducirá esta casa rural de 4 estrellas, idealmente situada en las afueras del centro de la ciudad de Béthune, cerca del EuroVelo 5 y de los caminos de sirga del Canal d'Aire. La casa rural está en 3 niveles, la planta baja tiene un gran garaje cerrado para mantener sus bicicletas seguras. La casa rural está equipada para 6 personas, se proporciona ropa de baño y de servicio, así como productos de higiene y las camas están hechas a su llegada. Después de un día de ciclismo, agradecerás estos servicios En la cocina se te proporcionará el material básico para cocinar: té, café, nutella, mermeladas, aceite y condimentos. Una vez que haya llegado, puede bajar para descubrir la Grand'Place y sus tiendas y restaurantes."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "L'Herboristerie"
+    ]
+  },
+  "allowedPersons": 6,
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13bf9c01-ddfc-34da-b05d-64a7fbd4b53e",
+    "schema:email": [
+      "datatourisme62@gmail.com"
+    ],
+    "schema:legalName": "Pas-de-Calais Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.datatourisme62.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/13bf9c01-ddfc-34da-b05d-64a7fbd4b53e",
+      "schema:email": [
+        "datatourisme62@gmail.com"
+      ],
+      "schema:legalName": "Pas-de-Calais Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.datatourisme62.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/f3f81b2c-612e-3870-9c3f-af125385a290",
+      "schema:legalName": "L'Herboristerie",
+      "schema:telephone": [
+        "+33 6 13 76 59 75"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://lherboristerie.fr/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/2ee4960a-b673-3b28-8c21-1054c70cbd30",
+      "dc:description": {
+        "de": [
+          "Sie werden von diesem mit Pflanzen bewachsenen, mit 4 Sternen ausgezeichneten Ferienhaus begeistert sein. Es liegt ideal am Rande des Stadtzentrums von Béthune in der Nähe der EuroVelo 5 und der Treidelpfade des Canal d'Aire. Das Gite erstreckt sich über 3 Etagen. Im Erdgeschoss befindet sich eine große geschlossene Garage, in der Sie Ihre Fahrräder unterstellen können. Die Gite ist für 6 Personen ausgestattet, Hand- und Geschirrtücher sowie Hygieneartikel werden gestellt und die Betten sind bei Ihrer Ankunft gemacht. Nach einem Tag in den Pedalen werden Sie diese Dienstleistungen zu schätzen wissen! In der Küche werden Sie von den grundlegenden Kochutensilien profitieren: Tee- und Kaffeepads, Nutella, Marmelade, Öl und Gewürze. Wenn Sie angekommen sind, können Sie zu Fuß hinuntergehen und den Grand'Place mit seinen Geschäften und Restaurants erkunden."
+        ],
+        "en": [
+          "You will be seduced by this 4 star rated gite, ideally located on the edge of the city centre of Béthune near the EuroVelo 5 and the towpaths of the Canal d'Aire. The gite is on 3 levels, the ground floor is composed of a large closed garage to put your bicycles under cover. The gite is equipped for 6 people, bathroom and service linen are provided, as well as hygiene products and the beds are made on your arrival. After a day of cycling, you will appreciate these services! In the kitchen you will be provided with basic cooking supplies: tea pods, coffee, nutella, jams, oil and condiments. Once you have arrived, you can walk down to discover the Grand'Place and its shops and restaurants."
+        ],
+        "it": [
+          "Sarete sedotti da questo gite verde a 4 stelle, situato in posizione ideale ai margini del centro città di Béthune, vicino all'EuroVelo 5 e alle alzaie del Canal d'Aire. Il gite è disposto su 3 livelli, il piano terra ha un grande garage chiuso per tenere al sicuro le vostre biciclette. L'alloggio è attrezzato per 6 persone, la biancheria da bagno e di servizio è fornita, così come i prodotti per l'igiene e i letti sono fatti al vostro arrivo. Dopo una giornata in bicicletta, apprezzerete questi servizi! In cucina avrete a disposizione il materiale di base per cucinare: tè, caffè, nutella, marmellate, olio e condimenti. Una volta arrivati, potrete scendere a piedi per scoprire la Grand'Place e i suoi negozi e ristoranti."
+        ],
+        "fr": [
+          "Vous serez séduit par ce gite végétal, classé 4 étoiles, idéalement situé au bord du centre-ville de Béthune proche de l'EuroVelo 5 et des chemins de halage du Canal d'Aire. Le gite est sur 3 niveaux, le rez-de-chaussée est composé d’un grand garage fermé pour mettre vos vélos à l'abri. Le gite est équipé pour 6 personnes, le linge de toilettes et de service sont fournis, ainsi que des produits d'hygiène et les lits sont faits à votre arrivée. Après une journée à pédaler, vous apprécieriez ces services ! Dans la cuisine vous bénéficierez de quoi faire la cuisine de base : dosettes de thé, café, nutella, confitures, l'huile et condiments.. Une fois arrivés, vous pouvez descendre à pied pour découvrir la Grand'Place et ses commerces et restaurants."
+        ],
+        "nl": [
+          "U zult verleid worden door deze groene gite met 4 sterren, ideaal gelegen aan de rand van het centrum van Béthune in de buurt van de EuroVelo 5 en de jaagpaden van het Canal d'Aire. De gite heeft 3 verdiepingen, de begane grond heeft een grote afgesloten garage om uw fietsen veilig te bewaren. De gîte is ingericht voor 6 personen, het bad- en beddengoed is aanwezig, evenals hygiënische producten en de bedden zijn opgemaakt bij aankomst. Na een dag fietsen zult u deze diensten waarderen! In de keuken wordt u voorzien van basis kookbenodigdheden: thee, koffie, nutella, jam, olie en specerijen. Eenmaal aangekomen kunt u naar beneden lopen om de Grote Markt en zijn winkels en restaurants te ontdekken."
+        ],
+        "es": [
+          "Le seducirá esta casa rural de 4 estrellas, idealmente situada en las afueras del centro de la ciudad de Béthune, cerca del EuroVelo 5 y de los caminos de sirga del Canal d'Aire. La casa rural está en 3 niveles, la planta baja tiene un gran garaje cerrado para mantener sus bicicletas seguras. La casa rural está equipada para 6 personas, se proporciona ropa de baño y de servicio, así como productos de higiene y las camas están hechas a su llegada. Después de un día de ciclismo, agradecerás estos servicios En la cocina se te proporcionará el material básico para cocinar: té, café, nutella, mermeladas, aceite y condimentos. Una vez que haya llegado, puede bajar para descubrir la Grand'Place y sus tiendas y restaurantes."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/191e8fb1-0756-3228-a163-8a2300f118bb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/237fed64-32d4-3592-b4da-3f2e89c560e3",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4f613db4-79cf-38ec-a606-e3e1b826fcfb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5861b74c-8629-3d2f-8bce-151061e9217d",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/5e9339cc-fd8c-3dbe-8aad-664ff01e83d6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6100c566-cd59-33f1-a75a-7d520fde28c1",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/714b6907-f004-3752-bebe-33903e8925f4",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/a45e0e77-891c-3c27-bd5d-13b83c2ab1a0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d7453804-290a-31e3-87db-642a6e306232",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/f3210d49-ced4-3406-a6f6-e0b626d0c3ef",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Sie werden von diesem mit Pflanzen bewachsenen, mit 4 Sternen ausgezeichneten Ferienhaus begeistert sein. Es liegt ideal am Rande des Stadtzentrums von Béthune in der Nähe der EuroVelo 5 und der Treidelpfade des Canal d'Aire. Das Gite erstreckt sich über 3 Etagen. Im Erdgeschoss befindet sich eine große geschlossene Garage, in der Sie Ihre Fahrräder unterstellen können. Die Gite ist für 6 Personen ausgestattet, Hand- und Geschirrtücher sowie Hygieneartikel werden gestellt und die Betten sind bei Ihrer Ankunft gemacht. Nach einem Tag in den Pedalen werden Sie diese Dienstleistungen zu schätzen wissen! In der Küche werden Sie von den grundlegenden Kochutensilien profitieren: Tee- und Kaffeepads, Nutella, Marmelade, Öl und Gewürze. Wenn Sie angekommen sind, können Sie zu Fuß hinuntergehen und den Grand'Place mit seinen Geschäften und Restaurants erkunden."
+        ],
+        "en": [
+          "You will be seduced by this 4 star rated gite, ideally located on the edge of the city centre of Béthune near the EuroVelo 5 and the towpaths of the Canal d'Aire. The gite is on 3 levels, the ground floor is composed of a large closed garage to put your bicycles under cover. The gite is equipped for 6 people, bathroom and service linen are provided, as well as hygiene products and the beds are made on your arrival. After a day of cycling, you will appreciate these services! In the kitchen you will be provided with basic cooking supplies: tea pods, coffee, nutella, jams, oil and condiments. Once you have arrived, you can walk down to discover the Grand'Place and its shops and restaurants."
+        ],
+        "it": [
+          "Sarete sedotti da questo gite verde a 4 stelle, situato in posizione ideale ai margini del centro città di Béthune, vicino all'EuroVelo 5 e alle alzaie del Canal d'Aire. Il gite è disposto su 3 livelli, il piano terra ha un grande garage chiuso per tenere al sicuro le vostre biciclette. L'alloggio è attrezzato per 6 persone, la biancheria da bagno e di servizio è fornita, così come i prodotti per l'igiene e i letti sono fatti al vostro arrivo. Dopo una giornata in bicicletta, apprezzerete questi servizi! In cucina avrete a disposizione il materiale di base per cucinare: tè, caffè, nutella, marmellate, olio e condimenti. Una volta arrivati, potrete scendere a piedi per scoprire la Grand'Place e i suoi negozi e ristoranti."
+        ],
+        "fr": [
+          "Vous serez séduit par ce gite végétal, classé 4 étoiles, idéalement situé au bord du centre-ville de Béthune proche de l'EuroVelo 5 et des chemins de halage du Canal d'Aire. Le gite est sur 3 niveaux, le rez-de-chaussée est composé d’un grand garage fermé pour mettre vos vélos à l'abri. Le gite est équipé pour 6 personnes, le linge de toilettes et de service sont fournis, ainsi que des produits d'hygiène et les lits sont faits à votre arrivée. Après une journée à pédaler, vous apprécieriez ces services ! Dans la cuisine vous bénéficierez de quoi faire la cuisine de base : dosettes de thé, café, nutella, confitures, l'huile et condiments.. Une fois arrivés, vous pouvez descendre à pied pour découvrir la Grand'Place et ses commerces et restaurants."
+        ],
+        "nl": [
+          "U zult verleid worden door deze groene gite met 4 sterren, ideaal gelegen aan de rand van het centrum van Béthune in de buurt van de EuroVelo 5 en de jaagpaden van het Canal d'Aire. De gite heeft 3 verdiepingen, de begane grond heeft een grote afgesloten garage om uw fietsen veilig te bewaren. De gîte is ingericht voor 6 personen, het bad- en beddengoed is aanwezig, evenals hygiënische producten en de bedden zijn opgemaakt bij aankomst. Na een dag fietsen zult u deze diensten waarderen! In de keuken wordt u voorzien van basis kookbenodigdheden: thee, koffie, nutella, jam, olie en specerijen. Eenmaal aangekomen kunt u naar beneden lopen om de Grote Markt en zijn winkels en restaurants te ontdekken."
+        ],
+        "es": [
+          "Le seducirá esta casa rural de 4 estrellas, idealmente situada en las afueras del centro de la ciudad de Béthune, cerca del EuroVelo 5 y de los caminos de sirga del Canal d'Aire. La casa rural está en 3 niveles, la planta baja tiene un gran garaje cerrado para mantener sus bicicletas seguras. La casa rural está equipada para 6 personas, se proporciona ropa de baño y de servicio, así como productos de higiene y las camas están hechas a su llegada. Después de un día de ciclismo, agradecerás estos servicios En la cocina se te proporcionará el material básico para cocinar: té, café, nutella, mermeladas, aceite y condimentos. Una vez que haya llegado, puede bajar para descubrir la Grand'Place y sus tiendas y restaurantes."
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/76b8f48b-78d1-319a-a3a6-ddb86782a123",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      },
+      "reviewDeliveryDate": "2021-02-02",
+      "reviewExpirationDate": "2024-02-02"
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/598254ca-a4e1-3257-bafd-26071ca003ba",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/635d4d0f-a361-3649-87fd-88e1b4a906af",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/cc668e65-0e78-3857-833b-93eab51c0286",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/d8af4c92-7736-37cd-9bcc-a109b5086629",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/fd342e4d-84f9-3095-944b-7033f63d25da",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/e845766c-21a2-31bc-8531-2f2abe5831f2",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/72608c4a-cf6e-3795-ab60-696ff947e4b2",
+          "schema:addressLocality": "Béthune",
+          "schema:postalCode": "62400",
+          "schema:streetAddress": [
+            "80 Boulevard Vauban"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:62119",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Béthune"
+              ],
+              "pt": [
+                "Béthune"
+              ],
+              "en": [
+                "Béthune"
+              ],
+              "it": [
+                "Béthune"
+              ],
+              "fr": [
+                "Béthune"
+              ],
+              "nl": [
+                "Béthune"
+              ],
+              "es": [
+                "Béthune"
+              ]
+            },
+            "insee": "62119",
+            "isPartOfDepartment": {
+              "@id": "kb:France3262",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Pas-de-Calais"
+                ],
+                "pt": [
+                  "Pas-de-Calais"
+                ],
+                "en": [
+                  "Pas-de-Calais"
+                ],
+                "it": [
+                  "Pas-de-Calais"
+                ],
+                "fr": [
+                  "Pas-de-Calais"
+                ],
+                "nl": [
+                  "Pas-de-Calais"
+                ],
+                "es": [
+                  "Pas-de-Calais"
+                ]
+              },
+              "insee": "62",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/ae497359-3295-30db-bc24-bef7090e67df",
+        "schema:latitude": "50.528562",
+        "schema:longitude": "2.634346",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-02-27",
+  "lastUpdateDatatourisme": "2023-06-16T13:55:02.362Z"
+}

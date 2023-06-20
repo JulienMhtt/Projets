@@ -1,0 +1,808 @@
+{
+  "@id": "https://data.datatourisme.fr/28/0d197265-12ff-3350-ad6d-10ce17beacfd",
+  "dc:identifier": "HLOPIC0800094011",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation",
+    "SelfCateringAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Im Dorf, Unterkunft (80 m²), die an die Bibliothek/den Kindergarten angrenzt. Geschlossener Garten (200 m²) ..."
+    ],
+    "en": [
+      "In the village, gîte (80 m²) adjoining the library / nursery. Enclosed garden (200 m²) ..."
+    ],
+    "it": [
+      "Nel villaggio, gîte (80 m²) adiacente alla biblioteca/centro di accoglienza per bambini. Giardino recintato (200 m²) ..."
+    ],
+    "fr": [
+      "Dans le village, gîte (80 m²) mitoyen à la bibliothèque/garderie périscolaire. Jardin clos (200 m²) ..."
+    ],
+    "nl": [
+      "In het dorp, gîte (80 m²) grenzend aan de bibliotheek/kinderopvang. Omheinde tuin (200 m²) ..."
+    ],
+    "es": [
+      "En el pueblo, casa rural (80 m²) junto a la biblioteca/guardería. Jardín cerrado (200 m²) ..."
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Commune d'Eaucourt-sur-Somme"
+    ]
+  },
+  "allowedPersons": 4,
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/28/459af280-7858-33ca-bfb6-f8272a129aec",
+    "dc:identifier": "SIM Aisne/Oise/Somme HDF - ADRT80",
+    "schema:familyName": [
+      "SIM Aisne/Oise/Somme HDF - ADRT80"
+    ],
+    "schema:legalName": "SIM Aisne/Oise/Somme HDF - ADRT80",
+    "@type": [
+      "schema:Organization",
+      "schema:Person",
+      "foaf:Agent",
+      "Agent"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/92f31106-f566-3eba-9601-ef062e161fbc",
+      "schema:legalName": "SIM Picardie",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ]
+    }
+  ],
+  "hasBookingContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4e599099-62aa-3808-806d-8955e68adda0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1afe4866-3b9a-366a-883b-ce36a7647f91",
+          "schema:addressLocality": "Eaucourt-sur-Somme",
+          "schema:postalCode": "80580",
+          "schema:streetAddress": [
+            "Eaucourt-sur-Somme",
+            "rue du 11 novembre"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:80262",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Eaucourt-sur-Somme"
+              ],
+              "pt": [
+                "Eaucourt-sur-Somme"
+              ],
+              "en": [
+                "Eaucourt-sur-Somme"
+              ],
+              "it": [
+                "Eaucourt-sur-Somme"
+              ],
+              "fr": [
+                "Eaucourt-sur-Somme"
+              ],
+              "nl": [
+                "Eaucourt-sur-Somme"
+              ],
+              "es": [
+                "Eaucourt-sur-Somme"
+              ]
+            },
+            "insee": "80262",
+            "isPartOfDepartment": {
+              "@id": "kb:France3280",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Somme"
+                ],
+                "pt": [
+                  "Somme"
+                ],
+                "en": [
+                  "Somme"
+                ],
+                "it": [
+                  "Somme"
+                ],
+                "fr": [
+                  "Somme"
+                ],
+                "nl": [
+                  "Somme"
+                ],
+                "es": [
+                  "Somme"
+                ]
+              },
+              "insee": "80",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:email": [
+        "reservation@somme-tourisme.com"
+      ],
+      "schema:legalName": "Hébergements locatifs",
+      "schema:telephone": [
+        "+33 3 22 71 22 70"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.booking-somme.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/4533e4e6-ad73-31df-b992-22d29619f7ad",
+      "schema:email": [
+        "reservation@somme-tourisme.com"
+      ],
+      "schema:telephone": [
+        "+33 3 22 71 22 70"
+      ],
+      "@type": [
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.booking-somme.com/"
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/4e599099-62aa-3808-806d-8955e68adda0",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1afe4866-3b9a-366a-883b-ce36a7647f91",
+          "schema:addressLocality": "Eaucourt-sur-Somme",
+          "schema:postalCode": "80580",
+          "schema:streetAddress": [
+            "Eaucourt-sur-Somme",
+            "rue du 11 novembre"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:80262",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Eaucourt-sur-Somme"
+              ],
+              "pt": [
+                "Eaucourt-sur-Somme"
+              ],
+              "en": [
+                "Eaucourt-sur-Somme"
+              ],
+              "it": [
+                "Eaucourt-sur-Somme"
+              ],
+              "fr": [
+                "Eaucourt-sur-Somme"
+              ],
+              "nl": [
+                "Eaucourt-sur-Somme"
+              ],
+              "es": [
+                "Eaucourt-sur-Somme"
+              ]
+            },
+            "insee": "80262",
+            "isPartOfDepartment": {
+              "@id": "kb:France3280",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Somme"
+                ],
+                "pt": [
+                  "Somme"
+                ],
+                "en": [
+                  "Somme"
+                ],
+                "it": [
+                  "Somme"
+                ],
+                "fr": [
+                  "Somme"
+                ],
+                "nl": [
+                  "Somme"
+                ],
+                "es": [
+                  "Somme"
+                ]
+              },
+              "insee": "80",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:email": [
+        "reservation@somme-tourisme.com"
+      ],
+      "schema:legalName": "Hébergements locatifs",
+      "schema:telephone": [
+        "+33 3 22 71 22 70"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.booking-somme.com/"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/0c85251f-a831-34f2-b5f2-0070e41536c0",
+      "dc:description": {
+        "de": [
+          "Im Dorf, Unterkunft (80 m²), die an die Bibliothek/den außerschulischen Kindergarten angrenzt. Geschlossener Garten (200 m²) auf der Vorderseite, Hof der Grundschule auf der Rückseite. Erdgeschoss: Esszimmer mit Küchenzeile (Kühl-/Gefrierschrank). Obergeschoss: Wohnzimmer, 1 Schlafzimmer (1 Bett 140) mit Verbindung zur Schlafecke (Schlafsofa) und 1 Schlafzimmer (2 Einzelbetten 90), Badezimmer mit WC. Gaszentralheizung inbegriffen. 2 kommunale Teiche im Dorf (Möglichkeit zum Angeln). Parkplatz in der Nähe. Kaution für die Reinigung von 50 ? Vor Ort zu besichtigen: Windmühle, feudales Schloss. Haustiere nicht erlaubt."
+        ],
+        "en": [
+          "In the village, gîte (80 m²) adjoining the library/childcare center. Enclosed garden (200 m²) on the front, courtyard of the elementary school on the back. First floor : dining room with kitchenette (fridge/freezer). First floor: living room, 1 bedroom (1 bed 140) communicating with a sleeping area (sofa bed) and 1 bedroom (2 beds 90), shower room with toilet. Gas central heating included. 2 communal ponds in the village (possibility of fishing). Parking nearby. Cleaning deposit of 50 ? To visit on the spot : windmill, feudal castle. Animals not allowed."
+        ],
+        "it": [
+          "Nel villaggio, gîte (80 m²) adiacente alla biblioteca/centro di accoglienza per bambini. Giardino recintato (200 m²) sul davanti, cortile della scuola elementare sul retro. Piano terra: sala da pranzo con angolo cottura (frigorifero/congelatore). Primo piano: soggiorno, 1 camera (1 letto matrimoniale) comunicante con una zona notte (divano letto) e 1 camera (2 letti singoli), bagno con doccia e WC. Riscaldamento centrale a gas incluso. 2 stagni comunali nel villaggio (possibilità di pesca). Parcheggio nelle vicinanze. Deposito per le pulizie di 50 ? Da visitare sul posto: mulino a vento, castello feudale. Non sono ammessi animali."
+        ],
+        "fr": [
+          "Dans le village, gîte (80 m²) mitoyen à la bibliothèque/garderie périscolaire. Jardin clos (200 m²) sur l'avant, cour de l'école primaire sur l'arrière. Au rez-de-chaussée : salle à manger avec coin-cuisine (réfrigérateur/congélateur). A l'étage : salon, 1 chambre (1 lit 140) communicante avec un coin nuit (canapé convertible) et 1 chambre (2 lits 90), salle d'eau avec WC. Chauffage central au gaz inclus. 2 étangs communaux dans le village (possibilité de pêche). Parking à proximité. Caution ménage de 50 € . A visiter sur place : moulin à vent, château féodal. Animaux non admis."
+        ],
+        "nl": [
+          "In het dorp, gîte (80 m²) grenzend aan de bibliotheek/kinderopvang. Omheinde tuin (200 m²) aan de voorzijde, binnenplaats van de lagere school aan de achterzijde. Begane grond: eetkamer met keukenhoek (koelkast/vriezer). Eerste verdieping: woonkamer, 1 slaapkamer (1 tweepersoonsbed) communicerend met een slaapgedeelte (slaapbank) en 1 slaapkamer (2 eenpersoonsbedden), doucheruimte met WC. Centrale verwarming op gas inbegrepen. 2 gemeenschappelijke vijvers in het dorp (mogelijkheid tot vissen). Parkeren in de buurt. Schoonmaakborgsom van 50 ? Ter plaatse te bezoeken: windmolen, feodaal kasteel. Dieren zijn niet toegestaan."
+        ],
+        "es": [
+          "En el pueblo, casa rural (80 m²) contigua a la biblioteca/guardería. Jardín cerrado (200 m²) en la parte delantera, patio de la escuela primaria en la parte trasera. Planta baja: comedor con cocina americana (nevera/congelador). Primera planta: salón, 1 habitación (1 cama doble) comunicada con una zona de dormitorio (sofá cama) y 1 habitación (2 camas individuales), cuarto de ducha con WC. Calefacción central de gas incluida. 2 estanques comunitarios en el pueblo (posibilidad de pescar). Aparcamiento cercano. Depósito de limpieza de 50€. Para visitar in situ: molino de viento, castillo feudal. No se admiten animales."
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/021358f0-01a8-3ae2-ac2b-62b224e4478b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2a741f87-8917-32f7-a666-0e6353e209db",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/2caeee13-d801-3e28-a847-0ad403b661f9",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/6b91351f-2eed-3b5b-a64d-35cfd77818e7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/71ba97ac-b0e5-3cb5-9866-69fca283bbcb",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/98a7eda8-973c-3cb8-a982-6798e164c16c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/b431eca4-373c-3f00-a0ce-73714aa5e94e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/be8860fe-9915-3cfb-9d22-c617bf37c2fe",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c11ed955-a81d-3e19-aba2-60ad59868e6e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d4a4638c-076b-3389-a574-05e9f187c926",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Im Dorf, Unterkunft (80 m²), die an die Bibliothek/den Kindergarten angrenzt. Geschlossener Garten (200 m²) ..."
+        ],
+        "en": [
+          "In the village, gîte (80 m²) adjoining the library / nursery. Enclosed garden (200 m²) ..."
+        ],
+        "it": [
+          "Nel villaggio, gîte (80 m²) adiacente alla biblioteca/centro di accoglienza per bambini. Giardino recintato (200 m²) ..."
+        ],
+        "fr": [
+          "Dans le village, gîte (80 m²) mitoyen à la bibliothèque/garderie périscolaire. Jardin clos (200 m²) ..."
+        ],
+        "nl": [
+          "In het dorp, gîte (80 m²) grenzend aan de bibliotheek/kinderopvang. Omheinde tuin (200 m²) ..."
+        ],
+        "es": [
+          "En el pueblo, casa rural (80 m²) junto a la biblioteca/guardería. Jardín cerrado (200 m²) ..."
+        ]
+      }
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/0493ec2e-eed1-37e7-8a0d-08c4e0b0965a",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/5319fe3f-f087-3e4e-af5d-d6fabf3976e1",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/a11110b1-885c-3a36-901e-e7b7a548ade3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dbd40b93-cd4f-3e60-931f-b6379228f490",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/df7d0c20-74f3-3f5e-b0d0-84704ed3faf6",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/834f7851-ff8c-3a18-a38c-27b3bc3237f4",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/1afe4866-3b9a-366a-883b-ce36a7647f91",
+          "schema:addressLocality": "Eaucourt-sur-Somme",
+          "schema:postalCode": "80580",
+          "schema:streetAddress": [
+            "Eaucourt-sur-Somme",
+            "rue du 11 novembre"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:80262",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Eaucourt-sur-Somme"
+              ],
+              "pt": [
+                "Eaucourt-sur-Somme"
+              ],
+              "en": [
+                "Eaucourt-sur-Somme"
+              ],
+              "it": [
+                "Eaucourt-sur-Somme"
+              ],
+              "fr": [
+                "Eaucourt-sur-Somme"
+              ],
+              "nl": [
+                "Eaucourt-sur-Somme"
+              ],
+              "es": [
+                "Eaucourt-sur-Somme"
+              ]
+            },
+            "insee": "80262",
+            "isPartOfDepartment": {
+              "@id": "kb:France3280",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Somme"
+                ],
+                "pt": [
+                  "Somme"
+                ],
+                "en": [
+                  "Somme"
+                ],
+                "it": [
+                  "Somme"
+                ],
+                "fr": [
+                  "Somme"
+                ],
+                "nl": [
+                  "Somme"
+                ],
+                "es": [
+                  "Somme"
+                ]
+              },
+              "insee": "80",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/63c6f6c2-c2f7-331c-8142-1c988f4c0fa2",
+        "schema:latitude": "50.0648",
+        "schema:longitude": "1.88411",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-06-14",
+  "lastUpdateDatatourisme": "2023-06-15T02:07:33.72Z"
+}

@@ -1,0 +1,583 @@
+{
+  "@id": "https://data.datatourisme.fr/14/c84e35a6-b0bb-3d79-b9ba-bdc74d53587f",
+  "dc:identifier": "63252",
+  "@type": [
+    "schema:Accommodation",
+    "schema:LodgingBusiness",
+    "Accommodation",
+    "PlaceOfInterest",
+    "PointOfInterest",
+    "RentalAccommodation",
+    "SelfCateringAccommodation"
+  ],
+  "rdfs:comment": {
+    "de": [
+      "Familienatmosphäre auf dem Bauernhof, mit Tieren: Das ist auch etwas für euch Radfahrer!\nMit unserer jahrelangen Erfahrung ... mehr als 10 Jahre, in denen wir unsere Türen für Touristen in dieser Unterkunft für 7 Personen (oder 2 Personen mit Behinderung\noder nicht, aber nur im Erdgeschoss) ist es nun möglich, \"Fahrradliebhaber\" auf dem Land in dieser großen, ruhigen und grünen Umgebung (+150 m2) zu empfangen.\nEin kleines Extra: Gegenüber der Unterkunft, an der Kreuzung Rue des Charbonniers/ Rue du Bas Chemin, befinden sich die \"Fahrradknotenpunkte Nr. 1 & Nr. 2\": Karte \"Vallée de la Lys & Monts de Flandre\", die auf den Websites www.lenordavelo.fr und www.tourisme-bethune-bruay.fr verfügbar ist.\nDer Bauernhof Les Caperies ist historisch, da er 1925 wieder aufgebaut wurde (damals Tageskrankenhaus) und befindet sich neben dem englischen Friedhof St Vaast Post - Netzwerk Accueillants Centenaire 14-18 \"Northern France Battlefields Partner\", willkommen für Geschichtsinteressierte (Museum von Fromelles 12 km entfernt). Auch diese große Unterkunft (100 m²) in der Nähe des Dorfzentrums befindet sich in einem renovierten ehemaligen Stall, der an andere Gebäude des Bauernhofs im Quadrat angrenzt, aber nicht zu übersehen ist. Privates, nicht eingezäuntes Grundstück, Parkplatz für 2 Autos vor der Gîte mit geschlossenem Unterstand für Fahrräder. Gîte 3 épis, Label Gîtes de France und Label Tourisme et Handicap im Erdgeschoss. Boulodrome zur Verfügung. Willkommen bei uns!"
+    ],
+    "en": [
+      "Family atmosphere on the farm, with animals: it's for you too, cyclists!\nWith our years of experience... more than 10 years that we open our doors to tourists in this gîte for 7 persons (or 2 persons with handicap\nor not but only on the first floor) it is now possible to welcome \"bicycle lovers\" in the countryside in this large, calm and green setting (+150 m2).\nA little extra, in front of the accommodation, at the intersection of rue des Charbonniers and rue du Bas Chemin, you will find the \"bicycle nodes n°1 & n°2\" : map \"Vallée de la Lys & Monts de Flandre\" available on the websites www.lenordavelo.fr and www.tourisme-bethune-bruay.fr.\nLes Caperies Farm is historical since it was rebuilt in 1925 (day hospital at the time) and is located next to the English cemetery St Vaast Post - \"Northern France Battlefields Partner\" 14-18 Centenary network, welcome to history lovers (Fromelles museum at 12 km). Also, this large gîte (100 m²) close to the center of the village is located in an old renovated stable, adjoining other buildings of the farm but not overlooked. Private unfenced land, parking for 2 cars in front of the gite with closed shelter for bicycles. Gîte 3 épis, label Gîtes de France and label Tourisme et Handicap on the first floor. Boulodrome at disposal. Welcome to our home !"
+    ],
+    "it": [
+      "Atmosfera familiare in una fattoria, con animali: è anche per voi, ciclisti!\nCon i nostri anni di esperienza... più di 10 anni che apriamo le nostre porte ai turisti in questo gîte per 7 persone (o 2 persone con handicap\no meno ma solo al piano terra) è ora possibile accogliere gli \"amanti della bicicletta\" in campagna in questo ambiente ampio, tranquillo e verde (+150 m2).\nInoltre, di fronte all'alloggio, all'incrocio tra Rue des Charbonniers e Rue du Bas Chemin, si trovano gli \"hub ciclistici n°1 e n°2\": la mappa \"Vallée de la Lys & Monts de Flandre\" è disponibile sui siti www.lenordavelo.fr e www.tourisme-bethune-bruay.fr.\nLa fattoria Les Caperies è storica in quanto è stata ricostruita nel 1925 (all'epoca era un ospedale diurno) e si trova accanto al cimitero inglese St Vaast Post - \"Northern France Battlefields Partner\" 14-18 Rete del Centenario, benvenuta agli appassionati di storia (il museo di Fromelles dista 12 km). Inoltre, questo grande gîte (100 m²) vicino al centro del villaggio si trova in una ex stalla ristrutturata, adiacente ad altri edifici della fattoria ma non affacciata. Terreno privato non recintato, parcheggio per 2 auto di fronte al gîte con un riparo chiuso per le biciclette. Gîte 3 épis, etichetta Gîtes de France ed etichetta Tourisme et Handicap al piano terra. Boulodrome disponibile. Benvenuti nella nostra casa!"
+    ],
+    "fr": [
+      "Ambiance famille à la ferme, avec des animaux : c'est pour vous aussi les cyclistes !\nAvec nos années d'expérience... plus de 10 ans que l'on ouvre nos portes aux touristes dans ce gîte pour 7 personnes (ou 2 personnes avec handicap \nou non mais uniquement au rez-de-chaussée) il est possible désormais d'accueillir les \"amoureux du vélo\" à la campagne dans ce grand cadre calme et verdoyant (+150 m2).\nPetit plus, en face de l'hébergement, à l'intersection rue des Charbonniers/rue du Bas Chemin, se trouvent les \"points-noeuds vélo n°1 & n°2\" : carte \"Vallée de la Lys & Monts de Flandre\" disponible sur les site www.lenordavelo.fr et www.tourisme-bethune-bruay.fr.\nLa Ferme Les Caperies est historique puisqu'elle a été reconstruite en 1925 (hôpital de jour à l'époque) et se trouve à côté du cimetière anglais St Vaast Post - réseau Accueillants Centenaire 14-18 « Northern France Battlefields Partner », bienvenue aux passionnés d'histoire (musée de Fromelles à 12 km). Également, ce grand gîte (100 m²) proche du centre du village est situé dans une ancienne écurie rénovée, mitoyen à d'autres bâtiments de la ferme au carré mais sans vis à vis. Terrain non clos privatif, parking 2 places de voiture devant le gîte avec abri fermé pour les bicyclettes. Gîte 3 épis, label Gîtes de France et label Tourisme et Handicap au rez-de-chaussée. Boulodrome à disposition. Bienvenue chez nous !"
+    ],
+    "nl": [
+      "Familiale sfeer op een boerderij, met dieren: ook voor jullie, fietsers!\nMet onze jarenlange ervaring... meer dan 10 jaar dat we onze deuren openen voor toeristen in deze gîte voor 7 personen (of 2 personen met een handicap\nof niet, maar alleen op de begane grond) is het nu mogelijk om \"fietsliefhebbers\" op het platteland te verwelkomen in deze grote, rustige en groene omgeving (+150 m2).\nEen beetje extra, tegenover de accommodatie, op de kruising van de Rue des Charbonniers en de Rue du Bas Chemin, vindt u de \"fietsknooppunten n°1 & n°2\": kaart \"Vallée de la Lys & Monts de Flandre\" beschikbaar op de websites www.lenordavelo.fr en www.tourisme-bethune-bruay.fr.\nDe boerderij Les Caperies is historisch want ze werd heropgebouwd in 1925 (een daghospitaal in die tijd) en ligt naast de Engelse begraafplaats St Vaast Post - \"Northern France Battlefields Partner\" 14-18 Centenary netwerk, welkom voor geschiedenisliefhebbers (Fromelles museum op 12 km). Ook deze grote gîte (100 m²) dicht bij het centrum van het dorp is gevestigd in een gerenoveerde voormalige stal, grenzend aan andere gebouwen van de boerderij maar niet over het hoofd gezien. Eigen, niet omheind terrein, parkeerplaats voor 2 auto's voor de gîte met een gesloten afdak voor fietsen. Gîte 3 épis, label Gîtes de France en label Tourisme et Handicap op de begane grond. Boulodrome beschikbaar. Welkom bij ons thuis!"
+    ],
+    "es": [
+      "Ambiente familiar en una granja, con animales: ¡también es para vosotros, ciclistas!\nCon nuestros años de experiencia... más de 10 años que abrimos nuestras puertas a los turistas en esta casa rural para 7 personas (o 2 personas con discapacidad\no no, pero sólo en la planta baja) ahora es posible dar la bienvenida a los \"amantes de la bicicleta\" al campo en este amplio, tranquilo y verde (+150 m2).\nUn poco más lejos, frente al alojamiento, en la intersección de la Rue des Charbonniers y la Rue du Bas Chemin, encontrará los \"nudos ciclistas n°1 & n°2\": mapa \"Vallée de la Lys & Monts de Flandre\" disponible en los sitios web www.lenordavelo.fr y www.tourisme-bethune-bruay.fr.\nLa granja Les Caperies es histórica, ya que fue reconstruida en 1925 (hospital de día en aquella época) y se encuentra junto al cementerio inglés St Vaast Post - \"Northern France Battlefields Partner\" 14-18 Centenary network, bienvenido para los aficionados a la historia (museo de Fromelles a 12 km). Además, esta gran casa rural (100 m²) cerca del centro del pueblo se encuentra en un antiguo establo renovado, contiguo a otros edificios de la granja pero sin vistas. Terreno privado, sin vallar, aparcamiento para 2 coches delante de la casa rural con un refugio cerrado para bicicletas. Casa rural 3 épis, etiqueta Gîtes de France y etiqueta Tourisme et Handicap en la planta baja. Boulodrome disponible. ¡Bienvenido a nuestra casa!"
+    ]
+  },
+  "rdfs:label": {
+    "fr": [
+      "Ferme les Caperies"
+    ]
+  },
+  "allowedPersons": 4,
+  "hasBeenCreatedBy": {
+    "@id": "https://data.datatourisme.fr/13bf9c01-ddfc-34da-b05d-64a7fbd4b53e",
+    "schema:email": [
+      "datatourisme62@gmail.com"
+    ],
+    "schema:legalName": "Pas-de-Calais Tourisme",
+    "@type": [
+      "schema:Organization",
+      "foaf:Agent",
+      "Agent"
+    ],
+    "foaf:homepage": [
+      "http://www.datatourisme62.com/"
+    ]
+  },
+  "hasBeenPublishedBy": [
+    {
+      "@id": "https://data.datatourisme.fr/13bf9c01-ddfc-34da-b05d-64a7fbd4b53e",
+      "schema:email": [
+        "datatourisme62@gmail.com"
+      ],
+      "schema:legalName": "Pas-de-Calais Tourisme",
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "http://www.datatourisme62.com/"
+      ]
+    }
+  ],
+  "hasContact": [
+    {
+      "@id": "https://data.datatourisme.fr/8cb7c042-4012-3834-b31e-02a9a16d9d69",
+      "schema:email": [
+        "contact.fermelescaperies@gmail.com"
+      ],
+      "schema:legalName": "Gîte La ferme les caperies",
+      "schema:telephone": [
+        "+33 6 07 91 59 62"
+      ],
+      "@type": [
+        "schema:Organization",
+        "foaf:Agent",
+        "Agent"
+      ],
+      "foaf:homepage": [
+        "https://www.gites-de-france-pas-de-calais.fr/location-vacances-chambre-d-hotes-3-epis-pas-de-calais-artois-richebourg-ferme-les-caperies-helene-et-philippe-vesselier-baviere-62G295.html"
+      ]
+    }
+  ],
+  "hasDescription": [
+    {
+      "@id": "https://data.datatourisme.fr/38d03d7f-8249-3a97-9c15-a1b814e610b7",
+      "dc:description": {
+        "de": [
+          "Familienatmosphäre auf dem Bauernhof, mit Tieren: Das ist auch etwas für euch Radfahrer!\nMit unserer jahrelangen Erfahrung ... mehr als 10 Jahre, in denen wir unsere Türen für Touristen in dieser Unterkunft für 7 Personen (oder 2 Personen mit Behinderung\noder nicht, aber nur im Erdgeschoss) ist es nun möglich, \"Fahrradliebhaber\" auf dem Land in dieser großen, ruhigen und grünen Umgebung (+150 m2) zu empfangen.\nEin kleines Extra: Gegenüber der Unterkunft, an der Kreuzung Rue des Charbonniers/ Rue du Bas Chemin, befinden sich die \"Fahrradknotenpunkte Nr. 1 & Nr. 2\": Karte \"Vallée de la Lys & Monts de Flandre\", die auf den Websites www.lenordavelo.fr und www.tourisme-bethune-bruay.fr verfügbar ist.\nDer Bauernhof Les Caperies ist historisch, da er 1925 wieder aufgebaut wurde (damals Tageskrankenhaus) und befindet sich neben dem englischen Friedhof St Vaast Post - Netzwerk Accueillants Centenaire 14-18 \"Northern France Battlefields Partner\", willkommen für Geschichtsinteressierte (Museum von Fromelles 12 km entfernt). Auch diese große Unterkunft (100 m²) in der Nähe des Dorfzentrums befindet sich in einem renovierten ehemaligen Stall, der an andere Gebäude des Bauernhofs im Quadrat angrenzt, aber nicht zu übersehen ist. Privates, nicht eingezäuntes Grundstück, Parkplatz für 2 Autos vor der Gîte mit geschlossenem Unterstand für Fahrräder. Gîte 3 épis, Label Gîtes de France und Label Tourisme et Handicap im Erdgeschoss. Boulodrome zur Verfügung. Willkommen bei uns!"
+        ],
+        "en": [
+          "Family atmosphere on the farm, with animals: it's for you too, cyclists!\nWith our years of experience... more than 10 years that we open our doors to tourists in this gîte for 7 persons (or 2 persons with handicap\nor not but only on the first floor) it is now possible to welcome \"bicycle lovers\" in the countryside in this large, calm and green setting (+150 m2).\nA little extra, in front of the accommodation, at the intersection of rue des Charbonniers and rue du Bas Chemin, you will find the \"bicycle nodes n°1 & n°2\" : map \"Vallée de la Lys & Monts de Flandre\" available on the websites www.lenordavelo.fr and www.tourisme-bethune-bruay.fr.\nLes Caperies Farm is historical since it was rebuilt in 1925 (day hospital at the time) and is located next to the English cemetery St Vaast Post - \"Northern France Battlefields Partner\" 14-18 Centenary network, welcome to history lovers (Fromelles museum at 12 km). Also, this large gîte (100 m²) close to the center of the village is located in an old renovated stable, adjoining other buildings of the farm but not overlooked. Private unfenced land, parking for 2 cars in front of the gite with closed shelter for bicycles. Gîte 3 épis, label Gîtes de France and label Tourisme et Handicap on the first floor. Boulodrome at disposal. Welcome to our home !"
+        ],
+        "it": [
+          "Atmosfera familiare in una fattoria, con animali: è anche per voi, ciclisti!\nCon i nostri anni di esperienza... più di 10 anni che apriamo le nostre porte ai turisti in questo gîte per 7 persone (o 2 persone con handicap\no meno ma solo al piano terra) è ora possibile accogliere gli \"amanti della bicicletta\" in campagna in questo ambiente ampio, tranquillo e verde (+150 m2).\nInoltre, di fronte all'alloggio, all'incrocio tra Rue des Charbonniers e Rue du Bas Chemin, si trovano gli \"hub ciclistici n°1 e n°2\": la mappa \"Vallée de la Lys & Monts de Flandre\" è disponibile sui siti www.lenordavelo.fr e www.tourisme-bethune-bruay.fr.\nLa fattoria Les Caperies è storica in quanto è stata ricostruita nel 1925 (all'epoca era un ospedale diurno) e si trova accanto al cimitero inglese St Vaast Post - \"Northern France Battlefields Partner\" 14-18 Rete del Centenario, benvenuta agli appassionati di storia (il museo di Fromelles dista 12 km). Inoltre, questo grande gîte (100 m²) vicino al centro del villaggio si trova in una ex stalla ristrutturata, adiacente ad altri edifici della fattoria ma non affacciata. Terreno privato non recintato, parcheggio per 2 auto di fronte al gîte con un riparo chiuso per le biciclette. Gîte 3 épis, etichetta Gîtes de France ed etichetta Tourisme et Handicap al piano terra. Boulodrome disponibile. Benvenuti nella nostra casa!"
+        ],
+        "fr": [
+          "Ambiance famille à la ferme, avec des animaux : c'est pour vous aussi les cyclistes !\nAvec nos années d'expérience... plus de 10 ans que l'on ouvre nos portes aux touristes dans ce gîte pour 7 personnes (ou 2 personnes avec handicap \nou non mais uniquement au rez-de-chaussée) il est possible désormais d'accueillir les \"amoureux du vélo\" à la campagne dans ce grand cadre calme et verdoyant (+150 m2).\nPetit plus, en face de l'hébergement, à l'intersection rue des Charbonniers/rue du Bas Chemin, se trouvent les \"points-noeuds vélo n°1 & n°2\" : carte \"Vallée de la Lys & Monts de Flandre\" disponible sur les site www.lenordavelo.fr et www.tourisme-bethune-bruay.fr.\nLa Ferme Les Caperies est historique puisqu'elle a été reconstruite en 1925 (hôpital de jour à l'époque) et se trouve à côté du cimetière anglais St Vaast Post - réseau Accueillants Centenaire 14-18 « Northern France Battlefields Partner », bienvenue aux passionnés d'histoire (musée de Fromelles à 12 km). Également, ce grand gîte (100 m²) proche du centre du village est situé dans une ancienne écurie rénovée, mitoyen à d'autres bâtiments de la ferme au carré mais sans vis à vis. Terrain non clos privatif, parking 2 places de voiture devant le gîte avec abri fermé pour les bicyclettes. Gîte 3 épis, label Gîtes de France et label Tourisme et Handicap au rez-de-chaussée. Boulodrome à disposition. Bienvenue chez nous !"
+        ],
+        "nl": [
+          "Familiale sfeer op een boerderij, met dieren: ook voor jullie, fietsers!\nMet onze jarenlange ervaring... meer dan 10 jaar dat we onze deuren openen voor toeristen in deze gîte voor 7 personen (of 2 personen met een handicap\nof niet, maar alleen op de begane grond) is het nu mogelijk om \"fietsliefhebbers\" op het platteland te verwelkomen in deze grote, rustige en groene omgeving (+150 m2).\nEen beetje extra, tegenover de accommodatie, op de kruising van de Rue des Charbonniers en de Rue du Bas Chemin, vindt u de \"fietsknooppunten n°1 & n°2\": kaart \"Vallée de la Lys & Monts de Flandre\" beschikbaar op de websites www.lenordavelo.fr en www.tourisme-bethune-bruay.fr.\nDe boerderij Les Caperies is historisch want ze werd heropgebouwd in 1925 (een daghospitaal in die tijd) en ligt naast de Engelse begraafplaats St Vaast Post - \"Northern France Battlefields Partner\" 14-18 Centenary netwerk, welkom voor geschiedenisliefhebbers (Fromelles museum op 12 km). Ook deze grote gîte (100 m²) dicht bij het centrum van het dorp is gevestigd in een gerenoveerde voormalige stal, grenzend aan andere gebouwen van de boerderij maar niet over het hoofd gezien. Eigen, niet omheind terrein, parkeerplaats voor 2 auto's voor de gîte met een gesloten afdak voor fietsen. Gîte 3 épis, label Gîtes de France en label Tourisme et Handicap op de begane grond. Boulodrome beschikbaar. Welkom bij ons thuis!"
+        ],
+        "es": [
+          "Ambiente familiar en una granja, con animales: ¡también es para vosotros, ciclistas!\nCon nuestros años de experiencia... más de 10 años que abrimos nuestras puertas a los turistas en esta casa rural para 7 personas (o 2 personas con discapacidad\no no, pero sólo en la planta baja) ahora es posible dar la bienvenida a los \"amantes de la bicicleta\" al campo en este amplio, tranquilo y verde (+150 m2).\nUn poco más lejos, frente al alojamiento, en la intersección de la Rue des Charbonniers y la Rue du Bas Chemin, encontrará los \"nudos ciclistas n°1 & n°2\": mapa \"Vallée de la Lys & Monts de Flandre\" disponible en los sitios web www.lenordavelo.fr y www.tourisme-bethune-bruay.fr.\nLa granja Les Caperies es histórica, ya que fue reconstruida en 1925 (hospital de día en aquella época) y se encuentra junto al cementerio inglés St Vaast Post - \"Northern France Battlefields Partner\" 14-18 Centenary network, bienvenido para los aficionados a la historia (museo de Fromelles a 12 km). Además, esta gran casa rural (100 m²) cerca del centro del pueblo se encuentra en un antiguo establo renovado, contiguo a otros edificios de la granja pero sin vistas. Terreno privado, sin vallar, aparcamiento para 2 coches delante de la casa rural con un refugio cerrado para bicicletas. Casa rural 3 épis, etiqueta Gîtes de France y etiqueta Tourisme et Handicap en la planta baja. Boulodrome disponible. ¡Bienvenido a nuestra casa!"
+        ]
+      },
+      "@type": [
+        "Description"
+      ],
+      "hasTranslatedProperty": [
+        {
+          "@id": "https://data.datatourisme.fr/2f2a8cf2-8dc6-3a2c-bea3-9eda9a3632b6",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/405e91ba-c6c8-3537-bae0-9073a20c41f7",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4ba9e04d-d487-3415-8b91-7d8ad2d2f02f",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/4fa0c9fd-43f5-3ff0-ab6d-1aec9265846e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/60db57ac-78a6-3c34-87fd-ed48b22406b0",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "it"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/bb88789f-527f-392e-8cb3-5c4e6f3d2b4c",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "en"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/c2eaf626-aa33-3886-b3b0-42e269489d8e",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/d6f99789-59a9-3414-9965-99e726fa7e32",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "de"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/e5535cad-87f4-39f0-9677-e5142e995b3b",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "es"
+          ],
+          "rdf:predicate": [
+            {
+              "@id": "dc:description"
+            }
+          ]
+        },
+        {
+          "@id": "https://data.datatourisme.fr/ee272e51-33de-3cf8-9294-488ee435dbfc",
+          "dc:contributor": [
+            "https://api.deepl.com/v2/translate"
+          ],
+          "rdf:language": [
+            "nl"
+          ],
+          "rdf:predicate": [
+            "shortDescription"
+          ]
+        }
+      ],
+      "shortDescription": {
+        "de": [
+          "Familienatmosphäre auf dem Bauernhof, mit Tieren: Das ist auch etwas für euch Radfahrer!\nMit unserer jahrelangen Erfahrung ... mehr als 10 Jahre, in denen wir unsere Türen für Touristen in dieser Unterkunft für 7 Personen (oder 2 Personen mit Behinderung\noder nicht, aber nur im Erdgeschoss) ist es nun möglich, \"Fahrradliebhaber\" auf dem Land in dieser großen, ruhigen und grünen Umgebung (+150 m2) zu empfangen.\nEin kleines Extra: Gegenüber der Unterkunft, an der Kreuzung Rue des Charbonniers/ Rue du Bas Chemin, befinden sich die \"Fahrradknotenpunkte Nr. 1 & Nr. 2\": Karte \"Vallée de la Lys & Monts de Flandre\", die auf den Websites www.lenordavelo.fr und www.tourisme-bethune-bruay.fr verfügbar ist.\nDer Bauernhof Les Caperies ist historisch, da er 1925 wieder aufgebaut wurde (damals Tageskrankenhaus) und befindet sich neben dem englischen Friedhof St Vaast Post - Netzwerk Accueillants Centenaire 14-18 \"Northern France Battlefields Partner\", willkommen für Geschichtsinteressierte (Museum von Fromelles 12 km entfernt). Auch diese große Unterkunft (100 m²) in der Nähe des Dorfzentrums befindet sich in einem renovierten ehemaligen Stall, der an andere Gebäude des Bauernhofs im Quadrat angrenzt, aber nicht zu übersehen ist. Privates, nicht eingezäuntes Grundstück, Parkplatz für 2 Autos vor der Gîte mit geschlossenem Unterstand für Fahrräder. Gîte 3 épis, Label Gîtes de France und Label Tourisme et Handicap im Erdgeschoss. Boulodrome zur Verfügung. Willkommen bei uns!"
+        ],
+        "en": [
+          "Family atmosphere on the farm, with animals: it's for you too, cyclists!\nWith our years of experience... more than 10 years that we open our doors to tourists in this gîte for 7 persons (or 2 persons with handicap\nor not but only on the first floor) it is now possible to welcome \"bicycle lovers\" in the countryside in this large, calm and green setting (+150 m2).\nA little extra, in front of the accommodation, at the intersection of rue des Charbonniers and rue du Bas Chemin, you will find the \"bicycle nodes n°1 & n°2\" : map \"Vallée de la Lys & Monts de Flandre\" available on the websites www.lenordavelo.fr and www.tourisme-bethune-bruay.fr.\nLes Caperies Farm is historical since it was rebuilt in 1925 (day hospital at the time) and is located next to the English cemetery St Vaast Post - \"Northern France Battlefields Partner\" 14-18 Centenary network, welcome to history lovers (Fromelles museum at 12 km). Also, this large gîte (100 m²) close to the center of the village is located in an old renovated stable, adjoining other buildings of the farm but not overlooked. Private unfenced land, parking for 2 cars in front of the gite with closed shelter for bicycles. Gîte 3 épis, label Gîtes de France and label Tourisme et Handicap on the first floor. Boulodrome at disposal. Welcome to our home !"
+        ],
+        "it": [
+          "Atmosfera familiare in una fattoria, con animali: è anche per voi, ciclisti!\nCon i nostri anni di esperienza... più di 10 anni che apriamo le nostre porte ai turisti in questo gîte per 7 persone (o 2 persone con handicap\no meno ma solo al piano terra) è ora possibile accogliere gli \"amanti della bicicletta\" in campagna in questo ambiente ampio, tranquillo e verde (+150 m2).\nInoltre, di fronte all'alloggio, all'incrocio tra Rue des Charbonniers e Rue du Bas Chemin, si trovano gli \"hub ciclistici n°1 e n°2\": la mappa \"Vallée de la Lys & Monts de Flandre\" è disponibile sui siti www.lenordavelo.fr e www.tourisme-bethune-bruay.fr.\nLa fattoria Les Caperies è storica in quanto è stata ricostruita nel 1925 (all'epoca era un ospedale diurno) e si trova accanto al cimitero inglese St Vaast Post - \"Northern France Battlefields Partner\" 14-18 Rete del Centenario, benvenuta agli appassionati di storia (il museo di Fromelles dista 12 km). Inoltre, questo grande gîte (100 m²) vicino al centro del villaggio si trova in una ex stalla ristrutturata, adiacente ad altri edifici della fattoria ma non affacciata. Terreno privato non recintato, parcheggio per 2 auto di fronte al gîte con un riparo chiuso per le biciclette. Gîte 3 épis, etichetta Gîtes de France ed etichetta Tourisme et Handicap al piano terra. Boulodrome disponibile. Benvenuti nella nostra casa!"
+        ],
+        "fr": [
+          "Ambiance famille à la ferme, avec des animaux : c'est pour vous aussi les cyclistes !\nAvec nos années d'expérience... plus de 10 ans que l'on ouvre nos portes aux touristes dans ce gîte pour 7 personnes (ou 2 personnes avec handicap \nou non mais uniquement au rez-de-chaussée) il est possible désormais d'accueillir les \"amoureux du vélo\" à la campagne dans ce grand cadre calme et verdoyant (+150 m2).\nPetit plus, en face de l'hébergement, à l'intersection rue des Charbonniers/rue du Bas Chemin, se trouvent les \"points-noeuds vélo n°1 & n°2\" : carte \"Vallée de la Lys & Monts de Flandre\" disponible sur les site www.lenordavelo.fr et www.tourisme-bethune-bruay.fr.\nLa Ferme Les Caperies est historique puisqu'elle a été reconstruite en 1925 (hôpital de jour à l'époque) et se trouve à côté du cimetière anglais St Vaast Post - réseau Accueillants Centenaire 14-18 « Northern France Battlefields Partner », bienvenue aux passionnés d'histoire (musée de Fromelles à 12 km). Également, ce grand gîte (100 m²) proche du centre du village est situé dans une ancienne écurie rénovée, mitoyen à d'autres bâtiments de la ferme au carré mais sans vis à vis. Terrain non clos privatif, parking 2 places de voiture devant le gîte avec abri fermé pour les bicyclettes. Gîte 3 épis, label Gîtes de France et label Tourisme et Handicap au rez-de-chaussée. Boulodrome à disposition. Bienvenue chez nous !"
+        ],
+        "nl": [
+          "Familiale sfeer op een boerderij, met dieren: ook voor jullie, fietsers!\nMet onze jarenlange ervaring... meer dan 10 jaar dat we onze deuren openen voor toeristen in deze gîte voor 7 personen (of 2 personen met een handicap\nof niet, maar alleen op de begane grond) is het nu mogelijk om \"fietsliefhebbers\" op het platteland te verwelkomen in deze grote, rustige en groene omgeving (+150 m2).\nEen beetje extra, tegenover de accommodatie, op de kruising van de Rue des Charbonniers en de Rue du Bas Chemin, vindt u de \"fietsknooppunten n°1 & n°2\": kaart \"Vallée de la Lys & Monts de Flandre\" beschikbaar op de websites www.lenordavelo.fr en www.tourisme-bethune-bruay.fr.\nDe boerderij Les Caperies is historisch want ze werd heropgebouwd in 1925 (een daghospitaal in die tijd) en ligt naast de Engelse begraafplaats St Vaast Post - \"Northern France Battlefields Partner\" 14-18 Centenary netwerk, welkom voor geschiedenisliefhebbers (Fromelles museum op 12 km). Ook deze grote gîte (100 m²) dicht bij het centrum van het dorp is gevestigd in een gerenoveerde voormalige stal, grenzend aan andere gebouwen van de boerderij maar niet over het hoofd gezien. Eigen, niet omheind terrein, parkeerplaats voor 2 auto's voor de gîte met een gesloten afdak voor fietsen. Gîte 3 épis, label Gîtes de France en label Tourisme et Handicap op de begane grond. Boulodrome beschikbaar. Welkom bij ons thuis!"
+        ],
+        "es": [
+          "Ambiente familiar en una granja, con animales: ¡también es para vosotros, ciclistas!\nCon nuestros años de experiencia... más de 10 años que abrimos nuestras puertas a los turistas en esta casa rural para 7 personas (o 2 personas con discapacidad\no no, pero sólo en la planta baja) ahora es posible dar la bienvenida a los \"amantes de la bicicleta\" al campo en este amplio, tranquilo y verde (+150 m2).\nUn poco más lejos, frente al alojamiento, en la intersección de la Rue des Charbonniers y la Rue du Bas Chemin, encontrará los \"nudos ciclistas n°1 & n°2\": mapa \"Vallée de la Lys & Monts de Flandre\" disponible en los sitios web www.lenordavelo.fr y www.tourisme-bethune-bruay.fr.\nLa granja Les Caperies es histórica, ya que fue reconstruida en 1925 (hospital de día en aquella época) y se encuentra junto al cementerio inglés St Vaast Post - \"Northern France Battlefields Partner\" 14-18 Centenary network, bienvenido para los aficionados a la historia (museo de Fromelles a 12 km). Además, esta gran casa rural (100 m²) cerca del centro del pueblo se encuentra en un antiguo establo renovado, contiguo a otros edificios de la granja pero sin vistas. Terreno privado, sin vallar, aparcamiento para 2 coches delante de la casa rural con un refugio cerrado para bicicletas. Casa rural 3 épis, etiqueta Gîtes de France y etiqueta Tourisme et Handicap en la planta baja. Boulodrome disponible. ¡Bienvenido a nuestra casa!"
+        ]
+      }
+    }
+  ],
+  "hasReview": [
+    {
+      "@id": "https://data.datatourisme.fr/2be01c8a-de7b-393b-b059-2d32a7089289",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:ScaleRating_3epis",
+        "schema:ratingValue": "3.0",
+        "@type": [
+          "ScaleRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "3 Ähren/Komfort"
+          ],
+          "pt": [
+            "3 espigas / conforto"
+          ],
+          "en": [
+            "3 ears of corn / Confort level"
+          ],
+          "it": [
+            "3 spighe / Comfort"
+          ],
+          "fr": [
+            "3 épis / Confort"
+          ],
+          "es": [
+            "3 espigas/Confort"
+          ],
+          "nl": [
+            "3 aren / Comfort"
+          ]
+        },
+        "isCompliantWith": [
+          "Chalet",
+          "Guesthouse",
+          "SelfCateringAccommodation"
+        ]
+      }
+    },
+    {
+      "@id": "https://data.datatourisme.fr/471547c4-3726-36a0-946f-1e33d803a097",
+      "@type": [
+        "Review"
+      ],
+      "hasReviewValue": {
+        "@id": "kb:LabelRating_AccueilVelo",
+        "@type": [
+          "LabelRating"
+        ],
+        "rdfs:label": {
+          "de": [
+            "Accueil Vélo"
+          ],
+          "pt": [
+            "Accueil Vélo"
+          ],
+          "en": [
+            "Accueil Vélo"
+          ],
+          "it": [
+            "Accueil Vélo"
+          ],
+          "fr": [
+            "Accueil Vélo"
+          ],
+          "nl": [
+            "Accueil Vélo"
+          ],
+          "es": [
+            "Accueil Vélo"
+          ]
+        },
+        "isCompliantWith": [
+          "PlaceOfInterest"
+        ]
+      },
+      "reviewDeliveryDate": "2022-12-05",
+      "reviewExpirationDate": "2025-12-05"
+    }
+  ],
+  "hasTranslatedProperty": [
+    {
+      "@id": "https://data.datatourisme.fr/08727531-9853-3357-85bb-626ae5c52cb9",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "nl"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/0ace9da9-525d-3265-834b-c2d9d90ad030",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "it"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/11c7db92-2b6e-362c-89e5-464eaac1b7cb",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "de"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/dc796eec-a2c6-326e-b61c-362c49030ce3",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "en"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    },
+    {
+      "@id": "https://data.datatourisme.fr/f898535d-44d0-375d-b56f-77553b771433",
+      "dc:contributor": [
+        "https://api.deepl.com/v2/translate"
+      ],
+      "rdf:language": [
+        "es"
+      ],
+      "rdf:predicate": [
+        {
+          "@id": "rdfs:comment"
+        }
+      ]
+    }
+  ],
+  "isLocatedAt": [
+    {
+      "@id": "https://data.datatourisme.fr/ff9f24be-b615-3333-8ddb-f9491fdc50e3",
+      "schema:address": [
+        {
+          "@id": "https://data.datatourisme.fr/9fdd21be-05a1-33b4-8760-789243b0adf8",
+          "schema:addressLocality": "Richebourg",
+          "schema:postalCode": "62136",
+          "schema:streetAddress": [
+            "106 rue des Charbonniers"
+          ],
+          "@type": [
+            "schema:PostalAddress",
+            "PostalAddress"
+          ],
+          "hasAddressCity": {
+            "@id": "kb:62706",
+            "@type": [
+              "City"
+            ],
+            "rdfs:label": {
+              "de": [
+                "Richebourg"
+              ],
+              "pt": [
+                "Richebourg"
+              ],
+              "en": [
+                "Richebourg"
+              ],
+              "it": [
+                "Richebourg"
+              ],
+              "fr": [
+                "Richebourg"
+              ],
+              "nl": [
+                "Richebourg"
+              ],
+              "es": [
+                "Richebourg"
+              ]
+            },
+            "insee": "62706",
+            "isPartOfDepartment": {
+              "@id": "kb:France3262",
+              "@type": [
+                "Department"
+              ],
+              "rdfs:label": {
+                "de": [
+                  "Pas-de-Calais"
+                ],
+                "pt": [
+                  "Pas-de-Calais"
+                ],
+                "en": [
+                  "Pas-de-Calais"
+                ],
+                "it": [
+                  "Pas-de-Calais"
+                ],
+                "fr": [
+                  "Pas-de-Calais"
+                ],
+                "nl": [
+                  "Pas-de-Calais"
+                ],
+                "es": [
+                  "Pas-de-Calais"
+                ]
+              },
+              "insee": "62",
+              "isPartOfRegion": {
+                "@id": "kb:France32",
+                "@type": [
+                  "Region"
+                ],
+                "rdfs:label": {
+                  "de": [
+                    "Hauts-de-France"
+                  ],
+                  "pt": [
+                    "Hauts-de-France"
+                  ],
+                  "en": [
+                    "Hauts-de-France"
+                  ],
+                  "it": [
+                    "Hauts-de-France"
+                  ],
+                  "fr": [
+                    "Hauts-de-France"
+                  ],
+                  "nl": [
+                    "Hauts-de-France"
+                  ],
+                  "es": [
+                    "Hauts-de-France"
+                  ]
+                },
+                "insee": "32",
+                "isPartOfCountry": {
+                  "@id": "kb:France",
+                  "@type": [
+                    "schema:Country"
+                  ],
+                  "rdfs:label": {
+                    "de": [
+                      "France",
+                      "Frankreich"
+                    ],
+                    "pt": [
+                      "França",
+                      "France"
+                    ],
+                    "en": [
+                      "France"
+                    ],
+                    "it": [
+                      "France",
+                      "Francia"
+                    ],
+                    "fr": [
+                      "France"
+                    ],
+                    "nl": [
+                      "France",
+                      "Frankrijk"
+                    ],
+                    "es": [
+                      "France",
+                      "Francia"
+                    ]
+                  }
+                }
+              }
+            }
+          }
+        }
+      ],
+      "schema:geo": {
+        "@id": "https://data.datatourisme.fr/66ff6bd7-72e2-3b76-94e2-b6b185e1098d",
+        "schema:latitude": "50.583964",
+        "schema:longitude": "2.749668",
+        "@type": [
+          "schema:GeoCoordinates"
+        ]
+      },
+      "@type": [
+        "schema:Place",
+        "Place"
+      ]
+    }
+  ],
+  "lastUpdate": "2023-03-06",
+  "lastUpdateDatatourisme": "2023-06-16T13:55:02.362Z"
+}
